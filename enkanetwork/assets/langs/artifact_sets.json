@@ -13,7 +13,8 @@
         "PT": "Resolução de Sojourner",
         "RU": "Решимость временщика",
         "TH": "Resolution of Sojourner",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Resolution of Sojourner",
         "TH_2": "Resolution of Sojourner",
         "TR": "Yolcunun Azmi",
         "VI": "Trái Tim Hành Giả"
@@ -32,7 +33,8 @@
         "PT": "Coração Valente",
         "RU": "Душа храбреца",
         "TH": "Brave Heart",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Brave Heart",
         "TH_2": "Brave Heart",
         "TR": "Cesur Yürek",
         "VI": "Trái Tim Dũng Sĩ"
@@ -51,7 +53,8 @@
         "PT": "Guardião",
         "RU": "Воля защитника",
         "TH": "Defender's Will",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Defender's Will",
         "TH_2": "Defender's Will",
         "TR": "Savunmacı İradesi",
         "VI": "Trái Tim Thủ Hộ"
@@ -70,7 +73,8 @@
         "PT": "Pequeno Milagre",
         "RU": "Маленькое чудо",
         "TH": "Tiny Miracle",
-        "TH_1": "Tiny Miracle",
+        "TH_0": "Tiny Miracle",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Küçük Mucize",
         "VI": "Kỳ Tích"
@@ -89,7 +93,8 @@
         "PT": "Pequeno Milagre",
         "RU": "Маленькое чудо",
         "TH": "Tiny Miracle",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Tiny Miracle",
         "TH_2": "Tiny Miracle",
         "TR": "Küçük Mucize",
         "VI": "Kỳ Tích"
@@ -108,7 +113,8 @@
         "PT": "Berserker",
         "RU": "Берсерк",
         "TH": "Berserker",
-        "TH_1": "Berserker",
+        "TH_0": "Berserker",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Vahşi Savaşçı",
         "VI": "Cuồng Chiến"
@@ -127,7 +133,8 @@
         "PT": "Artista Marcial",
         "RU": "Воин",
         "TH": "Martial Artist",
-        "TH_1": "Martial Artist",
+        "TH_0": "Martial Artist",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Dövüş Ustası",
         "VI": "Võ Nhân"
@@ -146,7 +153,8 @@
         "PT": "Artista Marcial",
         "RU": "Воин",
         "TH": "Martial Artist",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Martial Artist",
         "TH_2": "Martial Artist",
         "TR": "Dövüş Ustası",
         "VI": "Võ Nhân"
@@ -165,7 +173,8 @@
         "PT": "Instrutor",
         "RU": "Инструктор",
         "TH": "Instructor",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Instructor",
         "TH_2": "Instructor",
         "TR": "Eğitmen",
         "VI": "Giáo Quan"
@@ -184,7 +193,8 @@
         "PT": "Apostador",
         "RU": "Азартный игрок",
         "TH": "Gambler",
-        "TH_1": "Gambler",
+        "TH_0": "Gambler",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Kumarbaz",
         "VI": "Con Bạc"
@@ -203,7 +213,8 @@
         "PT": "Apostador",
         "RU": "Азартный игрок",
         "TH": "Gambler",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Gambler",
         "TH_2": "Gambler",
         "TR": "Kumarbaz",
         "VI": "Con Bạc"
@@ -222,7 +233,8 @@
         "PT": "O Exilado",
         "RU": "Изгнанник",
         "TH": "The Exile",
-        "TH_1": "The Exile",
+        "TH_0": "The Exile",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Sürgün",
         "VI": "Kẻ Lưu Đày"
@@ -241,7 +253,8 @@
         "PT": "Aventureiro",
         "RU": "Искатель приключений",
         "TH": "Adventurer",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Adventurer",
         "TH_2": "Adventurer",
         "TR": "Maceracı",
         "VI": "Nhà Mạo Hiểm"
@@ -260,7 +273,8 @@
         "PT": "O Sortudo",
         "RU": "Везунчик",
         "TH": "Lucky Dog",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Lucky Dog",
         "TH_2": "Lucky Dog",
         "TR": "Bahtı Açık",
         "VI": "Vật May Mắn"
@@ -279,7 +293,8 @@
         "PT": "O Estudioso",
         "RU": "Учёный",
         "TH": "Scholar",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Scholar",
         "TH_2": "Scholar",
         "TR": "Alim",
         "VI": "Học Sĩ"
@@ -298,7 +313,8 @@
         "PT": "O Doutor viajante",
         "RU": "Целитель",
         "TH": "Traveling Doctor",
-        "TH_1": "Traveling Doctor",
+        "TH_0": "Traveling Doctor",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Gezgin Doktor",
         "VI": "Thầy Thuốc"
@@ -317,7 +333,8 @@
         "PT": "Herói Invernal",
         "RU": "Заблудший в метели",
         "TH": "Blizzard Strayer",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Blizzard Strayer",
         "TH_2": "Blizzard Strayer",
         "TR": "Kış Gezgini",
         "VI": "Dũng Sĩ Trong Băng Giá"
@@ -336,7 +353,8 @@
         "PT": "Lançador de Trovões",
         "RU": "Усмиряющий гром",
         "TH": "Thundersoother",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Thundersoother",
         "TH_2": "Thundersoother",
         "TR": "Yıldırım Terbiyecisi",
         "VI": "Tôn Giả Trầm Lặng"
@@ -355,7 +373,8 @@
         "PT": "Atravessador do Fogo",
         "RU": "Ступающий по лаве",
         "TH": "Lavawalker",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Lavawalker",
         "TH_2": "Lavawalker",
         "TR": "Lavdagezen",
         "VI": "Hiền Nhân Bốc Lửa"
@@ -374,7 +393,8 @@
         "PT": "Donzela Amada",
         "RU": "Возлюбленная юная дева",
         "TH": "Maiden Beloved",
-        "TH_1": "Maiden Beloved",
+        "TH_0": "Maiden Beloved",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Hanımın Sevdiceği",
         "VI": "Thiếu Nữ Đáng Yêu"
@@ -393,7 +413,8 @@
         "PT": "Último Juramento do Gladiador",
         "RU": "Конец гладиатора",
         "TH": "Gladiator's Finale",
-        "TH_1": "Gladiator's Finale",
+        "TH_0": "Gladiator's Finale",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Gladyatörün Son Yemini",
         "VI": "Lễ Bế Mạc Của Giác Đấu Sĩ"
@@ -412,7 +433,8 @@
         "PT": "Sombra Verde",
         "RU": "Изумрудная тень",
         "TH": "Viridescent Venerer",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Viridescent Venerer",
         "TH_2": "Viridescent Venerer",
         "TR": "Yeşil Gölge",
         "VI": "Bóng Hình Màu Xanh"
@@ -431,7 +453,8 @@
         "PT": "Trupe Itinerante",
         "RU": "Странствующий ансамбль",
         "TH": "Wanderer's Troupe",
-        "TH_1": "Wanderer's Troupe",
+        "TH_0": "Wanderer's Troupe",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Göçebe Kumpanyası",
         "VI": "Đoàn Hát Lang Thang Đại Lục"
@@ -450,7 +473,8 @@
         "PT": "Rios de Gelo e Areia de Neve",
         "RU": "Снег и лёд",
         "TH": "Glacier and Snowfield",
-        "TH_1": "Glacier and Snowfield",
+        "TH_0": "Glacier and Snowfield",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Buzul ve Kar",
         "VI": "Băng Xuyên Tuyết Sa"
@@ -469,7 +493,8 @@
         "PT": "Trovão Furioso",
         "RU": "Громогласный рёв ярости",
         "TH": "Thundering Fury",
-        "TH_1": "Thundering Fury",
+        "TH_0": "Thundering Fury",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Yıldırım Öfkesi",
         "VI": "Như Sấm Thịnh Nộ"
@@ -488,7 +513,8 @@
         "PT": "A Bruxa das Chamas Carmesim",
         "RU": "Горящая алая ведьма",
         "TH": "Crimson Witch of Flames",
-        "TH_1": "Crimson Witch of Flames",
+        "TH_0": "Crimson Witch of Flames",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Kızıl Alev Cadısı",
         "VI": "Diệm Liệt Ma Nữ Cháy Rực"
@@ -507,7 +533,8 @@
         "PT": "Antigo Ritual Real",
         "RU": "Церемония древней знати",
         "TH": "Noblesse Oblige",
-        "TH_1": "Noblesse Oblige",
+        "TH_0": "Noblesse Oblige",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Asil Minnettarlık",
         "VI": "Nghi Thức Tông Thất Cổ"
@@ -526,7 +553,8 @@
         "PT": "Antigo Ritual Real",
         "RU": "Церемония древней знати",
         "TH": "Noblesse Oblige",
-        "TH_1": "Noblesse Oblige",
+        "TH_0": "Noblesse Oblige",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Asil Minnettarlık",
         "VI": "Nghi Thức Tông Thất Cổ"
@@ -545,7 +573,8 @@
         "PT": "Cavaleiro Manchado de Sangue",
         "RU": "Рыцарь крови",
         "TH": "Bloodstained Chivalry",
-        "TH_1": "Bloodstained Chivalry",
+        "TH_0": "Bloodstained Chivalry",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Kanlı Şövalyelik",
         "VI": "Kỵ Sĩ Đạo Nhuốm Máu"
@@ -564,7 +593,8 @@
         "PT": "Xamã do Ritual Pyro",
         "RU": "Шаман огня",
         "TH": "Prayers for Illumination",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Prayers for Illumination",
         "TH_2": "Prayers for Illumination",
         "TR": "Aydınlanma Duası",
         "VI": "Người Tế Hỏa"
@@ -583,7 +613,8 @@
         "PT": "Orações para o Destino",
         "RU": "Шаман воды",
         "TH": "Prayers for Destiny",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Prayers for Destiny",
         "TH_2": "Prayers for Destiny",
         "TR": "Kader Duası",
         "VI": "Người Tế Thủy"
@@ -602,7 +633,8 @@
         "PT": "Xamã do Ritual Electro",
         "RU": "Шаман молнии",
         "TH": "Prayers for Wisdom",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Prayers for Wisdom",
         "TH_2": "Prayers for Wisdom",
         "TR": "Bilgelik Duası",
         "VI": "Người Tế Lôi"
@@ -621,7 +653,8 @@
         "PT": "Xamã do Ritual Anemo",
         "RU": "Шаман ветра",
         "TH": "Prayers to the Firmament",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Prayers to the Firmament",
         "TH_2": "Prayers to the Firmament",
         "TR": "Gökkubbe Duası",
         "VI": "Người Tế Phong"
@@ -640,7 +673,8 @@
         "PT": "Orações para a Primavera",
         "RU": "Шаман льда",
         "TH": "Prayers to Springtime",
-        "TH_1": "Prayers to Springtime",
+        "TH_0": "Prayers to Springtime",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Bahar Duası",
         "VI": "Người Tế Băng"
@@ -659,7 +693,8 @@
         "PT": "Pedra Arcaica",
         "RU": "Архаичный камень",
         "TH": "Archaic Petra",
-        "TH_1": "Archaic Petra",
+        "TH_0": "Archaic Petra",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Arkaik Taşlar",
         "VI": "Phiến Đá Lâu Đời"
@@ -678,7 +713,8 @@
         "PT": "Meteoro Invertido",
         "RU": "Встречная комета",
         "TH": "Retracing Bolide",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Retracing Bolide",
         "TH_2": "Retracing Bolide",
         "TR": "Geri Dönen Göktaşı",
         "VI": "Sao Băng Bay Ngược"
@@ -697,7 +733,8 @@
         "PT": "Profundezas do Coração",
         "RU": "Сердце глубин",
         "TH": "Heart of Depth",
-        "TH_1": "Heart of Depth",
+        "TH_0": "Heart of Depth",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Derinliğin Kalbi",
         "VI": "Trái Tim Trầm Luân"
@@ -716,7 +753,8 @@
         "PT": "Millelith Firmes",
         "RU": "Стойкость Миллелита",
         "TH": "Tenacity of the Millelith",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Tenacity of the Millelith",
         "TH_2": "Tenacity of the Millelith",
         "TR": "Taşordu'nun Azmi",
         "VI": "Thiên Nham Vững Chắc"
@@ -735,7 +773,8 @@
         "PT": "Chama Pálida",
         "RU": "Бледный огонь",
         "TH": "Pale Flame",
-        "TH_1": "Pale Flame",
+        "TH_0": "Pale Flame",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Sönük Alev",
         "VI": "Lửa Trắng Xám"
@@ -754,7 +793,8 @@
         "PT": "Reminiscência Nostálgica",
         "RU": "Воспоминания Симэнавы",
         "TH": "Shimenawa's Reminiscence",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Shimenawa's Reminiscence",
         "TH_2": "Shimenawa's Reminiscence",
         "TR": "Shimenawa'nın Hatırası",
         "VI": "Dòng Hồi Ức Bất Tận"
@@ -773,7 +813,8 @@
         "PT": "Selo da Insulação",
         "RU": "Эмблема рассечённой судьбы",
         "TH": "Emblem of Severed Fate",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Emblem of Severed Fate",
         "TH_2": "Emblem of Severed Fate",
         "TR": "Parçalanan Kader Amblemi",
         "VI": "Dấu Ấn Ngăn Cách"
@@ -792,7 +833,8 @@
         "PT": "Casca de Sonhos Opulentos",
         "RU": "Кокон сладких грёз",
         "TH": "Husk of Opulent Dreams",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Husk of Opulent Dreams",
         "TH_2": "Husk of Opulent Dreams",
         "TR": "Bereketli Rüyaların Hatıraları",
         "VI": "Giấc Mộng Phù Hoa"
@@ -811,7 +853,8 @@
         "PT": "Concha Tingida Pelo Mar",
         "RU": "Моллюск морских красок",
         "TH": "Ocean-Hued Clam",
-        "TH_1": "Ocean-Hued Clam",
+        "TH_0": "Ocean-Hued Clam",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Okyanus Renkli İstiridye",
         "VI": "Xà Cừ Đại Dương"
@@ -830,7 +873,8 @@
         "PT": "Além-vida Cinábrio",
         "RU": "Киноварное загробье",
         "TH": "Vermillion Hereafter",
-        "TH_1": "Vermillion Hereafter",
+        "TH_0": "Vermillion Hereafter",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Öbür Dünya Zincifresi",
         "VI": "Thần Sa Vãng Sinh Lục"
@@ -849,7 +893,8 @@
         "PT": "Eco do Sacrifício",
         "RU": "Отголоски подношения",
         "TH": "Echoes of an Offering",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Echoes of an Offering",
         "TH_2": "Echoes of an Offering",
         "TR": "Adağın Yankısı",
         "VI": "Dư Âm Tế Lễ"
@@ -868,7 +913,8 @@
         "PT": "Memórias da Floresta",
         "RU": "Воспоминания дремучего леса",
         "TH": "Deepwood Memories",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Deepwood Memories",
         "TH_2": "Deepwood Memories",
         "TR": "Derin Orman Hatıraları",
         "VI": "Ký Ức Rừng Sâu"
@@ -887,7 +933,8 @@
         "PT": "Sonhos Dourados",
         "RU": "Позолоченные сны",
         "TH": "Gilded Dreams",
-        "TH_1": "Gilded Dreams",
+        "TH_0": "Gilded Dreams",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Yaldızlı Rüyalar",
         "VI": "Giấc Mộng Hoàng Kim"
@@ -906,7 +953,8 @@
         "PT": "Crônicas do Pavilhão do Deserto",
         "RU": "Хроники Чертогов в пустыне",
         "TH": "Desert Pavilion Chronicle",
-        "TH_1": "Desert Pavilion Chronicle",
+        "TH_0": "Desert Pavilion Chronicle",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Çöl Konağı Günlükleri",
         "VI": "Sử Ký Đình Đài Cát"
@@ -925,7 +973,8 @@
         "PT": "Flor do Paraíso Perdido",
         "RU": "Цветок потерянного рая",
         "TH": "Flower of Paradise Lost",
-        "TH_1": "Flower of Paradise Lost",
+        "TH_0": "Flower of Paradise Lost",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Kayıp Cennet Çiçeği",
         "VI": "Đóa Hoa Trang Viên Thất Lạc"
@@ -944,7 +993,8 @@
         "PT": "Sonho da Ninfa",
         "RU": "Сон нимфы",
         "TH": "Nymph's Dream",
-        "TH_1": "Nymph's Dream",
+        "TH_0": "Nymph's Dream",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Nergisin Rüyası",
         "VI": "Giấc Mộng Thủy Tiên"
@@ -963,7 +1013,8 @@
         "PT": "Brilho Vourukasha",
         "RU": "Сияние Вурукаши",
         "TH": "Vourukasha's Glow",
-        "TH_1": "Vourukasha's Glow",
+        "TH_0": "Vourukasha's Glow",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Vourukasha'nın Parıltısı",
         "VI": "Vầng Sáng Vourukasha"
@@ -982,7 +1033,8 @@
         "PT": "Caçador das Sombras",
         "RU": "Охотник Сумеречного двора",
         "TH": "Marechaussee Hunter",
-        "TH_1": "Marechaussee Hunter",
+        "TH_0": "Marechaussee Hunter",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Mareşose Avcısı",
         "VI": "Thợ Săn Marechaussee"
@@ -1001,7 +1053,8 @@
         "PT": "Caçador das Sombras",
         "RU": "Охотник Сумеречного двора",
         "TH": "Marechaussee Hunter",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Marechaussee Hunter",
         "TH_2": "Marechaussee Hunter",
         "TR": "Mareşose Avcısı",
         "VI": "Thợ Săn Marechaussee"
@@ -1020,7 +1073,8 @@
         "PT": "Trupe Dourada",
         "RU": "Золотая труппа",
         "TH": "Golden Troupe",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Golden Troupe",
         "TH_2": "Golden Troupe",
         "TR": "Altın Kumpanya",
         "VI": "Đoàn Kịch Hoàng Kim"
@@ -1039,7 +1093,8 @@
         "PT": "Trupe Dourada",
         "RU": "Золотая труппа",
         "TH": "Golden Troupe",
-        "TH_1": "Golden Troupe",
+        "TH_0": "Golden Troupe",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Altın Kumpanya",
         "VI": "Đoàn Kịch Hoàng Kim"
@@ -1058,7 +1113,8 @@
         "PT": "Canção do Passado",
         "RU": "Песнь былых времён",
         "TH": "Song of Days Past",
-        "TH_1": "Song of Days Past",
+        "TH_0": "Song of Days Past",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Geçmiş Günlerin Şarkısı",
         "VI": "Khúc Ca Ngày Cũ"
@@ -1077,7 +1133,8 @@
         "PT": "Ecos da Floresta Noturna",
         "RU": "Ночной шёпот в Лесу откликающегося эха",
         "TH": "Nighttime Whispers in the Echoing Woods",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Nighttime Whispers in the Echoing Woods",
         "TH_2": "Nighttime Whispers in the Echoing Woods",
         "TR": "Yankılı Ormanda Gece Fısıltısı",
         "VI": "Tiếng Đêm Trong Rừng Vang"
@@ -1096,7 +1153,8 @@
         "PT": "Fragmento da Harmonia Fantástica",
         "RU": "Фрагмент гармонической фантазии",
         "TH": "Fragment of Harmonic Whimsy",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Fragment of Harmonic Whimsy",
         "TH_2": "Fragment of Harmonic Whimsy",
         "TR": "Armonik İlham Parçası",
         "VI": "Mảnh Hài Hòa Bất Thường"
@@ -1115,7 +1173,8 @@
         "PT": "Reminiscência Incompleta",
         "RU": "Незаконченные грёзы",
         "TH": "Unfinished Reverie",
-        "TH_1": "Unfinished Reverie",
+        "TH_0": "Unfinished Reverie",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Yarım Kalan Rüya",
         "VI": "Ảo Mộng Chưa Hoàn Thành"
@@ -1134,7 +1193,8 @@
         "PT": "Pergaminho do Herói da Cidade Incandescente",
         "RU": "Свиток героя сожжённого города",
         "TH": "Scroll of the Hero of Cinder City",
-        "TH_1": "Scroll of the Hero of Cinder City",
+        "TH_0": "Scroll of the Hero of Cinder City",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Kül Şehir'in Kahramanının Parşömeni",
         "VI": "Bức Tranh Dũng Sĩ Thành Tro Tàn"
@@ -1153,7 +1213,8 @@
         "PT": "Pergaminho do Herói da Cidade Incandescente",
         "RU": "Свиток героя сожжённого города",
         "TH": "Scroll of the Hero of Cinder City",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Scroll of the Hero of Cinder City",
         "TH_2": "Scroll of the Hero of Cinder City",
         "TR": "Kül Şehir'in Kahramanının Parşömeni",
         "VI": "Bức Tranh Dũng Sĩ Thành Tro Tàn"
@@ -1172,7 +1233,8 @@
         "PT": "Códice de Obsidiana",
         "RU": "Обсидиановый фолиант",
         "TH": "Obsidian Codex",
-        "TH_1": "Obsidian Codex",
+        "TH_0": "Obsidian Codex",
+        "TH_1": "",
         "TH_2": "",
         "TR": "Obsidiyen Kodeks",
         "VI": "Bí Điển Obsidian"
@@ -1191,7 +1253,8 @@
         "PT": "Códice de Obsidiana",
         "RU": "Обсидиановый фолиант",
         "TH": "Obsidian Codex",
-        "TH_1": "",
+        "TH_0": "",
+        "TH_1": "Obsidian Codex",
         "TH_2": "Obsidian Codex",
         "TR": "Obsidiyen Kodeks",
         "VI": "Bí Điển Obsidian"

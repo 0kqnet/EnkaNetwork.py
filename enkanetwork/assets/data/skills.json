@@ -2299,6 +2299,36 @@
         "skillIcon": "Skill_E_Lanyan_01",
         "proudSkillGroupId": 10839
     },
+    "11091": {
+        "nameTextMapHash": 2187131877,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 10931
+    },
+    "11092": {
+        "nameTextMapHash": 477826669,
+        "skillIcon": "Skill_S_Mizuki_01",
+        "proudSkillGroupId": 10932
+    },
+    "11093": {
+        "nameTextMapHash": 3283827149,
+        "skillIcon": "Skill_S_Mizuki_02",
+        "proudSkillGroupId": ""
+    },
+    "11094": {
+        "nameTextMapHash": 3946945869,
+        "skillIcon": "Skill_S_Mizuki_03",
+        "proudSkillGroupId": ""
+    },
+    "11096": {
+        "nameTextMapHash": 576585125,
+        "skillIcon": "Skill_S_Mizuki_03",
+        "proudSkillGroupId": ""
+    },
+    "11095": {
+        "nameTextMapHash": 61788325,
+        "skillIcon": "Skill_E_Mizuki_01",
+        "proudSkillGroupId": 10939
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3054,6 +3084,16 @@
         "skillIcon": "Btn_Blocking_Burst03",
         "proudSkillGroupId": ""
     },
+    "20324": {
+        "nameTextMapHash": 3507642365,
+        "skillIcon": "Btn_Blocking",
+        "proudSkillGroupId": ""
+    },
+    "20325": {
+        "nameTextMapHash": 692330325,
+        "skillIcon": "Btn_Blocking_Burst04",
+        "proudSkillGroupId": ""
+    },
     "20330": {
         "nameTextMapHash": 1226553101,
         "skillIcon": "Btn_Arana_Shoot",
@@ -3142,6 +3182,31 @@
     "20368": {
         "nameTextMapHash": 3016949661,
         "skillIcon": "Btn_SpecialFocusAttack01",
+        "proudSkillGroupId": ""
+    },
+    "20370": {
+        "nameTextMapHash": 2151770221,
+        "skillIcon": "Btn_MikawaFlower_Badminton_Racket",
+        "proudSkillGroupId": ""
+    },
+    "20371": {
+        "nameTextMapHash": 2637703269,
+        "skillIcon": "Btn_MikawaFlower_Badminton_Ult",
+        "proudSkillGroupId": ""
+    },
+    "20372": {
+        "nameTextMapHash": 1597421109,
+        "skillIcon": "Btn_BounceConjuring_Bomb_S_01",
+        "proudSkillGroupId": ""
+    },
+    "20373": {
+        "nameTextMapHash": 1223919101,
+        "skillIcon": "Skill_PoetryFestival_PitchPot_Icon01",
+        "proudSkillGroupId": ""
+    },
+    "20374": {
+        "nameTextMapHash": 2300637645,
+        "skillIcon": "Btn_FishingJoy_CatchFish_04",
         "proudSkillGroupId": ""
     },
     "10384": {
@@ -3771,6 +3836,11 @@
     },
     "5108010": {
         "nameTextMapHash": 3111177309,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": ""
+    },
+    "5109010": {
+        "nameTextMapHash": 3398462341,
         "skillIcon": "Skill_A_Catalyst_MD",
         "proudSkillGroupId": ""
     }

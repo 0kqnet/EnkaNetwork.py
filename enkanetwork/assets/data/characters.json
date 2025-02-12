@@ -2161,6 +2161,26 @@
             1086
         ]
     },
+    "10000109": {
+        "nameTextMapHash": 3784387538,
+        "iconName": "UI_AvatarIcon_Mizuki",
+        "sideIconName": "UI_AvatarIcon_Side_Mizuki",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            11091,
+            11092,
+            11095
+        ],
+        "talents": [
+            1091,
+            1092,
+            1093,
+            1094,
+            1095,
+            1096
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",
