@@ -1482,12 +1482,12 @@
     "969001": {
         "propType": "FIGHT_PROP_DEFENSE",
         "propDigit": "DIGIT",
-        "propValue": -500
+        "propValue": 0
     },
     "968001": {
         "propType": "FIGHT_PROP_ELEMENT_MASTERY",
         "propDigit": "DIGIT",
-        "propValue": -300
+        "propValue": 0
     },
     "967001": {
         "propType": "FIGHT_PROP_CRITICAL",

@@ -1103,6 +1103,12 @@
         "awakenIcon": "UI_EquipIcon_Catalyst_SakuraFan_Awaken",
         "rankLevel": 5
     },
+    "14519": {
+        "nameTextMapHash": 2559426851,
+        "icon": "UI_EquipIcon_Catalyst_VaresaTransformer",
+        "awakenIcon": "UI_EquipIcon_Catalyst_VaresaTransformer_Awaken",
+        "rankLevel": 5
+    },
     "15101": {
         "nameTextMapHash": 3600623979,
         "icon": "UI_EquipIcon_Bow_Hunters",

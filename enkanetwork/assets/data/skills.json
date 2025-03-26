@@ -2329,6 +2329,81 @@
         "skillIcon": "Skill_E_Mizuki_01",
         "proudSkillGroupId": 10939
     },
+    "11101": {
+        "nameTextMapHash": 622065069,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 11031
+    },
+    "11102": {
+        "nameTextMapHash": 1283395933,
+        "skillIcon": "Skill_S_Iansan_01",
+        "proudSkillGroupId": 11032
+    },
+    "11103": {
+        "nameTextMapHash": 3504960925,
+        "skillIcon": "Skill_S_Iansan_01",
+        "proudSkillGroupId": ""
+    },
+    "11104": {
+        "nameTextMapHash": 3948833789,
+        "skillIcon": "Skill_S_Iansan_02",
+        "proudSkillGroupId": ""
+    },
+    "11105": {
+        "nameTextMapHash": 1618656357,
+        "skillIcon": "Skill_E_Iansan_01",
+        "proudSkillGroupId": 11039
+    },
+    "11106": {
+        "nameTextMapHash": 3518010109,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": ""
+    },
+    "11107": {
+        "nameTextMapHash": 4172701821,
+        "skillIcon": "Skill_S_Iansan_03",
+        "proudSkillGroupId": ""
+    },
+    "11108": {
+        "nameTextMapHash": 507264525,
+        "skillIcon": "Skill_S_Iansan_04",
+        "proudSkillGroupId": ""
+    },
+    "11111": {
+        "nameTextMapHash": 2845699173,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 11131
+    },
+    "11112": {
+        "nameTextMapHash": 3483880861,
+        "skillIcon": "Skill_S_Varesa_01",
+        "proudSkillGroupId": 11132
+    },
+    "11115": {
+        "nameTextMapHash": 3751137453,
+        "skillIcon": "Skill_E_Varesa_01",
+        "proudSkillGroupId": 11139
+    },
+    "11116": {
+        "nameTextMapHash": 1590892533,
+        "skillIcon": "Skill_E_Varesa_01",
+        "proudSkillGroupId": ""
+    },
+    "11117": {
+        "nameTextMapHash": 1690545613,
+        "skillIcon": "Skill_S_Varesa_02",
+        "proudSkillGroupId": ""
+    },
+    "11118": {
+        "nameTextMapHash": 2441544661,
+        "skillIcon": "Skill_S_Varesa_01",
+        "proudSkillGroupId": ""
+    },
+    "11119": {
+        "nameTextMapHash": 272134381,
+        "skillIcon": "Skill_S_Varesa_01",
+        "proudSkillGroupId": ""
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3024,6 +3099,26 @@
         "skillIcon": "Btn_HideAndSeekV4_Seeker_A_01",
         "proudSkillGroupId": ""
     },
+    "20565": {
+        "nameTextMapHash": 1447309893,
+        "skillIcon": "Skill_CarpJump_01",
+        "proudSkillGroupId": ""
+    },
+    "20566": {
+        "nameTextMapHash": 1376838525,
+        "skillIcon": "Btn_Fishing_Exit",
+        "proudSkillGroupId": ""
+    },
+    "20567": {
+        "nameTextMapHash": 3416458741,
+        "skillIcon": "Btn_Fishing_Exit",
+        "proudSkillGroupId": ""
+    },
+    "20568": {
+        "nameTextMapHash": 3666474037,
+        "skillIcon": "Btn_Fishing_Exit",
+        "proudSkillGroupId": ""
+    },
     "20569": {
         "nameTextMapHash": 2957024869,
         "skillIcon": "UI_Icon_Skill_ColoringSpirit",
@@ -3106,7 +3201,7 @@
     },
     "20340": {
         "nameTextMapHash": 3940661125,
-        "skillIcon": "Btn_BrickBreaker_Launch",
+        "skillIcon": "Btn_BrickBreakerV2_Launch",
         "proudSkillGroupId": ""
     },
     "20341": {
@@ -3841,6 +3936,16 @@
     },
     "5109010": {
         "nameTextMapHash": 3398462341,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": ""
+    },
+    "5110010": {
+        "nameTextMapHash": 3255825741,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": ""
+    },
+    "5111010": {
+        "nameTextMapHash": 2053063149,
         "skillIcon": "Skill_A_Catalyst_MD",
         "proudSkillGroupId": ""
     }
