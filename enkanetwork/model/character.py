@@ -166,6 +166,12 @@ class CharacterInfo(BaseModel):
         if _name is None:
             return
 
+        # Remove Trial message
+        if _name.endswith(")") or _name.endswith("）"):
+            import re
+            _name = re.sub(r"\(.*?\)|（.*?）", "", _name)
+            _name = _name.strip()
+
         # Get name from hash map
         self.name = _name
 
