@@ -482,10 +482,10 @@
         ]
     },
     "10000023": {
-        "nameTextMapHash": 3293134650,
-        "iconName": "UI_AvatarIcon_Mavuika",
-        "sideIconName": "UI_AvatarIcon_Side_Mavuika",
-        "qualityType": "QUALITY_ORANGE",
+        "nameTextMapHash": 1130996346,
+        "iconName": "UI_AvatarIcon_Xiangling",
+        "sideIconName": "UI_AvatarIcon_Side_Xiangling",
+        "qualityType": "QUALITY_PURPLE",
         "costElemType": "Fire",
         "skills": [
             10231,
