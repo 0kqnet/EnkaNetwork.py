@@ -821,6 +821,12 @@
         "awakenIcon": "UI_EquipIcon_Pole_Muguet_Awaken",
         "rankLevel": 5
     },
+    "13514": {
+        "nameTextMapHash": 518077587,
+        "icon": "UI_EquipIcon_Pole_Trident",
+        "awakenIcon": "UI_EquipIcon_Pole_Trident_Awaken",
+        "rankLevel": 5
+    },
     "14101": {
         "nameTextMapHash": 3584825427,
         "icon": "UI_EquipIcon_Catalyst_Apprentice",
@@ -1305,6 +1311,12 @@
         "nameTextMapHash": 565052971,
         "icon": "UI_EquipIcon_Bow_Isikhulu",
         "awakenIcon": "UI_EquipIcon_Bow_Isikhulu_Awaken",
+        "rankLevel": 4
+    },
+    "15432": {
+        "nameTextMapHash": 2846112523,
+        "icon": "UI_EquipIcon_Bow_Stinger",
+        "awakenIcon": "UI_EquipIcon_Bow_Stinger_Awaken",
         "rankLevel": 4
     },
     "15501": {

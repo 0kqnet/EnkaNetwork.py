@@ -902,7 +902,7 @@
         ]
     },
     "10000046": {
-        "nameTextMapHash": 853394138,
+        "nameTextMapHash": 1940919994,
         "iconName": "UI_AvatarIcon_Hutao",
         "sideIconName": "UI_AvatarIcon_Side_Hutao",
         "qualityType": "QUALITY_ORANGE",
@@ -2221,13 +2221,84 @@
             1116
         ]
     },
-    "10000001": {
-        "nameTextMapHash": 1272638962,
-        "iconName": "UI_AvatarIcon_PlayerBoy",
-        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+    "10000112": {
+        "nameTextMapHash": 4035850498,
+        "iconName": "UI_AvatarIcon_Escoffier",
+        "sideIconName": "UI_AvatarIcon_Side_Escoffier",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Ice",
+        "skills": [
+            11121,
+            11122,
+            11125
+        ],
+        "talents": [
+            1121,
+            1122,
+            1123,
+            1124,
+            1125,
+            1126
+        ]
+    },
+    "10000113": {
+        "nameTextMapHash": 3398665018,
+        "iconName": "UI_AvatarIcon_Ifa",
+        "sideIconName": "UI_AvatarIcon_Side_Ifa",
         "qualityType": "QUALITY_PURPLE",
-        "costElemType": "",
-        "skills": [],
-        "talents": []
+        "costElemType": "Wind",
+        "skills": [
+            11131,
+            11132,
+            11135
+        ],
+        "talents": [
+            1131,
+            1132,
+            1133,
+            1134,
+            1135,
+            1136
+        ]
+    },
+    "10000901": {
+        "nameTextMapHash": 3293134650,
+        "iconName": "UI_AvatarIcon_Mavuika",
+        "sideIconName": "UI_AvatarIcon_Side_Mavuika",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            10231,
+            10232,
+            10235
+        ],
+        "talents": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
+        ]
+    },
+    "10000902": {
+        "nameTextMapHash": 853394138,
+        "iconName": "UI_AvatarIcon_Hutao",
+        "sideIconName": "UI_AvatarIcon_Side_Hutao",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            10461,
+            10462,
+            10463
+        ],
+        "talents": [
+            461,
+            462,
+            463,
+            464,
+            465,
+            466
+        ]
     }
 }
