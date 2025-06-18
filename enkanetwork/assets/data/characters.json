@@ -2261,6 +2261,46 @@
             1136
         ]
     },
+    "10000114": {
+        "nameTextMapHash": 123650890,
+        "iconName": "UI_AvatarIcon_SkirkNew",
+        "sideIconName": "UI_AvatarIcon_Side_SkirkNew",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Ice",
+        "skills": [
+            11141,
+            11142,
+            11145
+        ],
+        "talents": [
+            1141,
+            1142,
+            1143,
+            1144,
+            1145,
+            1146
+        ]
+    },
+    "10000115": {
+        "nameTextMapHash": 2332664426,
+        "iconName": "UI_AvatarIcon_Dahlia",
+        "sideIconName": "UI_AvatarIcon_Side_Dahlia",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Water",
+        "skills": [
+            11151,
+            11152,
+            11155
+        ],
+        "talents": [
+            1151,
+            1152,
+            1153,
+            1154,
+            1155,
+            1156
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",

@@ -2459,6 +2459,51 @@
         "skillIcon": "Skill_S_Ifa_01",
         "proudSkillGroupId": 0
     },
+    "11141": {
+        "nameTextMapHash": 3714723941,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 11431
+    },
+    "11142": {
+        "nameTextMapHash": 3456500781,
+        "skillIcon": "Skill_S_SkirkNew_01",
+        "proudSkillGroupId": 11432
+    },
+    "11145": {
+        "nameTextMapHash": 55552885,
+        "skillIcon": "Skill_E_SkirkNew_01",
+        "proudSkillGroupId": 11439
+    },
+    "11146": {
+        "nameTextMapHash": 2251774613,
+        "skillIcon": "Skill_S_SkirkNew_02",
+        "proudSkillGroupId": 0
+    },
+    "11147": {
+        "nameTextMapHash": 418975405,
+        "skillIcon": "Skill_E_SkirkNew_02",
+        "proudSkillGroupId": 0
+    },
+    "11151": {
+        "nameTextMapHash": 3970842309,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 11531
+    },
+    "11152": {
+        "nameTextMapHash": 142283893,
+        "skillIcon": "Skill_S_Dahlia_01",
+        "proudSkillGroupId": 11532
+    },
+    "11155": {
+        "nameTextMapHash": 2193809541,
+        "skillIcon": "Skill_E_Dahlia_01",
+        "proudSkillGroupId": 11539
+    },
+    "11156": {
+        "nameTextMapHash": 618412717,
+        "skillIcon": "Skill_E_Dahlia_01",
+        "proudSkillGroupId": 0
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -4037,6 +4082,16 @@
     "5113010": {
         "nameTextMapHash": 3705389565,
         "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 0
+    },
+    "5114010": {
+        "nameTextMapHash": 1440187477,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
+    "5115010": {
+        "nameTextMapHash": 2311517709,
+        "skillIcon": "Skill_A_01",
         "proudSkillGroupId": 0
     }
 }
