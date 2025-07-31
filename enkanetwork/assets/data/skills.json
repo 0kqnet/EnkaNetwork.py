@@ -2504,6 +2504,21 @@
         "skillIcon": "Skill_E_Dahlia_01",
         "proudSkillGroupId": 0
     },
+    "11161": {
+        "nameTextMapHash": 339948629,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 11631
+    },
+    "11162": {
+        "nameTextMapHash": 3189795181,
+        "skillIcon": "Skill_S_Ineffa_01",
+        "proudSkillGroupId": 11632
+    },
+    "11165": {
+        "nameTextMapHash": 3176867013,
+        "skillIcon": "Skill_E_Ineffa_01",
+        "proudSkillGroupId": 11639
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3379,6 +3394,11 @@
         "skillIcon": "Btn_SpecialFocusAttack01",
         "proudSkillGroupId": 0
     },
+    "20369": {
+        "nameTextMapHash": 25265005,
+        "skillIcon": "Skill_A_MediumshipBug",
+        "proudSkillGroupId": 0
+    },
     "20370": {
         "nameTextMapHash": 2151770221,
         "skillIcon": "Btn_MikawaFlower_Badminton_Racket",
@@ -3427,6 +3447,11 @@
     "20604": {
         "nameTextMapHash": 3448552405,
         "skillIcon": "Skill_SprintCircle",
+        "proudSkillGroupId": 0
+    },
+    "20612": {
+        "nameTextMapHash": 280429349,
+        "skillIcon": "Btn_Limacidae_Eskill",
         "proudSkillGroupId": 0
     },
     "10384": {
@@ -4092,6 +4117,11 @@
     "5115010": {
         "nameTextMapHash": 2311517709,
         "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
+    "5116010": {
+        "nameTextMapHash": 963033829,
+        "skillIcon": "Skill_A_03",
         "proudSkillGroupId": 0
     }
 }

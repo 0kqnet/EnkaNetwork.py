@@ -103,5 +103,15 @@
         "iconName": "UI_AvatarIcon_XianglingCostumeWinter",
         "sideIconName": "UI_AvatarIcon_Side_XianglingCostumeWinter",
         "nameTextMapHash": 3584800114
+    },
+    "206001": {
+        "iconName": "UI_AvatarIcon_YelanCostumeSummer",
+        "sideIconName": "UI_AvatarIcon_Side_YelanCostumeSummer",
+        "nameTextMapHash": 2911925882
+    },
+    "203201": {
+        "iconName": "UI_AvatarIcon_BennettCostumeSummer",
+        "sideIconName": "UI_AvatarIcon_Side_BennettCostumeSummer",
+        "nameTextMapHash": 940723026
     }
 }

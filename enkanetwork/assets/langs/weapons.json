@@ -1739,6 +1739,26 @@
         "TR": "Yersarsan",
         "VI": "Đao Chấn Động"
     },
+    "3573591875": {
+        "CHS": "拾慧铸熔",
+        "CHT": "拾慧鑄熔",
+        "DE": "Geschmiedete Weisheit",
+        "EN": "Flame-Forged Insight",
+        "ES": "Sabiduría Fraguada",
+        "FR": "Perception forgée par les flammes",
+        "ID": "Flame-Forged Insight",
+        "IT": "Intuizione pirogenita",
+        "JP": "知恵の溶炎",
+        "KR": "불로 벼린 지혜",
+        "PT": "Forja da Sabedoria",
+        "RU": "Выкованное пламенем озарение",
+        "TH": "",
+        "TH_0": "",
+        "TH_1": "Flame-Forged Insight",
+        "TH_2": "",
+        "TR": "Ateşte Dövülen Bilgelik",
+        "VI": "Trí Tuệ Dung Luyện"
+    },
     "1089950259": {
         "CHS": "天空之傲",
         "CHT": "天空之傲",
@@ -2778,6 +2798,26 @@
         "TH_2": "",
         "TR": "Aromaların Ezgisi",
         "VI": "Nhạc Sĩ Hương Thơm"
+    },
+    "2878068027": {
+        "CHS": "支离轮光",
+        "CHT": "支離輪光",
+        "DE": "Zerstreutes Licht",
+        "EN": "Fractured Halo",
+        "ES": "Halo Fracturado",
+        "FR": "Halo fracturé",
+        "ID": "Fractured Halo",
+        "IT": "Aureola frammentata",
+        "JP": "砕け散る光輪",
+        "KR": "파멸의 빛고리",
+        "PT": "Resplendor Fragmentado",
+        "RU": "Расколотый ореол",
+        "TH": "",
+        "TH_0": "",
+        "TH_1": "Fractured Halo",
+        "TH_2": "",
+        "TR": "Kırık Hale",
+        "VI": "Hào Quang Tách Rời"
     },
     "3584825427": {
         "CHS": "学徒笔记",

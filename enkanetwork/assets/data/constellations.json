@@ -2542,5 +2542,29 @@
     "1156": {
         "nameTextMapHash": 41248361,
         "icon": "UI_Talent_S_Dahlia_04"
+    },
+    "1161": {
+        "nameTextMapHash": 2792674065,
+        "icon": "UI_Talent_S_Ineffa_01"
+    },
+    "1162": {
+        "nameTextMapHash": 3292331553,
+        "icon": "UI_Talent_S_Ineffa_02"
+    },
+    "1163": {
+        "nameTextMapHash": 1658222977,
+        "icon": "UI_Talent_U_Ineffa_01"
+    },
+    "1164": {
+        "nameTextMapHash": 3299317897,
+        "icon": "UI_Talent_S_Ineffa_03"
+    },
+    "1165": {
+        "nameTextMapHash": 1316229593,
+        "icon": "UI_Talent_U_Ineffa_02"
+    },
+    "1166": {
+        "nameTextMapHash": 2510148033,
+        "icon": "UI_Talent_S_Ineffa_04"
     }
 }

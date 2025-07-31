@@ -521,6 +521,12 @@
         "awakenIcon": "UI_EquipIcon_Claymore_Isikhulu_Awaken",
         "rankLevel": 4
     },
+    "12432": {
+        "nameTextMapHash": 3573591875,
+        "icon": "UI_EquipIcon_Claymore_Polilith",
+        "awakenIcon": "UI_EquipIcon_Claymore_Polilith_Awaken",
+        "rankLevel": 4
+    },
     "12501": {
         "nameTextMapHash": 1089950259,
         "icon": "UI_EquipIcon_Claymore_Dvalin",
@@ -831,6 +837,12 @@
         "nameTextMapHash": 518077587,
         "icon": "UI_EquipIcon_Pole_Trident",
         "awakenIcon": "UI_EquipIcon_Pole_Trident_Awaken",
+        "rankLevel": 5
+    },
+    "13515": {
+        "nameTextMapHash": 2878068027,
+        "icon": "UI_EquipIcon_Pole_Perdix",
+        "awakenIcon": "UI_EquipIcon_Pole_Perdix_Awaken",
         "rankLevel": 5
     },
     "14101": {

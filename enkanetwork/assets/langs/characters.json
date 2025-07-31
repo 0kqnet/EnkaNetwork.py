@@ -2039,6 +2039,26 @@
         "TR": "Dahlia",
         "VI": "Dahlia"
     },
+    "2759230658": {
+        "CHS": "伊涅芙",
+        "CHT": "伊涅芙",
+        "DE": "Ineffa",
+        "EN": "Ineffa",
+        "ES": "Ineffa",
+        "FR": "Ineffa",
+        "ID": "Ineffa",
+        "IT": "Ineffa",
+        "JP": "イネファ",
+        "KR": "이네파",
+        "PT": "Ineffa",
+        "RU": "Инеффа",
+        "TH": "",
+        "TH_0": "",
+        "TH_1": "Ineffa",
+        "TH_2": "",
+        "TR": "Ineffa",
+        "VI": "Ineffa"
+    },
     "3293134650": {
         "CHS": "玛薇卡(试用)",
         "CHT": "瑪薇卡（試用）",
@@ -2078,5 +2098,25 @@
         "TH_2": "Hu Tao (ทดลองใช้)",
         "TR": "Hu Tao (Deneme)",
         "VI": "Hu Tao (Dùng thử)"
+    },
+    "1422574882": {
+        "CHS": "伊涅芙",
+        "CHT": "伊涅芙",
+        "DE": "Ineffa",
+        "EN": "Ineffa",
+        "ES": "Ineffa",
+        "FR": "Ineffa",
+        "ID": "Ineffa",
+        "IT": "Ineffa",
+        "JP": "イネファ",
+        "KR": "이네파",
+        "PT": "Ineffa",
+        "RU": "Инеффа",
+        "TH": "",
+        "TH_0": "Ineffa",
+        "TH_1": "",
+        "TH_2": "",
+        "TR": "Ineffa",
+        "VI": "Ineffa"
     }
 }

@@ -2428,5 +2428,55 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210248": {
+        "nameTextMapHash": 3583964428,
+        "icon": "UI_NameCardIcon_Ineffa",
+        "picPath": [
+            "UI_NameCardPic_Ineffa_Alpha",
+            "UI_NameCardPic_Ineffa_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210249": {
+        "nameTextMapHash": 3962354356,
+        "icon": "UI_NameCardIcon_NatlanOffering",
+        "picPath": [
+            "UI_NameCardPic_NatlanOffering_Alpha",
+            "UI_NameCardPic_NatlanOffering_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210250": {
+        "nameTextMapHash": 2563510020,
+        "icon": "UI_NameCardIcon_Natlan4",
+        "picPath": [
+            "UI_NameCardPic_Natlan4_Alpha",
+            "UI_NameCardPic_Natlan4_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210251": {
+        "nameTextMapHash": 2296450692,
+        "icon": "UI_NameCardIcon_Bp43",
+        "picPath": [
+            "UI_NameCardPic_Bp43_Alpha",
+            "UI_NameCardPic_Bp43_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210252": {
+        "nameTextMapHash": 2274024460,
+        "icon": "UI_NameCardIcon_Event58",
+        "picPath": [
+            "UI_NameCardPic_Event58_Alpha",
+            "UI_NameCardPic_Event58_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

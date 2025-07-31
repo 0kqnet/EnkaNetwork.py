@@ -2301,6 +2301,26 @@
             1156
         ]
     },
+    "10000116": {
+        "nameTextMapHash": 2759230658,
+        "iconName": "UI_AvatarIcon_Ineffa",
+        "sideIconName": "UI_AvatarIcon_Side_Ineffa",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Electric",
+        "skills": [
+            11161,
+            11162,
+            11165
+        ],
+        "talents": [
+            1161,
+            1162,
+            1163,
+            1164,
+            1165,
+            1166
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",
@@ -2339,6 +2359,26 @@
             464,
             465,
             466
+        ]
+    },
+    "10000903": {
+        "nameTextMapHash": 1422574882,
+        "iconName": "UI_AvatarIcon_Ineffa",
+        "sideIconName": "UI_AvatarIcon_Side_Ineffa",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Electric",
+        "skills": [
+            11161,
+            11162,
+            11165
+        ],
+        "talents": [
+            1161,
+            1162,
+            1163,
+            1164,
+            1165,
+            1166
         ]
     }
 }
