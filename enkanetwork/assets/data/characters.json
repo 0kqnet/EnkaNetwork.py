@@ -2321,6 +2321,66 @@
             1166
         ]
     },
+    "10000119": {
+        "nameTextMapHash": 1776874018,
+        "iconName": "UI_AvatarIcon_Lauma",
+        "sideIconName": "UI_AvatarIcon_Side_Lauma",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Grass",
+        "skills": [
+            11191,
+            11192,
+            11195
+        ],
+        "talents": [
+            1191,
+            1192,
+            1193,
+            1194,
+            1195,
+            1196
+        ]
+    },
+    "10000120": {
+        "nameTextMapHash": 1804674810,
+        "iconName": "UI_AvatarIcon_Flins",
+        "sideIconName": "UI_AvatarIcon_Side_Flins",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Electric",
+        "skills": [
+            11201,
+            11202,
+            11205
+        ],
+        "talents": [
+            1201,
+            1202,
+            1203,
+            1204,
+            1205,
+            1206
+        ]
+    },
+    "10000121": {
+        "nameTextMapHash": 3887688410,
+        "iconName": "UI_AvatarIcon_Aino",
+        "sideIconName": "UI_AvatarIcon_Side_Aino",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Water",
+        "skills": [
+            11211,
+            11212,
+            11215
+        ],
+        "talents": [
+            1211,
+            1212,
+            1213,
+            1214,
+            1215,
+            1216
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",

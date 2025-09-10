@@ -2566,5 +2566,77 @@
     "1166": {
         "nameTextMapHash": 2510148033,
         "icon": "UI_Talent_S_Ineffa_04"
+    },
+    "1191": {
+        "nameTextMapHash": 2267047689,
+        "icon": "UI_Talent_S_Lauma_01"
+    },
+    "1192": {
+        "nameTextMapHash": 1655919745,
+        "icon": "UI_Talent_S_Lauma_02"
+    },
+    "1193": {
+        "nameTextMapHash": 1594998489,
+        "icon": "UI_Talent_U_Lauma_01"
+    },
+    "1194": {
+        "nameTextMapHash": 3899371321,
+        "icon": "UI_Talent_S_Lauma_03"
+    },
+    "1195": {
+        "nameTextMapHash": 3414001745,
+        "icon": "UI_Talent_U_Lauma_02"
+    },
+    "1196": {
+        "nameTextMapHash": 1933274281,
+        "icon": "UI_Talent_S_Lauma_04"
+    },
+    "1201": {
+        "nameTextMapHash": 497537865,
+        "icon": "UI_Talent_S_Flins_01"
+    },
+    "1202": {
+        "nameTextMapHash": 2242987249,
+        "icon": "UI_Talent_S_Flins_02"
+    },
+    "1203": {
+        "nameTextMapHash": 1384758977,
+        "icon": "UI_Talent_U_Flins_02"
+    },
+    "1204": {
+        "nameTextMapHash": 2627575489,
+        "icon": "UI_Talent_S_Flins_03"
+    },
+    "1205": {
+        "nameTextMapHash": 3877680081,
+        "icon": "UI_Talent_U_Flins_01"
+    },
+    "1206": {
+        "nameTextMapHash": 3846192129,
+        "icon": "UI_Talent_S_Flins_04"
+    },
+    "1211": {
+        "nameTextMapHash": 4005357081,
+        "icon": "UI_Talent_S_Aino_03"
+    },
+    "1212": {
+        "nameTextMapHash": 2152460585,
+        "icon": "UI_Talent_S_Aino_02"
+    },
+    "1213": {
+        "nameTextMapHash": 2831327761,
+        "icon": "UI_Talent_U_Aino_01"
+    },
+    "1214": {
+        "nameTextMapHash": 4217016769,
+        "icon": "UI_Talent_S_Aino_01"
+    },
+    "1215": {
+        "nameTextMapHash": 1105249705,
+        "icon": "UI_Talent_U_Aino_02"
+    },
+    "1216": {
+        "nameTextMapHash": 3992074361,
+        "icon": "UI_Talent_S_Aino_04"
     }
 }

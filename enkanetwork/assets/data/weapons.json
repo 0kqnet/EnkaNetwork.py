@@ -233,6 +233,18 @@
         "awakenIcon": "UI_EquipIcon_Sword_SacrificialNgombe_Awaken",
         "rankLevel": 4
     },
+    "11433": {
+        "nameTextMapHash": 3426916507,
+        "icon": "UI_EquipIcon_Sword_Ilmarinen",
+        "awakenIcon": "UI_EquipIcon_Sword_Ilmarinen_Awaken",
+        "rankLevel": 4
+    },
+    "11434": {
+        "nameTextMapHash": 357888539,
+        "icon": "UI_EquipIcon_Sword_Miekka",
+        "awakenIcon": "UI_EquipIcon_Sword_Miekka_Awaken",
+        "rankLevel": 4
+    },
     "11501": {
         "nameTextMapHash": 902264035,
         "icon": "UI_EquipIcon_Sword_Falcon",
@@ -527,6 +539,12 @@
         "awakenIcon": "UI_EquipIcon_Claymore_Polilith_Awaken",
         "rankLevel": 4
     },
+    "12433": {
+        "nameTextMapHash": 3225522227,
+        "icon": "UI_EquipIcon_Claymore_Ilmarinen",
+        "awakenIcon": "UI_EquipIcon_Claymore_Ilmarinen_Awaken",
+        "rankLevel": 4
+    },
     "12501": {
         "nameTextMapHash": 1089950259,
         "icon": "UI_EquipIcon_Claymore_Dvalin",
@@ -767,6 +785,12 @@
         "awakenIcon": "UI_EquipIcon_Pole_Aoandon_Awaken",
         "rankLevel": 4
     },
+    "13433": {
+        "nameTextMapHash": 2225698043,
+        "icon": "UI_EquipIcon_Pole_Ilmarinen",
+        "awakenIcon": "UI_EquipIcon_Pole_Ilmarinen_Awaken",
+        "rankLevel": 4
+    },
     "13501": {
         "nameTextMapHash": 3235324891,
         "icon": "UI_EquipIcon_Pole_Homa",
@@ -843,6 +867,12 @@
         "nameTextMapHash": 2878068027,
         "icon": "UI_EquipIcon_Pole_Perdix",
         "awakenIcon": "UI_EquipIcon_Pole_Perdix_Awaken",
+        "rankLevel": 5
+    },
+    "13516": {
+        "nameTextMapHash": 3869745515,
+        "icon": "UI_EquipIcon_Pole_TummaLyhty",
+        "awakenIcon": "UI_EquipIcon_Pole_TummaLyhty_Awaken",
         "rankLevel": 5
     },
     "14101": {
@@ -1031,6 +1061,18 @@
         "awakenIcon": "UI_EquipIcon_Catalyst_Isikhulu_Awaken",
         "rankLevel": 4
     },
+    "14432": {
+        "nameTextMapHash": 21074019,
+        "icon": "UI_EquipIcon_Catalyst_SeeliesLute",
+        "awakenIcon": "UI_EquipIcon_Catalyst_SeeliesLute_Awaken",
+        "rankLevel": 4
+    },
+    "14433": {
+        "nameTextMapHash": 658627627,
+        "icon": "UI_EquipIcon_Catalyst_Ilmarinen",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Ilmarinen_Awaken",
+        "rankLevel": 4
+    },
     "14501": {
         "nameTextMapHash": 807607555,
         "icon": "UI_EquipIcon_Catalyst_Dvalin",
@@ -1131,6 +1173,12 @@
         "nameTextMapHash": 2559426851,
         "icon": "UI_EquipIcon_Catalyst_VaresaTransformer",
         "awakenIcon": "UI_EquipIcon_Catalyst_VaresaTransformer_Awaken",
+        "rankLevel": 5
+    },
+    "14520": {
+        "nameTextMapHash": 1198975171,
+        "icon": "UI_EquipIcon_Catalyst_MenulisRing",
+        "awakenIcon": "UI_EquipIcon_Catalyst_MenulisRing_Awaken",
         "rankLevel": 5
     },
     "15101": {
@@ -1335,6 +1383,12 @@
         "nameTextMapHash": 2846112523,
         "icon": "UI_EquipIcon_Bow_Stinger",
         "awakenIcon": "UI_EquipIcon_Bow_Stinger_Awaken",
+        "rankLevel": 4
+    },
+    "15433": {
+        "nameTextMapHash": 3380505211,
+        "icon": "UI_EquipIcon_Bow_Ilmarinen",
+        "awakenIcon": "UI_EquipIcon_Bow_Ilmarinen_Awaken",
         "rankLevel": 4
     },
     "15501": {

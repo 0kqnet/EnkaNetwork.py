@@ -2519,6 +2519,66 @@
         "skillIcon": "Skill_E_Ineffa_01",
         "proudSkillGroupId": 11639
     },
+    "11191": {
+        "nameTextMapHash": 2071054853,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 11931
+    },
+    "11192": {
+        "nameTextMapHash": 1298537093,
+        "skillIcon": "Skill_S_Lauma_01",
+        "proudSkillGroupId": 11932
+    },
+    "11193": {
+        "nameTextMapHash": 3595335005,
+        "skillIcon": "Skill_S_Lauma_02",
+        "proudSkillGroupId": 0
+    },
+    "11195": {
+        "nameTextMapHash": 1266518277,
+        "skillIcon": "Skill_E_Lauma_01",
+        "proudSkillGroupId": 11939
+    },
+    "11201": {
+        "nameTextMapHash": 462476261,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 12031
+    },
+    "11202": {
+        "nameTextMapHash": 1113770653,
+        "skillIcon": "Skill_S_Flins_01",
+        "proudSkillGroupId": 12032
+    },
+    "11204": {
+        "nameTextMapHash": 184205749,
+        "skillIcon": "Skill_S_Flins_02",
+        "proudSkillGroupId": 0
+    },
+    "11205": {
+        "nameTextMapHash": 805166997,
+        "skillIcon": "Skill_E_Flins_01",
+        "proudSkillGroupId": 12039
+    },
+    "11209": {
+        "nameTextMapHash": 476911861,
+        "skillIcon": "Skill_E_Flins_02",
+        "proudSkillGroupId": 0
+    },
+    "11211": {
+        "nameTextMapHash": 4123669357,
+        "skillIcon": "Skill_A_04",
+        "proudSkillGroupId": 12131
+    },
+    "11212": {
+        "nameTextMapHash": 1369451101,
+        "skillIcon": "Skill_S_Aino_01",
+        "proudSkillGroupId": 12132
+    },
+    "11215": {
+        "nameTextMapHash": 794568245,
+        "skillIcon": "Skill_E_Aino_01",
+        "proudSkillGroupId": 12139
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3429,6 +3489,11 @@
         "skillIcon": "Btn_Recon_Bait_Beans",
         "proudSkillGroupId": 0
     },
+    "20376": {
+        "nameTextMapHash": 3554058285,
+        "skillIcon": "Btn_Player_ComboBurst",
+        "proudSkillGroupId": 0
+    },
     "20601": {
         "nameTextMapHash": 2308638789,
         "skillIcon": "UI_Img_MVM_Skill_Summon",
@@ -3449,9 +3514,39 @@
         "skillIcon": "Skill_SprintCircle",
         "proudSkillGroupId": 0
     },
+    "20610": {
+        "nameTextMapHash": 2218920821,
+        "skillIcon": "Btn_Vehicle_Skiff_Vejection",
+        "proudSkillGroupId": 0
+    },
+    "20611": {
+        "nameTextMapHash": 3622933597,
+        "skillIcon": "Btn_FairyBook_ToyBrick",
+        "proudSkillGroupId": 0
+    },
     "20612": {
         "nameTextMapHash": 280429349,
         "skillIcon": "Btn_Limacidae_Eskill",
+        "proudSkillGroupId": 0
+    },
+    "20613": {
+        "nameTextMapHash": 979938597,
+        "skillIcon": "Skill_E_Klee_01",
+        "proudSkillGroupId": 0
+    },
+    "20614": {
+        "nameTextMapHash": 1647227037,
+        "skillIcon": "Btn_MagneticJumpMoonSpirit_01",
+        "proudSkillGroupId": 0
+    },
+    "20615": {
+        "nameTextMapHash": 2270974437,
+        "skillIcon": "Btn_Rises",
+        "proudSkillGroupId": 0
+    },
+    "20616": {
+        "nameTextMapHash": 2355643061,
+        "skillIcon": "UI_Icon_Skill_MakeoverNightwatLantern",
         "proudSkillGroupId": 0
     },
     "10384": {
@@ -4122,6 +4217,21 @@
     "5116010": {
         "nameTextMapHash": 963033829,
         "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 0
+    },
+    "5119010": {
+        "nameTextMapHash": 1495221189,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 0
+    },
+    "5120010": {
+        "nameTextMapHash": 3381364133,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 0
+    },
+    "5121010": {
+        "nameTextMapHash": 1440387293,
+        "skillIcon": "Skill_A_04",
         "proudSkillGroupId": 0
     }
 }
