@@ -2638,5 +2638,29 @@
     "1216": {
         "nameTextMapHash": 3992074361,
         "icon": "UI_Talent_S_Aino_04"
+    },
+    "1221": {
+        "nameTextMapHash": 1810447841,
+        "icon": "UI_Talent_S_Nefer_01"
+    },
+    "1222": {
+        "nameTextMapHash": 2561039729,
+        "icon": "UI_Talent_S_Nefer_02"
+    },
+    "1223": {
+        "nameTextMapHash": 3653128033,
+        "icon": "UI_Talent_U_Nefer_01"
+    },
+    "1224": {
+        "nameTextMapHash": 948261745,
+        "icon": "UI_Talent_S_Nefer_03"
+    },
+    "1225": {
+        "nameTextMapHash": 2320999321,
+        "icon": "UI_Talent_U_Nefer_02"
+    },
+    "1226": {
+        "nameTextMapHash": 3875848929,
+        "icon": "UI_Talent_S_Nefer_04"
     }
 }

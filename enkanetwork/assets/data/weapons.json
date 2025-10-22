@@ -791,6 +791,12 @@
         "awakenIcon": "UI_EquipIcon_Pole_Ilmarinen_Awaken",
         "rankLevel": 4
     },
+    "13434": {
+        "nameTextMapHash": 980370707,
+        "icon": "UI_EquipIcon_Pole_Krivule",
+        "awakenIcon": "UI_EquipIcon_Pole_Krivule_Awaken",
+        "rankLevel": 4
+    },
     "13501": {
         "nameTextMapHash": 3235324891,
         "icon": "UI_EquipIcon_Pole_Homa",
@@ -1073,6 +1079,12 @@
         "awakenIcon": "UI_EquipIcon_Catalyst_Ilmarinen_Awaken",
         "rankLevel": 4
     },
+    "14434": {
+        "nameTextMapHash": 3497155131,
+        "icon": "UI_EquipIcon_Catalyst_Ziedas",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Ziedas_Awaken",
+        "rankLevel": 4
+    },
     "14501": {
         "nameTextMapHash": 807607555,
         "icon": "UI_EquipIcon_Catalyst_Dvalin",
@@ -1179,6 +1191,12 @@
         "nameTextMapHash": 1198975171,
         "icon": "UI_EquipIcon_Catalyst_MenulisRing",
         "awakenIcon": "UI_EquipIcon_Catalyst_MenulisRing_Awaken",
+        "rankLevel": 5
+    },
+    "14521": {
+        "nameTextMapHash": 1566338363,
+        "icon": "UI_EquipIcon_Catalyst_Sistrum",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Sistrum_Awaken",
         "rankLevel": 5
     },
     "15101": {
@@ -1509,6 +1527,12 @@
         "nameTextMapHash": 3762437019,
         "icon": "UI_EquipIcon_Bow_Template",
         "awakenIcon": "UI_EquipIcon_Bow_Template_Awaken",
+        "rankLevel": 1
+    },
+    "10009": {
+        "nameTextMapHash": 123009691,
+        "icon": "UI_EquipIcon_Sword_Template",
+        "awakenIcon": "UI_EquipIcon_Sword_Template_Awaken",
         "rankLevel": 1
     }
 }

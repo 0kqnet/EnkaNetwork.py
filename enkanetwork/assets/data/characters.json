@@ -2321,6 +2321,28 @@
             1166
         ]
     },
+    "10000117": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "",
+        "skills": [
+            11171
+        ],
+        "talents": []
+    },
+    "10000118": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "",
+        "skills": [
+            11171
+        ],
+        "talents": []
+    },
     "10000119": {
         "nameTextMapHash": 1776874018,
         "iconName": "UI_AvatarIcon_Lauma",
@@ -2379,6 +2401,26 @@
             1214,
             1215,
             1216
+        ]
+    },
+    "10000122": {
+        "nameTextMapHash": 2745786202,
+        "iconName": "UI_AvatarIcon_Nefer",
+        "sideIconName": "UI_AvatarIcon_Side_Nefer",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Grass",
+        "skills": [
+            11221,
+            11222,
+            11225
+        ],
+        "talents": [
+            1221,
+            1222,
+            1223,
+            1224,
+            1225,
+            1226
         ]
     },
     "10000901": {
@@ -2440,5 +2482,23 @@
             1165,
             1166
         ]
+    },
+    "10000998": {
+        "nameTextMapHash": 88677158,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [],
+        "talents": []
+    },
+    "10000999": {
+        "nameTextMapHash": 3434459630,
+        "iconName": "UI_AvatarIcon_PlayerGirl",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [],
+        "talents": []
     }
 }

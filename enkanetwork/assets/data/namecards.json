@@ -2558,5 +2558,25 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210261": {
+        "nameTextMapHash": 3257581260,
+        "icon": "UI_NameCardIcon_Nefer",
+        "picPath": [
+            "UI_NameCardPic_Nefer_Alpha",
+            "UI_NameCardPic_Nefer_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210262": {
+        "nameTextMapHash": 1106285284,
+        "icon": "UI_NameCardIcon_Bp45",
+        "picPath": [
+            "UI_NameCardPic_Bp45_Alpha",
+            "UI_NameCardPic_Bp45_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

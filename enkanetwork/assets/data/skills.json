@@ -2519,6 +2519,56 @@
         "skillIcon": "Skill_E_Ineffa_01",
         "proudSkillGroupId": 11639
     },
+    "11171": {
+        "nameTextMapHash": 3368285061,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 11731
+    },
+    "11172": {
+        "nameTextMapHash": 1295755165,
+        "skillIcon": "Skill_S_LittleIdol_01",
+        "proudSkillGroupId": 11732
+    },
+    "11173": {
+        "nameTextMapHash": 4184483469,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
+    "111751": {
+        "nameTextMapHash": 2655999717,
+        "skillIcon": "Skill_E_LittleIdol_01",
+        "proudSkillGroupId": 11739
+    },
+    "111752": {
+        "nameTextMapHash": 5469597,
+        "skillIcon": "Skill_E_LittleIdol_01",
+        "proudSkillGroupId": 11739
+    },
+    "111753": {
+        "nameTextMapHash": 742353141,
+        "skillIcon": "Skill_E_LittleIdol_01",
+        "proudSkillGroupId": 11739
+    },
+    "111754": {
+        "nameTextMapHash": 1239943437,
+        "skillIcon": "Skill_E_LittleIdol_01",
+        "proudSkillGroupId": 11739
+    },
+    "111755": {
+        "nameTextMapHash": 2227609133,
+        "skillIcon": "Skill_E_LittleIdol_01",
+        "proudSkillGroupId": 11739
+    },
+    "111756": {
+        "nameTextMapHash": 212785517,
+        "skillIcon": "Skill_E_LittleIdol_01",
+        "proudSkillGroupId": 11739
+    },
+    "111757": {
+        "nameTextMapHash": 3986638933,
+        "skillIcon": "Skill_E_LittleIdol_01",
+        "proudSkillGroupId": 11739
+    },
     "11191": {
         "nameTextMapHash": 2071054853,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -2578,6 +2628,31 @@
         "nameTextMapHash": 794568245,
         "skillIcon": "Skill_E_Aino_01",
         "proudSkillGroupId": 12139
+    },
+    "11221": {
+        "nameTextMapHash": 3474613005,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 12231
+    },
+    "11222": {
+        "nameTextMapHash": 1767720565,
+        "skillIcon": "Skill_S_Nefer_01",
+        "proudSkillGroupId": 12232
+    },
+    "11225": {
+        "nameTextMapHash": 194749541,
+        "skillIcon": "Skill_E_Nefer_01",
+        "proudSkillGroupId": 12239
+    },
+    "11226": {
+        "nameTextMapHash": 1799851541,
+        "skillIcon": "Skill_E_NPCIntelligence",
+        "proudSkillGroupId": 0
+    },
+    "11227": {
+        "nameTextMapHash": 63234749,
+        "skillIcon": "Btn_Sprint",
+        "proudSkillGroupId": 0
     },
     "30000": {
         "nameTextMapHash": 3235714597,
@@ -3549,6 +3624,26 @@
         "skillIcon": "UI_Icon_Skill_MakeoverNightwatLantern",
         "proudSkillGroupId": 0
     },
+    "20623": {
+        "nameTextMapHash": 1918357093,
+        "skillIcon": "Btn_AdventurePathwayPlanning_Absorb",
+        "proudSkillGroupId": 0
+    },
+    "20624": {
+        "nameTextMapHash": 1348185989,
+        "skillIcon": "UI_Img_MVM_Skill_Summon",
+        "proudSkillGroupId": 0
+    },
+    "20631": {
+        "nameTextMapHash": 453462781,
+        "skillIcon": "Btn_AdventurePathwayPlanning_Throw",
+        "proudSkillGroupId": 0
+    },
+    "20633": {
+        "nameTextMapHash": 3059480445,
+        "skillIcon": "Skill_E_Nefer_02",
+        "proudSkillGroupId": 0
+    },
     "10384": {
         "nameTextMapHash": 1543775045,
         "skillIcon": "Btn_Recon_Bait",
@@ -3633,6 +3728,21 @@
         "nameTextMapHash": 1727970205,
         "skillIcon": "Skill_A_01",
         "proudSkillGroupId": 1131
+    },
+    "999001": {
+        "nameTextMapHash": 2433514749,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
+    },
+    "999002": {
+        "nameTextMapHash": 1824229437,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
+    },
+    "999003": {
+        "nameTextMapHash": 42578125,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
     },
     "5002010": {
         "nameTextMapHash": 1113979477,
@@ -4219,6 +4329,11 @@
         "skillIcon": "Skill_A_03",
         "proudSkillGroupId": 0
     },
+    "5117010": {
+        "nameTextMapHash": 3300484725,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
     "5119010": {
         "nameTextMapHash": 1495221189,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -4232,6 +4347,11 @@
     "5121010": {
         "nameTextMapHash": 1440387293,
         "skillIcon": "Skill_A_04",
+        "proudSkillGroupId": 0
+    },
+    "5122010": {
+        "nameTextMapHash": 2258049421,
+        "skillIcon": "Skill_A_Catalyst_MD",
         "proudSkillGroupId": 0
     }
 }
