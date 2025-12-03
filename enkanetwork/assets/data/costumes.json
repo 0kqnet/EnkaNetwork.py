@@ -113,5 +113,10 @@
         "iconName": "UI_AvatarIcon_BennettCostumeSummer",
         "sideIconName": "UI_AvatarIcon_Side_BennettCostumeSummer",
         "nameTextMapHash": 940723026
+    },
+    "212301": {
+        "iconName": "UI_AvatarIcon_DurinCostumeWic",
+        "sideIconName": "UI_AvatarIcon_Side_DurinCostumeWic",
+        "nameTextMapHash": 2612042642
     }
 }

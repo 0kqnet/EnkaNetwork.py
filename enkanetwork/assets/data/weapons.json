@@ -347,6 +347,12 @@
         "awakenIcon": "UI_EquipIcon_Sword_OuterSword_Awaken",
         "rankLevel": 5
     },
+    "11518": {
+        "nameTextMapHash": 4099034547,
+        "icon": "UI_EquipIcon_Sword_Motsognir",
+        "awakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
+        "rankLevel": 5
+    },
     "12101": {
         "nameTextMapHash": 2666951267,
         "icon": "UI_EquipIcon_Claymore_Aniki",
@@ -1409,6 +1415,12 @@
         "awakenIcon": "UI_EquipIcon_Bow_Ilmarinen_Awaken",
         "rankLevel": 4
     },
+    "15434": {
+        "nameTextMapHash": 2320082227,
+        "icon": "UI_EquipIcon_Bow_ElegguaBow",
+        "awakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
+        "rankLevel": 4
+    },
     "15501": {
         "nameTextMapHash": 3933622347,
         "icon": "UI_EquipIcon_Bow_Dvalin",
@@ -1485,6 +1497,12 @@
         "nameTextMapHash": 1363661611,
         "icon": "UI_EquipIcon_Bow_Qoyllorsnova",
         "awakenIcon": "UI_EquipIcon_Bow_Qoyllorsnova_Awaken",
+        "rankLevel": 5
+    },
+    "15515": {
+        "nameTextMapHash": 1235521427,
+        "icon": "UI_EquipIcon_Bow_Arianna",
+        "awakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
         "rankLevel": 5
     },
     "20001": {

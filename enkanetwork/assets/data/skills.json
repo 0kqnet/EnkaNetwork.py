@@ -2654,6 +2654,71 @@
         "skillIcon": "Btn_Sprint",
         "proudSkillGroupId": 0
     },
+    "11231": {
+        "nameTextMapHash": 2691078405,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 12331
+    },
+    "11232": {
+        "nameTextMapHash": 286217757,
+        "skillIcon": "Skill_S_Durin_01",
+        "proudSkillGroupId": 12332
+    },
+    "11233": {
+        "nameTextMapHash": 357147733,
+        "skillIcon": "Skill_S_Durin_02",
+        "proudSkillGroupId": 0
+    },
+    "11234": {
+        "nameTextMapHash": 1025244925,
+        "skillIcon": "Skill_S_Durin_03",
+        "proudSkillGroupId": 0
+    },
+    "11235": {
+        "nameTextMapHash": 1588025277,
+        "skillIcon": "Skill_E_Durin_01",
+        "proudSkillGroupId": 12339
+    },
+    "11236": {
+        "nameTextMapHash": 3891850653,
+        "skillIcon": "Skill_E_Durin_02",
+        "proudSkillGroupId": 0
+    },
+    "11241": {
+        "nameTextMapHash": 895696741,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 12431
+    },
+    "11242": {
+        "nameTextMapHash": 487615181,
+        "skillIcon": "Skill_S_Jahoda_01",
+        "proudSkillGroupId": 12432
+    },
+    "11243": {
+        "nameTextMapHash": 842978485,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
+    },
+    "11244": {
+        "nameTextMapHash": 1836779253,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
+    },
+    "11245": {
+        "nameTextMapHash": 2551602773,
+        "skillIcon": "Skill_E_Jahoda_01",
+        "proudSkillGroupId": 12439
+    },
+    "11246": {
+        "nameTextMapHash": 1352602397,
+        "skillIcon": "Skill_S_Jahoda_02",
+        "proudSkillGroupId": 0
+    },
+    "11247": {
+        "nameTextMapHash": 2967395533,
+        "skillIcon": "Skill_E_NPCIntelligence",
+        "proudSkillGroupId": 0
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3209,6 +3274,16 @@
         "skillIcon": "Btn_HideAndSeekV4_Seeker_E_01",
         "proudSkillGroupId": 0
     },
+    "20423": {
+        "nameTextMapHash": 3368503085,
+        "skillIcon": "Btn_HideAndSeek_Seeker_E_01",
+        "proudSkillGroupId": 0
+    },
+    "20430": {
+        "nameTextMapHash": 681529533,
+        "skillIcon": "Btn_HideAndSeekV5_Seeker_Passive",
+        "proudSkillGroupId": 0
+    },
     "20500": {
         "nameTextMapHash": 902040061,
         "skillIcon": "Btn_HideAndSeek_Hider_A_01",
@@ -3237,6 +3312,11 @@
     "20513": {
         "nameTextMapHash": 1833806357,
         "skillIcon": "Btn_HideAndSeek_Hider_S_02_Borbid",
+        "proudSkillGroupId": 0
+    },
+    "20514": {
+        "nameTextMapHash": 2150007349,
+        "skillIcon": "Btn_HideAndSeekV4_Hider_A_01",
         "proudSkillGroupId": 0
     },
     "20520": {
@@ -3347,6 +3427,16 @@
     "20541": {
         "nameTextMapHash": 3465751389,
         "skillIcon": "Btn_HideAndSeekV4_Seeker_A_01",
+        "proudSkillGroupId": 0
+    },
+    "20542": {
+        "nameTextMapHash": 3365329165,
+        "skillIcon": "Btn_HideAndSeek_Hider_S_02",
+        "proudSkillGroupId": 0
+    },
+    "20543": {
+        "nameTextMapHash": 3884631021,
+        "skillIcon": "Btn_HideAndSeekV4_Hider_E",
         "proudSkillGroupId": 0
     },
     "20565": {
@@ -3569,6 +3659,16 @@
         "skillIcon": "Btn_Player_ComboBurst",
         "proudSkillGroupId": 0
     },
+    "20377": {
+        "nameTextMapHash": 2935956221,
+        "skillIcon": "Skill_SnowRace_Throw_Icon",
+        "proudSkillGroupId": 0
+    },
+    "20378": {
+        "nameTextMapHash": 3605681925,
+        "skillIcon": "UI_Icon_Skill_MoonNightRing",
+        "proudSkillGroupId": 0
+    },
     "20601": {
         "nameTextMapHash": 2308638789,
         "skillIcon": "UI_Img_MVM_Skill_Summon",
@@ -3642,6 +3742,11 @@
     "20633": {
         "nameTextMapHash": 3059480445,
         "skillIcon": "Skill_E_Nefer_02",
+        "proudSkillGroupId": 0
+    },
+    "20643": {
+        "nameTextMapHash": 3773794429,
+        "skillIcon": "Skill_SnowRace_Throw_Icon",
         "proudSkillGroupId": 0
     },
     "10384": {
@@ -4352,6 +4457,16 @@
     "5122010": {
         "nameTextMapHash": 2258049421,
         "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 0
+    },
+    "5123010": {
+        "nameTextMapHash": 3521321789,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
+    "5124010": {
+        "nameTextMapHash": 3303962933,
+        "skillIcon": "Skill_A_02",
         "proudSkillGroupId": 0
     }
 }

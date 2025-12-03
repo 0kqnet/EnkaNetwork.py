@@ -2423,6 +2423,46 @@
             1226
         ]
     },
+    "10000123": {
+        "nameTextMapHash": 2801077538,
+        "iconName": "UI_AvatarIcon_Durin",
+        "sideIconName": "UI_AvatarIcon_Side_Durin",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            11231,
+            11232,
+            11235
+        ],
+        "talents": [
+            1231,
+            1232,
+            1233,
+            1234,
+            1235,
+            1236
+        ]
+    },
+    "10000124": {
+        "nameTextMapHash": 1438964522,
+        "iconName": "UI_AvatarIcon_Jahoda",
+        "sideIconName": "UI_AvatarIcon_Side_Jahoda",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Wind",
+        "skills": [
+            11241,
+            11242,
+            11245
+        ],
+        "talents": [
+            1241,
+            1242,
+            1243,
+            1244,
+            1245,
+            1246
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",
@@ -2481,6 +2521,26 @@
             1164,
             1165,
             1166
+        ]
+    },
+    "10000904": {
+        "nameTextMapHash": 2211498234,
+        "iconName": "UI_AvatarIcon_Columbina",
+        "sideIconName": "UI_AvatarIcon_Side_Columbina",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            10231,
+            10232,
+            10235
+        ],
+        "talents": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
         ]
     },
     "10000998": {

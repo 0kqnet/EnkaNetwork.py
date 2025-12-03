@@ -2578,5 +2578,45 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210263": {
+        "nameTextMapHash": 2872684196,
+        "icon": "UI_NameCardIcon_Durin",
+        "picPath": [
+            "UI_NameCardPic_Durin_Alpha",
+            "UI_NameCardPic_Durin_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210264": {
+        "nameTextMapHash": 3064840012,
+        "icon": "UI_NameCardIcon_Jahoda",
+        "picPath": [
+            "UI_NameCardPic_Jahoda_Alpha",
+            "UI_NameCardPic_Jahoda_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210265": {
+        "nameTextMapHash": 1099099324,
+        "icon": "UI_NameCardIcon_Bp46",
+        "picPath": [
+            "UI_NameCardPic_Bp46_Alpha",
+            "UI_NameCardPic_Bp46_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210266": {
+        "nameTextMapHash": 1596234324,
+        "icon": "UI_NameCardIcon_Green",
+        "picPath": [
+            "UI_NameCardPic_Green_Alpha",
+            "UI_NameCardPic_Green_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

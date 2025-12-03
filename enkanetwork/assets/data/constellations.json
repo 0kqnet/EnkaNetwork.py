@@ -2662,5 +2662,53 @@
     "1226": {
         "nameTextMapHash": 3875848929,
         "icon": "UI_Talent_S_Nefer_04"
+    },
+    "1231": {
+        "nameTextMapHash": 39237793,
+        "icon": "UI_Talent_S_Durin_03"
+    },
+    "1232": {
+        "nameTextMapHash": 380017553,
+        "icon": "UI_Talent_S_Durin_04"
+    },
+    "1233": {
+        "nameTextMapHash": 1096728529,
+        "icon": "UI_Talent_U_Durin_01"
+    },
+    "1234": {
+        "nameTextMapHash": 1437833273,
+        "icon": "UI_Talent_S_Durin_05"
+    },
+    "1235": {
+        "nameTextMapHash": 1871441617,
+        "icon": "UI_Talent_U_Durin_02"
+    },
+    "1236": {
+        "nameTextMapHash": 13578313,
+        "icon": "UI_Talent_S_Durin_06"
+    },
+    "1241": {
+        "nameTextMapHash": 4129793257,
+        "icon": "UI_Talent_S_Jahoda_03"
+    },
+    "1242": {
+        "nameTextMapHash": 2860272705,
+        "icon": "UI_Talent_S_Jahoda_02"
+    },
+    "1243": {
+        "nameTextMapHash": 2870981345,
+        "icon": "UI_Talent_U_Jahoda_01"
+    },
+    "1244": {
+        "nameTextMapHash": 3056170129,
+        "icon": "UI_Talent_S_Jahoda_01"
+    },
+    "1245": {
+        "nameTextMapHash": 1070925345,
+        "icon": "UI_Talent_U_Jahoda_02"
+    },
+    "1246": {
+        "nameTextMapHash": 3040404433,
+        "icon": "UI_Talent_S_Jahoda_04"
     }
 }
