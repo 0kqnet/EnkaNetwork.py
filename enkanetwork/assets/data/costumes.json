@@ -118,5 +118,25 @@
         "iconName": "UI_AvatarIcon_DurinCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_DurinCostumeWic",
         "nameTextMapHash": 2612042642
+    },
+    "200501": {
+        "iconName": "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR",
+        "nameTextMapHash": 506228722
+    },
+    "200701": {
+        "iconName": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR",
+        "nameTextMapHash": 906546754
+    },
+    "208701": {
+        "iconName": "UI_AvatarIcon_NeuvilletteCostumeWinter",
+        "sideIconName": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter",
+        "nameTextMapHash": 96397922
+    },
+    "207701": {
+        "iconName": "UI_AvatarIcon_YaoyaoCostumeWinter",
+        "sideIconName": "UI_AvatarIcon_Side_YaoyaoCostumeWinter",
+        "nameTextMapHash": 744635826
     }
 }

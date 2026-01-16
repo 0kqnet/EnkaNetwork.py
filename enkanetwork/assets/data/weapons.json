@@ -353,6 +353,12 @@
         "awakenIcon": "UI_EquipIcon_Sword_Motsognir_Awaken",
         "rankLevel": 5
     },
+    "11519": {
+        "nameTextMapHash": 1573692171,
+        "icon": "UI_EquipIcon_Sword_SilverwareSaw",
+        "awakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+        "rankLevel": 5
+    },
     "12101": {
         "nameTextMapHash": 2666951267,
         "icon": "UI_EquipIcon_Claymore_Aniki",
@@ -1203,6 +1209,12 @@
         "nameTextMapHash": 1566338363,
         "icon": "UI_EquipIcon_Catalyst_Sistrum",
         "awakenIcon": "UI_EquipIcon_Catalyst_Sistrum_Awaken",
+        "rankLevel": 5
+    },
+    "14522": {
+        "nameTextMapHash": 1441327747,
+        "icon": "UI_EquipIcon_Catalyst_Brisingamen",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
         "rankLevel": 5
     },
     "15101": {

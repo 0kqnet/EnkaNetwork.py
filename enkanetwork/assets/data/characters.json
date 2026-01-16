@@ -2463,6 +2463,66 @@
             1246
         ]
     },
+    "10000125": {
+        "nameTextMapHash": 1888371618,
+        "iconName": "UI_AvatarIcon_Columbina",
+        "sideIconName": "UI_AvatarIcon_Side_Columbina",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Water",
+        "skills": [
+            11251,
+            11252,
+            11255
+        ],
+        "talents": [
+            1251,
+            1252,
+            1253,
+            1254,
+            1255,
+            1256
+        ]
+    },
+    "10000126": {
+        "nameTextMapHash": 937533090,
+        "iconName": "UI_AvatarIcon_Zibai",
+        "sideIconName": "UI_AvatarIcon_Side_Zibai",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Rock",
+        "skills": [
+            11261,
+            11262,
+            11265
+        ],
+        "talents": [
+            1261,
+            1262,
+            1263,
+            1264,
+            1265,
+            1266
+        ]
+    },
+    "10000127": {
+        "nameTextMapHash": 102656986,
+        "iconName": "UI_AvatarIcon_Illuga",
+        "sideIconName": "UI_AvatarIcon_Side_Illuga",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Rock",
+        "skills": [
+            11271,
+            11272,
+            11275
+        ],
+        "talents": [
+            1271,
+            1272,
+            1273,
+            1274,
+            1275,
+            1276
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",

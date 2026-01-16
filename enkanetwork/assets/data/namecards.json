@@ -2618,5 +2618,65 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210267": {
+        "nameTextMapHash": 810052788,
+        "icon": "UI_NameCardIcon_Columbina",
+        "picPath": [
+            "UI_NameCardPic_Columbina_Alpha",
+            "UI_NameCardPic_Columbina_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210268": {
+        "nameTextMapHash": 67423124,
+        "icon": "UI_NameCardIcon_Zibai",
+        "picPath": [
+            "UI_NameCardPic_Zibai_Alpha",
+            "UI_NameCardPic_Zibai_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210269": {
+        "nameTextMapHash": 582237588,
+        "icon": "UI_NameCardIcon_Illuga",
+        "picPath": [
+            "UI_NameCardPic_Illuga_Alpha",
+            "UI_NameCardPic_Illuga_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210270": {
+        "nameTextMapHash": 2765482900,
+        "icon": "UI_NameCardIcon_Csxy6",
+        "picPath": [
+            "UI_NameCardPic_Csxy6_Alpha",
+            "UI_NameCardPic_Csxy6_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210271": {
+        "nameTextMapHash": 3022835540,
+        "icon": "UI_NameCardIcon_NodKrai2",
+        "picPath": [
+            "UI_NameCardPic_NodKrai2_Alpha",
+            "UI_NameCardPic_NodKrai2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210272": {
+        "nameTextMapHash": 221242420,
+        "icon": "UI_NameCardIcon_Bp47",
+        "picPath": [
+            "UI_NameCardPic_Bp47_Alpha",
+            "UI_NameCardPic_Bp47_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

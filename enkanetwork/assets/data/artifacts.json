@@ -30896,6 +30896,366 @@
         "mainPropDepotId": 1000,
         "appendPropDepotId": 501
     },
+    "43412": {
+        "nameTextMapHash": 2971608700,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15043_1",
+        "rankLevel": 4,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 401
+    },
+    "43413": {
+        "nameTextMapHash": 609423940,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15043_1",
+        "rankLevel": 4,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 401
+    },
+    "43422": {
+        "nameTextMapHash": 3069089948,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15043_2",
+        "rankLevel": 4,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 401
+    },
+    "43423": {
+        "nameTextMapHash": 789774988,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15043_2",
+        "rankLevel": 4,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 401
+    },
+    "43432": {
+        "nameTextMapHash": 3506037612,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15043_3",
+        "rankLevel": 4,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 401
+    },
+    "43433": {
+        "nameTextMapHash": 957035372,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15043_3",
+        "rankLevel": 4,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 401
+    },
+    "43442": {
+        "nameTextMapHash": 3502832124,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15043_4",
+        "rankLevel": 4,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 401
+    },
+    "43443": {
+        "nameTextMapHash": 2408583580,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15043_4",
+        "rankLevel": 4,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 401
+    },
+    "43452": {
+        "nameTextMapHash": 3357177764,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15043_5",
+        "rankLevel": 4,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 401
+    },
+    "43453": {
+        "nameTextMapHash": 3522906468,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15043_5",
+        "rankLevel": 4,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 401
+    },
+    "43513": {
+        "nameTextMapHash": 3054949244,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15043_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 501
+    },
+    "43514": {
+        "nameTextMapHash": 3783056700,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15043_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 501
+    },
+    "43523": {
+        "nameTextMapHash": 4068316764,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15043_2",
+        "rankLevel": 5,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 501
+    },
+    "43524": {
+        "nameTextMapHash": 3219708100,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15043_2",
+        "rankLevel": 5,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 501
+    },
+    "43533": {
+        "nameTextMapHash": 2469001972,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15043_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 501
+    },
+    "43534": {
+        "nameTextMapHash": 2157464140,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15043_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 501
+    },
+    "43543": {
+        "nameTextMapHash": 1850577508,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15043_4",
+        "rankLevel": 5,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 501
+    },
+    "43544": {
+        "nameTextMapHash": 2097073492,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15043_4",
+        "rankLevel": 5,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 501
+    },
+    "43553": {
+        "nameTextMapHash": 150596900,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15043_5",
+        "rankLevel": 5,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 501
+    },
+    "43554": {
+        "nameTextMapHash": 1674704732,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15043_5",
+        "rankLevel": 5,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 501
+    },
+    "44412": {
+        "nameTextMapHash": 635856052,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 4,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 401
+    },
+    "44413": {
+        "nameTextMapHash": 3886852508,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 4,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 401
+    },
+    "44422": {
+        "nameTextMapHash": 1004843796,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15044_2",
+        "rankLevel": 4,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 401
+    },
+    "44423": {
+        "nameTextMapHash": 1677101076,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15044_2",
+        "rankLevel": 4,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 401
+    },
+    "44432": {
+        "nameTextMapHash": 2979106836,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15044_3",
+        "rankLevel": 4,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 401
+    },
+    "44433": {
+        "nameTextMapHash": 4126220524,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15044_3",
+        "rankLevel": 4,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 401
+    },
+    "44442": {
+        "nameTextMapHash": 2537699668,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15044_4",
+        "rankLevel": 4,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 401
+    },
+    "44443": {
+        "nameTextMapHash": 1977629556,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15044_4",
+        "rankLevel": 4,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 401
+    },
+    "44452": {
+        "nameTextMapHash": 1226718988,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15044_5",
+        "rankLevel": 4,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 401
+    },
+    "44453": {
+        "nameTextMapHash": 2491126060,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15044_5",
+        "rankLevel": 4,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 401
+    },
+    "44513": {
+        "nameTextMapHash": 3284636820,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 501
+    },
+    "44514": {
+        "nameTextMapHash": 264269596,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5000,
+        "appendPropDepotId": 501
+    },
+    "44523": {
+        "nameTextMapHash": 3809481884,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15044_2",
+        "rankLevel": 5,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 501
+    },
+    "44524": {
+        "nameTextMapHash": 1189027556,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15044_2",
+        "rankLevel": 5,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 501
+    },
+    "44533": {
+        "nameTextMapHash": 1638796108,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15044_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 501
+    },
+    "44534": {
+        "nameTextMapHash": 1165687972,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15044_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3000,
+        "appendPropDepotId": 501
+    },
+    "44543": {
+        "nameTextMapHash": 1675773740,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15044_4",
+        "rankLevel": 5,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 501
+    },
+    "44544": {
+        "nameTextMapHash": 4181215108,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15044_4",
+        "rankLevel": 5,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 501
+    },
+    "44553": {
+        "nameTextMapHash": 2583081740,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15044_5",
+        "rankLevel": 5,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 501
+    },
+    "44554": {
+        "nameTextMapHash": 1884758348,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15044_5",
+        "rankLevel": 5,
+        "mainPropDepotId": 1000,
+        "appendPropDepotId": 501
+    },
     "23300": {
         "nameTextMapHash": 1074056612,
         "itemType": "ITEM_RELIQUARY",
@@ -35174,11 +35534,11 @@
     "23787": {
         "nameTextMapHash": 4283504540,
         "itemType": "ITEM_RELIQUARY",
-        "equipType": "EQUIP_NECKLACE",
-        "icon": "UI_RelicIcon_15041_2",
-        "rankLevel": 4,
-        "mainPropDepotId": 2000,
-        "appendPropDepotId": 961
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15041_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5097,
+        "appendPropDepotId": 964
     },
     "23788": {
         "nameTextMapHash": 3726158588,
@@ -35192,11 +35552,11 @@
     "23789": {
         "nameTextMapHash": 37689060,
         "itemType": "ITEM_RELIQUARY",
-        "equipType": "EQUIP_BRACER",
-        "icon": "UI_RelicIcon_15041_4",
-        "rankLevel": 4,
-        "mainPropDepotId": 4000,
-        "appendPropDepotId": 962
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15041_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5098,
+        "appendPropDepotId": 964
     },
     "23790": {
         "nameTextMapHash": 2526529332,
@@ -35295,6 +35655,186 @@
         "icon": "UI_RelicIcon_15042_5",
         "rankLevel": 5,
         "mainPropDepotId": 1095,
+        "appendPropDepotId": 963
+    },
+    "23801": {
+        "nameTextMapHash": 2385078276,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15043_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5098,
+        "appendPropDepotId": 964
+    },
+    "23802": {
+        "nameTextMapHash": 2564687412,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15043_2",
+        "rankLevel": 5,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 961
+    },
+    "23803": {
+        "nameTextMapHash": 1560632556,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15043_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3096,
+        "appendPropDepotId": 965
+    },
+    "23804": {
+        "nameTextMapHash": 1404101620,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15043_4",
+        "rankLevel": 5,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 962
+    },
+    "23805": {
+        "nameTextMapHash": 3702224868,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15043_5",
+        "rankLevel": 5,
+        "mainPropDepotId": 1098,
+        "appendPropDepotId": 963
+    },
+    "23806": {
+        "nameTextMapHash": 1403759596,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15043_1",
+        "rankLevel": 4,
+        "mainPropDepotId": 5098,
+        "appendPropDepotId": 964
+    },
+    "23807": {
+        "nameTextMapHash": 214202028,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15043_2",
+        "rankLevel": 4,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 961
+    },
+    "23808": {
+        "nameTextMapHash": 3955279068,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15043_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3095,
+        "appendPropDepotId": 965
+    },
+    "23809": {
+        "nameTextMapHash": 1315970780,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15043_4",
+        "rankLevel": 4,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 962
+    },
+    "23810": {
+        "nameTextMapHash": 2845980244,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15043_5",
+        "rankLevel": 4,
+        "mainPropDepotId": 1098,
+        "appendPropDepotId": 963
+    },
+    "23811": {
+        "nameTextMapHash": 2443630676,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5099,
+        "appendPropDepotId": 964
+    },
+    "23812": {
+        "nameTextMapHash": 2409405940,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_NECKLACE",
+        "icon": "UI_RelicIcon_15044_2",
+        "rankLevel": 5,
+        "mainPropDepotId": 2000,
+        "appendPropDepotId": 961
+    },
+    "23813": {
+        "nameTextMapHash": 1296532148,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15044_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3095,
+        "appendPropDepotId": 965
+    },
+    "23814": {
+        "nameTextMapHash": 4150131052,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_BRACER",
+        "icon": "UI_RelicIcon_15044_4",
+        "rankLevel": 5,
+        "mainPropDepotId": 4000,
+        "appendPropDepotId": 962
+    },
+    "23815": {
+        "nameTextMapHash": 252581084,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15044_5",
+        "rankLevel": 5,
+        "mainPropDepotId": 1099,
+        "appendPropDepotId": 963
+    },
+    "23816": {
+        "nameTextMapHash": 4076840564,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5096,
+        "appendPropDepotId": 964
+    },
+    "23817": {
+        "nameTextMapHash": 2427922052,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5094,
+        "appendPropDepotId": 964
+    },
+    "23818": {
+        "nameTextMapHash": 4005920788,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15044_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5092,
+        "appendPropDepotId": 964
+    },
+    "23819": {
+        "nameTextMapHash": 396196476,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_DRESS",
+        "icon": "UI_RelicIcon_15044_3",
+        "rankLevel": 5,
+        "mainPropDepotId": 3096,
+        "appendPropDepotId": 965
+    },
+    "23820": {
+        "nameTextMapHash": 1980454876,
+        "itemType": "ITEM_RELIQUARY",
+        "equipType": "EQUIP_SHOES",
+        "icon": "UI_RelicIcon_15044_5",
+        "rankLevel": 4,
+        "mainPropDepotId": 1099,
         "appendPropDepotId": 963
     },
     "24101": {

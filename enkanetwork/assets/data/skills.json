@@ -2719,6 +2719,56 @@
         "skillIcon": "Skill_E_NPCIntelligence",
         "proudSkillGroupId": 0
     },
+    "11251": {
+        "nameTextMapHash": 1120752141,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 12531
+    },
+    "11252": {
+        "nameTextMapHash": 554770709,
+        "skillIcon": "Skill_S_Columbina_01",
+        "proudSkillGroupId": 12532
+    },
+    "11255": {
+        "nameTextMapHash": 338091549,
+        "skillIcon": "Skill_E_Columbina_01",
+        "proudSkillGroupId": 12539
+    },
+    "11261": {
+        "nameTextMapHash": 645861301,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 12631
+    },
+    "11262": {
+        "nameTextMapHash": 511796581,
+        "skillIcon": "Skill_S_Zibai_01",
+        "proudSkillGroupId": 12632
+    },
+    "11263": {
+        "nameTextMapHash": 911844085,
+        "skillIcon": "Skill_S_Zibai_02",
+        "proudSkillGroupId": 0
+    },
+    "11265": {
+        "nameTextMapHash": 765273701,
+        "skillIcon": "Skill_E_Zibai_01",
+        "proudSkillGroupId": 12639
+    },
+    "11271": {
+        "nameTextMapHash": 2526133845,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 12731
+    },
+    "11272": {
+        "nameTextMapHash": 2710993485,
+        "skillIcon": "Skill_S_Illuga_01",
+        "proudSkillGroupId": 12732
+    },
+    "11275": {
+        "nameTextMapHash": 2865963773,
+        "skillIcon": "Skill_E_Illuga_01",
+        "proudSkillGroupId": 12739
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3239,6 +3289,71 @@
         "skillIcon": "Btn_HideAndSeek_Hider_S_02_Borbid",
         "proudSkillGroupId": 0
     },
+    "20230": {
+        "nameTextMapHash": 3185270349,
+        "skillIcon": "Btn_LunarisCutParry_01",
+        "proudSkillGroupId": 0
+    },
+    "20231": {
+        "nameTextMapHash": 880633741,
+        "skillIcon": "Btn_LunarisCutParry_01",
+        "proudSkillGroupId": 0
+    },
+    "20232": {
+        "nameTextMapHash": 1956781301,
+        "skillIcon": "Btn_FairyBook_ToyBrick",
+        "proudSkillGroupId": 0
+    },
+    "20233": {
+        "nameTextMapHash": 1421116405,
+        "skillIcon": "Btn_FairyBook_OrigamiSquirrel_01",
+        "proudSkillGroupId": 0
+    },
+    "20234": {
+        "nameTextMapHash": 4235346005,
+        "skillIcon": "Btn_FairyBook_ToyBrick",
+        "proudSkillGroupId": 0
+    },
+    "20235": {
+        "nameTextMapHash": 2433549957,
+        "skillIcon": "Btn_FairyBook_OrigamiSquirrel_01",
+        "proudSkillGroupId": 0
+    },
+    "20236": {
+        "nameTextMapHash": 2410974445,
+        "skillIcon": "Btn_LunarisThrow",
+        "proudSkillGroupId": 0
+    },
+    "20237": {
+        "nameTextMapHash": 1535268733,
+        "skillIcon": "Btn_FairyBook_OrigamiAlpaca",
+        "proudSkillGroupId": 0
+    },
+    "20238": {
+        "nameTextMapHash": 583021349,
+        "skillIcon": "Btn_LunarisCutChange_01",
+        "proudSkillGroupId": 0
+    },
+    "20239": {
+        "nameTextMapHash": 3380014493,
+        "skillIcon": "Btn_LunarisCutParry_01",
+        "proudSkillGroupId": 0
+    },
+    "20244": {
+        "nameTextMapHash": 3644358893,
+        "skillIcon": "Btn_LunarisCutParry_01",
+        "proudSkillGroupId": 0
+    },
+    "20245": {
+        "nameTextMapHash": 1058738573,
+        "skillIcon": "Skill_E_LunarisDropDown",
+        "proudSkillGroupId": 0
+    },
+    "20246": {
+        "nameTextMapHash": 1383611325,
+        "skillIcon": "Skill_E_LunarisDropDown",
+        "proudSkillGroupId": 0
+    },
     "20400": {
         "nameTextMapHash": 2657714069,
         "skillIcon": "Btn_HideAndSeekV4_Seeker_S",
@@ -3669,6 +3784,21 @@
         "skillIcon": "UI_Icon_Skill_MoonNightRing",
         "proudSkillGroupId": 0
     },
+    "20379": {
+        "nameTextMapHash": 3139747213,
+        "skillIcon": "Btn_6_3_BossChallenge_Player_Q",
+        "proudSkillGroupId": 0
+    },
+    "20380": {
+        "nameTextMapHash": 2378018405,
+        "skillIcon": "Btn_6_3_BossChallenge_Player_E",
+        "proudSkillGroupId": 0
+    },
+    "20381": {
+        "nameTextMapHash": 1371898341,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
     "20601": {
         "nameTextMapHash": 2308638789,
         "skillIcon": "UI_Img_MVM_Skill_Summon",
@@ -3724,6 +3854,11 @@
         "skillIcon": "UI_Icon_Skill_MakeoverNightwatLantern",
         "proudSkillGroupId": 0
     },
+    "20620": {
+        "nameTextMapHash": 2555157389,
+        "skillIcon": "Btn_DBDThrowMoney",
+        "proudSkillGroupId": 0
+    },
     "20623": {
         "nameTextMapHash": 1918357093,
         "skillIcon": "Btn_AdventurePathwayPlanning_Absorb",
@@ -3744,9 +3879,39 @@
         "skillIcon": "Skill_E_Nefer_02",
         "proudSkillGroupId": 0
     },
+    "20639": {
+        "nameTextMapHash": 3383535949,
+        "skillIcon": "Btn_QTE_SpPutHand",
+        "proudSkillGroupId": 0
+    },
+    "20640": {
+        "nameTextMapHash": 2523889781,
+        "skillIcon": "Btn_LanV6Parkour_T_01",
+        "proudSkillGroupId": 0
+    },
+    "20641": {
+        "nameTextMapHash": 1494753957,
+        "skillIcon": "Btn_Cube_Delete_E",
+        "proudSkillGroupId": 0
+    },
+    "20642": {
+        "nameTextMapHash": 1737979549,
+        "skillIcon": "Btn_Cube_Confirm_Q",
+        "proudSkillGroupId": 0
+    },
     "20643": {
         "nameTextMapHash": 3773794429,
         "skillIcon": "Skill_SnowRace_Throw_Icon",
+        "proudSkillGroupId": 0
+    },
+    "20645": {
+        "nameTextMapHash": 2790760989,
+        "skillIcon": "Btn_Fishing_Exit",
+        "proudSkillGroupId": 0
+    },
+    "20648": {
+        "nameTextMapHash": 2796917,
+        "skillIcon": "Skill_RedEnvelope_Throw_Icon",
         "proudSkillGroupId": 0
     },
     "10384": {
@@ -4467,6 +4632,21 @@
     "5124010": {
         "nameTextMapHash": 3303962933,
         "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
+    },
+    "5125010": {
+        "nameTextMapHash": 867454845,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 0
+    },
+    "5126010": {
+        "nameTextMapHash": 4280557245,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
+    "5127010": {
+        "nameTextMapHash": 2277393685,
+        "skillIcon": "Skill_A_03",
         "proudSkillGroupId": 0
     }
 }
