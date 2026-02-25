@@ -2523,6 +2523,26 @@
             1276
         ]
     },
+    "10000128": {
+        "nameTextMapHash": 963351866,
+        "iconName": "UI_AvatarIcon_Varka",
+        "sideIconName": "UI_AvatarIcon_Side_Varka",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            11281,
+            11282,
+            11285
+        ],
+        "talents": [
+            1281,
+            1282,
+            1283,
+            1284,
+            1285,
+            1286
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",

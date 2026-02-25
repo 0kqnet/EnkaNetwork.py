@@ -635,6 +635,12 @@
         "awakenIcon": "UI_EquipIcon_Claymore_RadianceSword_Awaken",
         "rankLevel": 5
     },
+    "12515": {
+        "nameTextMapHash": 3121311955,
+        "icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+        "awakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+        "rankLevel": 5
+    },
     "13101": {
         "nameTextMapHash": 2796697027,
         "icon": "UI_EquipIcon_Pole_Gewalt",

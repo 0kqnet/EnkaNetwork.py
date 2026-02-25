@@ -2782,5 +2782,29 @@
     "1276": {
         "nameTextMapHash": 876659729,
         "icon": "UI_Talent_S_Illuga_04"
+    },
+    "1281": {
+        "nameTextMapHash": 2271959505,
+        "icon": "UI_Talent_S_Varka_01"
+    },
+    "1282": {
+        "nameTextMapHash": 1578787833,
+        "icon": "UI_Talent_S_Varka_02"
+    },
+    "1283": {
+        "nameTextMapHash": 3766799793,
+        "icon": "UI_Talent_U_Varka_01"
+    },
+    "1284": {
+        "nameTextMapHash": 2707568625,
+        "icon": "UI_Talent_S_Varka_03"
+    },
+    "1285": {
+        "nameTextMapHash": 1347124769,
+        "icon": "UI_Talent_U_Varka_02"
+    },
+    "1286": {
+        "nameTextMapHash": 1038147569,
+        "icon": "UI_Talent_S_Varka_04"
     }
 }

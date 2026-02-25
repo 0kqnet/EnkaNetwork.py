@@ -2769,6 +2769,41 @@
         "skillIcon": "Skill_E_Illuga_01",
         "proudSkillGroupId": 12739
     },
+    "11281": {
+        "nameTextMapHash": 492034421,
+        "skillIcon": "Skill_A_04",
+        "proudSkillGroupId": 12831
+    },
+    "11282": {
+        "nameTextMapHash": 3731269165,
+        "skillIcon": "Skill_S_Varka_01",
+        "proudSkillGroupId": 12832
+    },
+    "11283": {
+        "nameTextMapHash": 1408219405,
+        "skillIcon": "Skill_S_Varka_02",
+        "proudSkillGroupId": 0
+    },
+    "11284": {
+        "nameTextMapHash": 1625725133,
+        "skillIcon": "Skill_S_Varka_02",
+        "proudSkillGroupId": 0
+    },
+    "11285": {
+        "nameTextMapHash": 961138573,
+        "skillIcon": "Skill_E_Varka_01",
+        "proudSkillGroupId": 12839
+    },
+    "11287": {
+        "nameTextMapHash": 3356247645,
+        "skillIcon": "Skill_S_Varka_02",
+        "proudSkillGroupId": 0
+    },
+    "11288": {
+        "nameTextMapHash": 3445233733,
+        "skillIcon": "Skill_S_Varka_03",
+        "proudSkillGroupId": 0
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3909,6 +3944,11 @@
         "skillIcon": "Btn_Fishing_Exit",
         "proudSkillGroupId": 0
     },
+    "20647": {
+        "nameTextMapHash": 3321197597,
+        "skillIcon": "Skill_PotteryJar_Throw_Icon",
+        "proudSkillGroupId": 0
+    },
     "20648": {
         "nameTextMapHash": 2796917,
         "skillIcon": "Skill_RedEnvelope_Throw_Icon",
@@ -4647,6 +4687,11 @@
     "5127010": {
         "nameTextMapHash": 2277393685,
         "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 0
+    },
+    "5128010": {
+        "nameTextMapHash": 1685820197,
+        "skillIcon": "Skill_A_04",
         "proudSkillGroupId": 0
     }
 }

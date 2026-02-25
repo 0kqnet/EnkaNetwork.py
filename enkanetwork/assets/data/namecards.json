@@ -2678,5 +2678,25 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210273": {
+        "nameTextMapHash": 124652340,
+        "icon": "UI_NameCardIcon_Varka",
+        "picPath": [
+            "UI_NameCardPic_Varka_Alpha",
+            "UI_NameCardPic_Varka_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210274": {
+        "nameTextMapHash": 3598642812,
+        "icon": "UI_NameCardIcon_Bp48",
+        "picPath": [
+            "UI_NameCardPic_Bp48_Alpha",
+            "UI_NameCardPic_Bp48_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }
