@@ -2,7 +2,7 @@
     "200301": {
         "iconName": "UI_AvatarIcon_QinCostumeSea",
         "sideIconName": "UI_AvatarIcon_Side_QinCostumeSea",
-        "nameTextMapHash": 1504245738
+        "nameTextMapHash": 1504245226
     },
     "201401": {
         "iconName": "UI_AvatarIcon_BarbaraCostumeSummertime",
@@ -17,12 +17,12 @@
     "204201": {
         "iconName": "UI_AvatarIcon_KeqingCostumeFeather",
         "sideIconName": "UI_AvatarIcon_Side_KeqingCostumeFeather",
-        "nameTextMapHash": 1613857666
+        "nameTextMapHash": 1613857154
     },
     "200302": {
         "iconName": "UI_AvatarIcon_QinCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_QinCostumeWic",
-        "nameTextMapHash": 2691230306
+        "nameTextMapHash": 2691229794
     },
     "202101": {
         "iconName": "UI_AvatarIcon_AmborCostumeWic",
@@ -32,7 +32,7 @@
     "204101": {
         "iconName": "UI_AvatarIcon_MonaCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_MonaCostumeWic",
-        "nameTextMapHash": 1860400666
+        "nameTextMapHash": 1860400154
     },
     "204501": {
         "iconName": "UI_AvatarIcon_RosariaCostumeWic",
@@ -57,12 +57,12 @@
     "200601": {
         "iconName": "UI_AvatarIcon_LisaCostumeStudentin",
         "sideIconName": "UI_AvatarIcon_Side_LisaCostumeStudentin",
-        "nameTextMapHash": 2255412906
+        "nameTextMapHash": 2255412394
     },
     "202901": {
         "iconName": "UI_AvatarIcon_KleeCostumeWitch",
         "sideIconName": "UI_AvatarIcon_Side_KleeCostumeWitch",
-        "nameTextMapHash": 2343491290
+        "nameTextMapHash": 2343490778
     },
     "201501": {
         "iconName": "UI_AvatarIcon_KaeyaCostumeDancer",
@@ -72,12 +72,12 @@
     "206301": {
         "iconName": "UI_AvatarIcon_ShenheCostumeDai",
         "sideIconName": "UI_AvatarIcon_Side_ShenheCostumeDai",
-        "nameTextMapHash": 945735386
+        "nameTextMapHash": 945734874
     },
     "203701": {
         "iconName": "UI_AvatarIcon_GanyuCostumeYu",
         "sideIconName": "UI_AvatarIcon_Side_GanyuCostumeYu",
-        "nameTextMapHash": 1442607890
+        "nameTextMapHash": 1442607378
     },
     "202501": {
         "iconName": "UI_AvatarIcon_XingqiuCostumeBamboo",
@@ -92,7 +92,7 @@
     "206101": {
         "iconName": "UI_AvatarIcon_MomokaCostumeErrantry",
         "sideIconName": "UI_AvatarIcon_Side_MomokaCostumeErrantry",
-        "nameTextMapHash": 443620306
+        "nameTextMapHash": 443619794
     },
     "204601": {
         "iconName": "UI_AvatarIcon_HutaoCostumeWinter",
@@ -107,32 +107,32 @@
     "206001": {
         "iconName": "UI_AvatarIcon_YelanCostumeSummer",
         "sideIconName": "UI_AvatarIcon_Side_YelanCostumeSummer",
-        "nameTextMapHash": 2911925882
+        "nameTextMapHash": 2911925370
     },
     "203201": {
         "iconName": "UI_AvatarIcon_BennettCostumeSummer",
         "sideIconName": "UI_AvatarIcon_Side_BennettCostumeSummer",
-        "nameTextMapHash": 940723026
+        "nameTextMapHash": 940722514
     },
     "212301": {
         "iconName": "UI_AvatarIcon_DurinCostumeWic",
         "sideIconName": "UI_AvatarIcon_Side_DurinCostumeWic",
-        "nameTextMapHash": 2612042642
+        "nameTextMapHash": 2612042130
     },
     "200501": {
         "iconName": "UI_AvatarIcon_PlayerBoyCostumeCWXR",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR",
-        "nameTextMapHash": 506228722
+        "nameTextMapHash": 506228210
     },
     "200701": {
         "iconName": "UI_AvatarIcon_PlayerGirlCostumeCWXR",
         "sideIconName": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR",
-        "nameTextMapHash": 906546754
+        "nameTextMapHash": 906546242
     },
     "208701": {
         "iconName": "UI_AvatarIcon_NeuvilletteCostumeWinter",
         "sideIconName": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter",
-        "nameTextMapHash": 96397922
+        "nameTextMapHash": 96397410
     },
     "207701": {
         "iconName": "UI_AvatarIcon_YaoyaoCostumeWinter",

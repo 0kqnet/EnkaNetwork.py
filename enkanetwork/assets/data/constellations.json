@@ -1,6 +1,6 @@
 {
     "21": {
-        "nameTextMapHash": 3364696049,
+        "nameTextMapHash": 3364695537,
         "icon": "UI_Talent_S_Ayaka_01"
     },
     "22": {
@@ -12,23 +12,23 @@
         "icon": "UI_Talent_U_Ayaka_02"
     },
     "24": {
-        "nameTextMapHash": 2463454169,
+        "nameTextMapHash": 2463453657,
         "icon": "UI_Talent_S_Ayaka_03"
     },
     "25": {
-        "nameTextMapHash": 51561297,
+        "nameTextMapHash": 51560785,
         "icon": "UI_Talent_U_Ayaka_01"
     },
     "26": {
-        "nameTextMapHash": 2587184913,
+        "nameTextMapHash": 2587184401,
         "icon": "UI_Talent_S_Ayaka_04"
     },
     "31": {
-        "nameTextMapHash": 2935753641,
+        "nameTextMapHash": 2935753129,
         "icon": "UI_Talent_S_Qin_01"
     },
     "32": {
-        "nameTextMapHash": 573725673,
+        "nameTextMapHash": 573725161,
         "icon": "UI_Talent_S_Qin_02"
     },
     "33": {
@@ -40,7 +40,7 @@
         "icon": "UI_Talent_S_Qin_03"
     },
     "35": {
-        "nameTextMapHash": 2712156785,
+        "nameTextMapHash": 2712156273,
         "icon": "UI_Talent_U_Qin_01"
     },
     "36": {
@@ -52,7 +52,7 @@
         "icon": "UI_Talent_S_Lisa_01"
     },
     "42": {
-        "nameTextMapHash": 1523216321,
+        "nameTextMapHash": 1523215809,
         "icon": "UI_Talent_S_Lisa_02"
     },
     "43": {
@@ -60,11 +60,11 @@
         "icon": "UI_Talent_U_Lisa_02"
     },
     "44": {
-        "nameTextMapHash": 1540277121,
+        "nameTextMapHash": 1540276609,
         "icon": "UI_Talent_S_Lisa_03"
     },
     "45": {
-        "nameTextMapHash": 2256541273,
+        "nameTextMapHash": 2256540761,
         "icon": "UI_Talent_U_Lisa_01"
     },
     "46": {
@@ -72,11 +72,11 @@
         "icon": "UI_Talent_S_Lisa_04"
     },
     "71": {
-        "nameTextMapHash": 1939010113,
+        "nameTextMapHash": 1939009601,
         "icon": "UI_Talent_S_PlayerWind_01"
     },
     "72": {
-        "nameTextMapHash": 202198665,
+        "nameTextMapHash": 202198153,
         "icon": "UI_Talent_S_PlayerWind_02"
     },
     "73": {
@@ -88,11 +88,11 @@
         "icon": "UI_Talent_S_PlayerWind_03"
     },
     "75": {
-        "nameTextMapHash": 1400173321,
+        "nameTextMapHash": 1400172809,
         "icon": "UI_Talent_U_PlayerWind_01"
     },
     "76": {
-        "nameTextMapHash": 3558611633,
+        "nameTextMapHash": 3558611121,
         "icon": "UI_Talent_S_PlayerWind_04"
     },
     "91": {
@@ -104,15 +104,15 @@
         "icon": "UI_Talent_S_PlayerRock_02"
     },
     "93": {
-        "nameTextMapHash": 622533617,
+        "nameTextMapHash": 622533105,
         "icon": "UI_Talent_U_PlayerRock_02"
     },
     "94": {
-        "nameTextMapHash": 161259209,
+        "nameTextMapHash": 161258697,
         "icon": "UI_Talent_S_PlayerRock_03"
     },
     "95": {
-        "nameTextMapHash": 4177873769,
+        "nameTextMapHash": 4177873257,
         "icon": "UI_Talent_U_PlayerRock_01"
     },
     "96": {
@@ -124,7 +124,7 @@
         "icon": "UI_Talent_S_PlayerElectric_01"
     },
     "102": {
-        "nameTextMapHash": 23741097,
+        "nameTextMapHash": 23740585,
         "icon": "UI_Talent_S_PlayerElectric_02"
     },
     "103": {
@@ -136,11 +136,11 @@
         "icon": "UI_Talent_S_PlayerElectric_03"
     },
     "105": {
-        "nameTextMapHash": 2241540777,
+        "nameTextMapHash": 2241540265,
         "icon": "UI_Talent_U_PlayerElectric_02"
     },
     "106": {
-        "nameTextMapHash": 1885207465,
+        "nameTextMapHash": 1885206953,
         "icon": "UI_Talent_S_PlayerElectric_04"
     },
     "111": {
@@ -168,7 +168,7 @@
         "icon": "UI_Talent_S_PlayerGrass_06"
     },
     "61": {
-        "nameTextMapHash": 464807465,
+        "nameTextMapHash": 464806953,
         "icon": "UI_Talent_S_PlayerWater_01"
     },
     "62": {
@@ -180,11 +180,11 @@
         "icon": "UI_Talent_U_PlayerWater_01"
     },
     "64": {
-        "nameTextMapHash": 663820225,
+        "nameTextMapHash": 663819713,
         "icon": "UI_Talent_S_PlayerWater_03"
     },
     "65": {
-        "nameTextMapHash": 110055385,
+        "nameTextMapHash": 110054873,
         "icon": "UI_Talent_U_PlayerWater_02"
     },
     "66": {
@@ -192,7 +192,7 @@
         "icon": "UI_Talent_S_PlayerWater_04"
     },
     "51": {
-        "nameTextMapHash": 1849613921,
+        "nameTextMapHash": 1849613409,
         "icon": "UI_Talent_S_PlayerFire_01"
     },
     "52": {
@@ -200,7 +200,7 @@
         "icon": "UI_Talent_S_PlayerFire_02"
     },
     "53": {
-        "nameTextMapHash": 3207864049,
+        "nameTextMapHash": 3207863537,
         "icon": "UI_Talent_U_PlayerFire_01"
     },
     "54": {
@@ -220,11 +220,11 @@
         "icon": "UI_Talent_S_Barbara_01"
     },
     "142": {
-        "nameTextMapHash": 3458095841,
+        "nameTextMapHash": 3458095329,
         "icon": "UI_Talent_S_Barbara_02"
     },
     "143": {
-        "nameTextMapHash": 929991257,
+        "nameTextMapHash": 929990745,
         "icon": "UI_Talent_U_Barbara_02"
     },
     "144": {
@@ -240,15 +240,15 @@
         "icon": "UI_Talent_S_Barbara_04"
     },
     "151": {
-        "nameTextMapHash": 1478938545,
+        "nameTextMapHash": 1478938033,
         "icon": "UI_Talent_S_Kaeya_01"
     },
     "152": {
-        "nameTextMapHash": 1425365945,
+        "nameTextMapHash": 1425365433,
         "icon": "UI_Talent_S_Kaeya_02"
     },
     "153": {
-        "nameTextMapHash": 1397996209,
+        "nameTextMapHash": 1397995697,
         "icon": "UI_Talent_U_Kaeya_01"
     },
     "154": {
@@ -280,31 +280,31 @@
         "icon": "UI_Talent_S_Diluc_03"
     },
     "165": {
-        "nameTextMapHash": 2293832361,
+        "nameTextMapHash": 2293831849,
         "icon": "UI_Talent_U_Diluc_02"
     },
     "166": {
-        "nameTextMapHash": 4215692089,
+        "nameTextMapHash": 4215691577,
         "icon": "UI_Talent_S_Diluc_04"
     },
     "201": {
-        "nameTextMapHash": 456119193,
+        "nameTextMapHash": 456118681,
         "icon": "UI_Talent_S_Razor_01"
     },
     "202": {
-        "nameTextMapHash": 3370625609,
+        "nameTextMapHash": 3370625097,
         "icon": "UI_Talent_S_Razor_02"
     },
     "203": {
-        "nameTextMapHash": 3366391689,
+        "nameTextMapHash": 3366391177,
         "icon": "UI_Talent_U_Razor_02"
     },
     "204": {
-        "nameTextMapHash": 770839401,
+        "nameTextMapHash": 770838889,
         "icon": "UI_Talent_S_Razor_03"
     },
     "205": {
-        "nameTextMapHash": 1781683177,
+        "nameTextMapHash": 1781682665,
         "icon": "UI_Talent_U_Razor_01"
     },
     "206": {
@@ -324,11 +324,11 @@
         "icon": "UI_Talent_U_Ambor_02"
     },
     "214": {
-        "nameTextMapHash": 2969048825,
+        "nameTextMapHash": 2969048313,
         "icon": "UI_Talent_S_Ambor_03"
     },
     "215": {
-        "nameTextMapHash": 1752633193,
+        "nameTextMapHash": 1752632681,
         "icon": "UI_Talent_U_Ambor_01"
     },
     "216": {
@@ -336,7 +336,7 @@
         "icon": "UI_Talent_S_Ambor_04"
     },
     "221": {
-        "nameTextMapHash": 2201097153,
+        "nameTextMapHash": 2201096641,
         "icon": "UI_Talent_S_Venti_01"
     },
     "222": {
@@ -352,7 +352,7 @@
         "icon": "UI_Talent_S_Venti_03"
     },
     "225": {
-        "nameTextMapHash": 3652037273,
+        "nameTextMapHash": 3652036761,
         "icon": "UI_Talent_U_Venti_01"
     },
     "226": {
@@ -360,19 +360,19 @@
         "icon": "UI_Talent_S_Venti_04"
     },
     "231": {
-        "nameTextMapHash": 1194445449,
+        "nameTextMapHash": 1194444937,
         "icon": "UI_Talent_S_Xiangling_01"
     },
     "232": {
-        "nameTextMapHash": 1745094577,
+        "nameTextMapHash": 1745094065,
         "icon": "UI_Talent_S_Xiangling_02"
     },
     "233": {
-        "nameTextMapHash": 2414003921,
+        "nameTextMapHash": 2414003409,
         "icon": "UI_Talent_U_Xiangling_02"
     },
     "234": {
-        "nameTextMapHash": 2365969361,
+        "nameTextMapHash": 2365968849,
         "icon": "UI_Talent_S_Xiangling_03"
     },
     "235": {
@@ -380,7 +380,7 @@
         "icon": "UI_Talent_U_Xiangling_01"
     },
     "236": {
-        "nameTextMapHash": 2739862033,
+        "nameTextMapHash": 2739861521,
         "icon": "UI_Talent_S_Xiangling_04"
     },
     "241": {
@@ -396,7 +396,7 @@
         "icon": "UI_Talent_U_Beidou_01"
     },
     "244": {
-        "nameTextMapHash": 1523101409,
+        "nameTextMapHash": 1523100897,
         "icon": "UI_Talent_S_Beidou_03"
     },
     "245": {
@@ -404,7 +404,7 @@
         "icon": "UI_Talent_U_Beidou_02"
     },
     "246": {
-        "nameTextMapHash": 688452449,
+        "nameTextMapHash": 688451937,
         "icon": "UI_Talent_S_Beidou_04"
     },
     "251": {
@@ -424,7 +424,7 @@
         "icon": "UI_Talent_S_Xingqiu_03"
     },
     "255": {
-        "nameTextMapHash": 2024007257,
+        "nameTextMapHash": 2024006745,
         "icon": "UI_Talent_U_Xingqiu_02"
     },
     "256": {
@@ -436,7 +436,7 @@
         "icon": "UI_Talent_S_Xiao_01"
     },
     "262": {
-        "nameTextMapHash": 1959296641,
+        "nameTextMapHash": 1959296129,
         "icon": "UI_Talent_S_Xiao_02"
     },
     "263": {
@@ -448,19 +448,19 @@
         "icon": "UI_Talent_S_Xiao_03"
     },
     "265": {
-        "nameTextMapHash": 4032000625,
+        "nameTextMapHash": 4032000113,
         "icon": "UI_Talent_U_Xiao_02"
     },
     "266": {
-        "nameTextMapHash": 998328113,
+        "nameTextMapHash": 998327601,
         "icon": "UI_Talent_S_Xiao_04"
     },
     "271": {
-        "nameTextMapHash": 2798083633,
+        "nameTextMapHash": 2798083121,
         "icon": "UI_Talent_S_Ningguang_01"
     },
     "272": {
-        "nameTextMapHash": 3383823929,
+        "nameTextMapHash": 3383823417,
         "icon": "UI_Talent_S_Ningguang_05"
     },
     "273": {
@@ -468,15 +468,15 @@
         "icon": "UI_Talent_U_Ningguang_02"
     },
     "274": {
-        "nameTextMapHash": 900430793,
+        "nameTextMapHash": 900430281,
         "icon": "UI_Talent_S_Ningguang_03"
     },
     "275": {
-        "nameTextMapHash": 276636521,
+        "nameTextMapHash": 276636009,
         "icon": "UI_Talent_U_Ningguang_01"
     },
     "276": {
-        "nameTextMapHash": 637125593,
+        "nameTextMapHash": 637125081,
         "icon": "UI_Talent_S_Ningguang_04"
     },
     "291": {
@@ -484,7 +484,7 @@
         "icon": "UI_Talent_S_Klee_01"
     },
     "292": {
-        "nameTextMapHash": 328772169,
+        "nameTextMapHash": 328771657,
         "icon": "UI_Talent_S_Klee_02"
     },
     "293": {
@@ -500,7 +500,7 @@
         "icon": "UI_Talent_U_Klee_02"
     },
     "296": {
-        "nameTextMapHash": 1554210529,
+        "nameTextMapHash": 1554210017,
         "icon": "UI_Talent_S_Klee_04"
     },
     "301": {
@@ -516,11 +516,11 @@
         "icon": "UI_Talent_U_Zhongli_01"
     },
     "304": {
-        "nameTextMapHash": 583045657,
+        "nameTextMapHash": 583045145,
         "icon": "UI_Talent_S_Zhongli_03"
     },
     "305": {
-        "nameTextMapHash": 3586646841,
+        "nameTextMapHash": 3586646329,
         "icon": "UI_Talent_U_Zhongli_02"
     },
     "306": {
@@ -536,11 +536,11 @@
         "icon": "UI_Talent_S_Fischl_02"
     },
     "313": {
-        "nameTextMapHash": 1999125225,
+        "nameTextMapHash": 1999124713,
         "icon": "UI_Talent_U_Fischl_01"
     },
     "314": {
-        "nameTextMapHash": 469910073,
+        "nameTextMapHash": 469909561,
         "icon": "UI_Talent_S_Fischl_03"
     },
     "315": {
@@ -564,11 +564,11 @@
         "icon": "UI_Talent_U_Bennett_01"
     },
     "324": {
-        "nameTextMapHash": 3306938097,
+        "nameTextMapHash": 3306937585,
         "icon": "UI_Talent_S_Bennett_03"
     },
     "325": {
-        "nameTextMapHash": 2443947665,
+        "nameTextMapHash": 2443947153,
         "icon": "UI_Talent_U_Bennett_02"
     },
     "326": {
@@ -576,7 +576,7 @@
         "icon": "UI_Talent_S_Bennett_04"
     },
     "331": {
-        "nameTextMapHash": 1777276769,
+        "nameTextMapHash": 1777276257,
         "icon": "UI_Talent_S_Tartaglia_01"
     },
     "332": {
@@ -620,7 +620,7 @@
         "icon": "UI_Talent_U_Noel_02"
     },
     "346": {
-        "nameTextMapHash": 79084353,
+        "nameTextMapHash": 79083841,
         "icon": "UI_Talent_S_Noel_04"
     },
     "351": {
@@ -628,7 +628,7 @@
         "icon": "UI_Talent_S_Qiqi_01"
     },
     "352": {
-        "nameTextMapHash": 388179873,
+        "nameTextMapHash": 388179361,
         "icon": "UI_Talent_S_Qiqi_02"
     },
     "353": {
@@ -636,7 +636,7 @@
         "icon": "UI_Talent_U_Qiqi_01"
     },
     "354": {
-        "nameTextMapHash": 3785958321,
+        "nameTextMapHash": 3785957809,
         "icon": "UI_Talent_S_Qiqi_03"
     },
     "355": {
@@ -648,7 +648,7 @@
         "icon": "UI_Talent_S_Qiqi_04"
     },
     "361": {
-        "nameTextMapHash": 1859111849,
+        "nameTextMapHash": 1859111337,
         "icon": "UI_Talent_S_Chongyun_01"
     },
     "362": {
@@ -660,7 +660,7 @@
         "icon": "UI_Talent_U_Chongyun_01"
     },
     "364": {
-        "nameTextMapHash": 1282888193,
+        "nameTextMapHash": 1282887681,
         "icon": "UI_Talent_S_Chongyun_03"
     },
     "365": {
@@ -680,15 +680,15 @@
         "icon": "UI_Talent_S_Ganyu_02"
     },
     "373": {
-        "nameTextMapHash": 3222345473,
+        "nameTextMapHash": 3222344961,
         "icon": "UI_Talent_U_Ganyu_01"
     },
     "374": {
-        "nameTextMapHash": 3290499593,
+        "nameTextMapHash": 3290499081,
         "icon": "UI_Talent_S_Ganyu_03"
     },
     "375": {
-        "nameTextMapHash": 1752707929,
+        "nameTextMapHash": 1752707417,
         "icon": "UI_Talent_U_Ganyu_02"
     },
     "376": {
@@ -700,11 +700,11 @@
         "icon": "UI_Talent_S_Albedo_01"
     },
     "382": {
-        "nameTextMapHash": 151370681,
+        "nameTextMapHash": 151370169,
         "icon": "UI_Talent_S_Albedo_02"
     },
     "383": {
-        "nameTextMapHash": 625211161,
+        "nameTextMapHash": 625210649,
         "icon": "UI_Talent_U_Albedo_01"
     },
     "384": {
@@ -716,7 +716,7 @@
         "icon": "UI_Talent_U_Albedo_02"
     },
     "386": {
-        "nameTextMapHash": 3605875457,
+        "nameTextMapHash": 3605874945,
         "icon": "UI_Talent_S_Albedo_04"
     },
     "391": {
@@ -740,11 +740,11 @@
         "icon": "UI_Talent_U_Diona_02"
     },
     "396": {
-        "nameTextMapHash": 3637405321,
+        "nameTextMapHash": 3637404809,
         "icon": "UI_Talent_S_Diona_04"
     },
     "411": {
-        "nameTextMapHash": 3262519193,
+        "nameTextMapHash": 3262518681,
         "icon": "UI_Talent_S_Mona_01"
     },
     "412": {
@@ -760,7 +760,7 @@
         "icon": "UI_Talent_S_Mona_03"
     },
     "415": {
-        "nameTextMapHash": 496658001,
+        "nameTextMapHash": 496657489,
         "icon": "UI_Talent_U_Mona_02"
     },
     "416": {
@@ -772,7 +772,7 @@
         "icon": "UI_Talent_S_Keqing_01"
     },
     "422": {
-        "nameTextMapHash": 1003272937,
+        "nameTextMapHash": 1003272425,
         "icon": "UI_Talent_S_Keqing_02"
     },
     "423": {
@@ -780,15 +780,15 @@
         "icon": "UI_Talent_U_Keqing_01"
     },
     "424": {
-        "nameTextMapHash": 2598965033,
+        "nameTextMapHash": 2598964521,
         "icon": "UI_Talent_S_Keqing_03"
     },
     "425": {
-        "nameTextMapHash": 1939891865,
+        "nameTextMapHash": 1939891353,
         "icon": "UI_Talent_U_Keqing_02"
     },
     "426": {
-        "nameTextMapHash": 547902305,
+        "nameTextMapHash": 547901793,
         "icon": "UI_Talent_S_Keqing_04"
     },
     "431": {
@@ -796,11 +796,11 @@
         "icon": "UI_Talent_S_Sucrose_01"
     },
     "432": {
-        "nameTextMapHash": 412718689,
+        "nameTextMapHash": 412718177,
         "icon": "UI_Talent_S_Sucrose_02"
     },
     "433": {
-        "nameTextMapHash": 3504453161,
+        "nameTextMapHash": 3504452649,
         "icon": "UI_Talent_U_Sucrose_01"
     },
     "434": {
@@ -812,7 +812,7 @@
         "icon": "UI_Talent_U_Sucrose_02"
     },
     "436": {
-        "nameTextMapHash": 344305449,
+        "nameTextMapHash": 344304937,
         "icon": "UI_Talent_S_Sucrose_04"
     },
     "441": {
@@ -820,11 +820,11 @@
         "icon": "UI_Talent_S_Xinyan_01"
     },
     "442": {
-        "nameTextMapHash": 2247567929,
+        "nameTextMapHash": 2247567417,
         "icon": "UI_Talent_S_Xinyan_02"
     },
     "443": {
-        "nameTextMapHash": 3545262929,
+        "nameTextMapHash": 3545262417,
         "icon": "UI_Talent_U_Xinyan_01"
     },
     "444": {
@@ -840,11 +840,11 @@
         "icon": "UI_Talent_S_Xinyan_04"
     },
     "451": {
-        "nameTextMapHash": 1747862233,
+        "nameTextMapHash": 1747861721,
         "icon": "UI_Talent_S_Rosaria_01"
     },
     "452": {
-        "nameTextMapHash": 3870318265,
+        "nameTextMapHash": 3870317753,
         "icon": "UI_Talent_S_Rosaria_02"
     },
     "453": {
@@ -856,7 +856,7 @@
         "icon": "UI_Talent_S_Rosaria_03"
     },
     "455": {
-        "nameTextMapHash": 1802655737,
+        "nameTextMapHash": 1802655225,
         "icon": "UI_Talent_U_Rosaria_02"
     },
     "456": {
@@ -872,11 +872,11 @@
         "icon": "UI_Talent_S_Hutao_01"
     },
     "463": {
-        "nameTextMapHash": 3111083697,
+        "nameTextMapHash": 3111083185,
         "icon": "UI_Talent_U_Hutao_01"
     },
     "464": {
-        "nameTextMapHash": 4276933609,
+        "nameTextMapHash": 4276933097,
         "icon": "UI_Talent_S_Hutao_02"
     },
     "465": {
@@ -884,7 +884,7 @@
         "icon": "UI_Talent_U_Hutao_02"
     },
     "466": {
-        "nameTextMapHash": 2361886209,
+        "nameTextMapHash": 2361885697,
         "icon": "UI_Talent_S_Hutao_04"
     },
     "471": {
@@ -896,7 +896,7 @@
         "icon": "UI_Talent_S_Kazuha_02"
     },
     "473": {
-        "nameTextMapHash": 2202533753,
+        "nameTextMapHash": 2202533241,
         "icon": "UI_Talent_U_Kazuha_01"
     },
     "474": {
@@ -916,7 +916,7 @@
         "icon": "UI_Talent_S_Feiyan_01"
     },
     "482": {
-        "nameTextMapHash": 886053825,
+        "nameTextMapHash": 886053313,
         "icon": "UI_Talent_S_Feiyan_02"
     },
     "483": {
@@ -936,7 +936,7 @@
         "icon": "UI_Talent_S_Feiyan_04"
     },
     "491": {
-        "nameTextMapHash": 106208137,
+        "nameTextMapHash": 106207625,
         "icon": "UI_Talent_S_Yoimiya_01"
     },
     "492": {
@@ -944,7 +944,7 @@
         "icon": "UI_Talent_S_Yoimiya_02"
     },
     "493": {
-        "nameTextMapHash": 3467544337,
+        "nameTextMapHash": 3467543825,
         "icon": "UI_Talent_U_Yoimiya_01"
     },
     "494": {
@@ -952,7 +952,7 @@
         "icon": "UI_Talent_S_Yoimiya_03"
     },
     "495": {
-        "nameTextMapHash": 3785597649,
+        "nameTextMapHash": 3785597137,
         "icon": "UI_Talent_U_Yoimiya_02"
     },
     "496": {
@@ -960,7 +960,7 @@
         "icon": "UI_Talent_S_Yoimiya_04"
     },
     "501": {
-        "nameTextMapHash": 288006665,
+        "nameTextMapHash": 288006153,
         "icon": "UI_Talent_S_Tohma_01"
     },
     "502": {
@@ -968,7 +968,7 @@
         "icon": "UI_Talent_S_Tohma_02"
     },
     "503": {
-        "nameTextMapHash": 2578792073,
+        "nameTextMapHash": 2578791561,
         "icon": "UI_Talent_U_Tohma_01"
     },
     "504": {
@@ -976,11 +976,11 @@
         "icon": "UI_Talent_S_Tohma_03"
     },
     "505": {
-        "nameTextMapHash": 3609710361,
+        "nameTextMapHash": 3609709849,
         "icon": "UI_Talent_U_Tohma_02"
     },
     "506": {
-        "nameTextMapHash": 297689921,
+        "nameTextMapHash": 297689409,
         "icon": "UI_Talent_S_Tohma_04"
     },
     "511": {
@@ -988,11 +988,11 @@
         "icon": "UI_Talent_S_Eula_02"
     },
     "512": {
-        "nameTextMapHash": 4116602505,
+        "nameTextMapHash": 4116601993,
         "icon": "UI_Talent_S_Eula_01"
     },
     "513": {
-        "nameTextMapHash": 4017023737,
+        "nameTextMapHash": 4017023225,
         "icon": "UI_Talent_U_Eula_01"
     },
     "514": {
@@ -1000,7 +1000,7 @@
         "icon": "UI_Talent_S_Eula_03"
     },
     "515": {
-        "nameTextMapHash": 3295716345,
+        "nameTextMapHash": 3295715833,
         "icon": "UI_Talent_U_Eula_02"
     },
     "516": {
@@ -1008,7 +1008,7 @@
         "icon": "UI_Talent_S_Eula_04"
     },
     "521": {
-        "nameTextMapHash": 1241899985,
+        "nameTextMapHash": 1241899473,
         "icon": "UI_Talent_S_Shougun_01"
     },
     "522": {
@@ -1020,7 +1020,7 @@
         "icon": "UI_Talent_U_Shougun_02"
     },
     "524": {
-        "nameTextMapHash": 1996396257,
+        "nameTextMapHash": 1996395745,
         "icon": "UI_Talent_S_Shougun_02"
     },
     "525": {
@@ -1028,7 +1028,7 @@
         "icon": "UI_Talent_U_Shougun_01"
     },
     "526": {
-        "nameTextMapHash": 1600914409,
+        "nameTextMapHash": 1600913897,
         "icon": "UI_Talent_S_Shougun_04"
     },
     "531": {
@@ -1036,11 +1036,11 @@
         "icon": "UI_Talent_S_Sayu_01"
     },
     "532": {
-        "nameTextMapHash": 2759348737,
+        "nameTextMapHash": 2759348225,
         "icon": "UI_Talent_S_Sayu_02"
     },
     "533": {
-        "nameTextMapHash": 1035025377,
+        "nameTextMapHash": 1035024865,
         "icon": "UI_Talent_U_Sayu_02"
     },
     "534": {
@@ -1060,15 +1060,15 @@
         "icon": "UI_Talent_S_Kokomi_01"
     },
     "542": {
-        "nameTextMapHash": 3826006561,
+        "nameTextMapHash": 3826006049,
         "icon": "UI_Talent_S_Kokomi_02"
     },
     "543": {
-        "nameTextMapHash": 2416690001,
+        "nameTextMapHash": 2416689489,
         "icon": "UI_Talent_U_Kokomi_02"
     },
     "544": {
-        "nameTextMapHash": 1493731113,
+        "nameTextMapHash": 1493730601,
         "icon": "UI_Talent_S_Kokomi_03"
     },
     "545": {
@@ -1080,7 +1080,7 @@
         "icon": "UI_Talent_S_Kokomi_04"
     },
     "551": {
-        "nameTextMapHash": 674796161,
+        "nameTextMapHash": 674795649,
         "icon": "UI_Talent_S_Gorou_01"
     },
     "552": {
@@ -1088,15 +1088,15 @@
         "icon": "UI_Talent_S_Gorou_02"
     },
     "553": {
-        "nameTextMapHash": 1718191057,
+        "nameTextMapHash": 1718190545,
         "icon": "UI_Talent_U_Gorou_01"
     },
     "554": {
-        "nameTextMapHash": 3990139889,
+        "nameTextMapHash": 3990139377,
         "icon": "UI_Talent_S_Gorou_03"
     },
     "555": {
-        "nameTextMapHash": 1205827537,
+        "nameTextMapHash": 1205827025,
         "icon": "UI_Talent_U_Gorou_02"
     },
     "556": {
@@ -1104,7 +1104,7 @@
         "icon": "UI_Talent_S_Gorou_04"
     },
     "561": {
-        "nameTextMapHash": 2730852953,
+        "nameTextMapHash": 2730852441,
         "icon": "UI_Talent_S_Sara_05"
     },
     "562": {
@@ -1116,7 +1116,7 @@
         "icon": "UI_Talent_U_Sara_02"
     },
     "564": {
-        "nameTextMapHash": 4283074321,
+        "nameTextMapHash": 4283073809,
         "icon": "UI_Talent_S_Sara_03"
     },
     "565": {
@@ -1124,11 +1124,11 @@
         "icon": "UI_Talent_U_Sara_01"
     },
     "566": {
-        "nameTextMapHash": 165492609,
+        "nameTextMapHash": 165492097,
         "icon": "UI_Talent_S_Sara_04"
     },
     "571": {
-        "nameTextMapHash": 1236864529,
+        "nameTextMapHash": 1236864017,
         "icon": "UI_Talent_S_Itto_01"
     },
     "572": {
@@ -1136,11 +1136,11 @@
         "icon": "UI_Talent_S_Itto_02"
     },
     "573": {
-        "nameTextMapHash": 4058778385,
+        "nameTextMapHash": 4058777873,
         "icon": "UI_Talent_U_Itto_01"
     },
     "574": {
-        "nameTextMapHash": 351727225,
+        "nameTextMapHash": 351726713,
         "icon": "UI_Talent_S_Itto_03"
     },
     "575": {
@@ -1148,15 +1148,15 @@
         "icon": "UI_Talent_U_Itto_02"
     },
     "576": {
-        "nameTextMapHash": 2138862273,
+        "nameTextMapHash": 2138861761,
         "icon": "UI_Talent_S_Itto_04"
     },
     "581": {
-        "nameTextMapHash": 2281393129,
+        "nameTextMapHash": 2281392617,
         "icon": "UI_Talent_S_Yae_01"
     },
     "582": {
-        "nameTextMapHash": 2254983737,
+        "nameTextMapHash": 2254983225,
         "icon": "UI_Talent_S_Yae_02"
     },
     "583": {
@@ -1184,7 +1184,7 @@
         "icon": "UI_Talent_S_Heizo_02"
     },
     "593": {
-        "nameTextMapHash": 2470569577,
+        "nameTextMapHash": 2470569065,
         "icon": "UI_Talent_U_Heizo_01"
     },
     "594": {
@@ -1200,7 +1200,7 @@
         "icon": "UI_Talent_S_Heizo_04"
     },
     "601": {
-        "nameTextMapHash": 748294089,
+        "nameTextMapHash": 748293577,
         "icon": "UI_Talent_S_Yelan_01"
     },
     "602": {
@@ -1208,7 +1208,7 @@
         "icon": "UI_Talent_S_Yelan_02"
     },
     "603": {
-        "nameTextMapHash": 2703450625,
+        "nameTextMapHash": 2703450113,
         "icon": "UI_Talent_U_Yelan_01"
     },
     "604": {
@@ -1228,7 +1228,7 @@
         "icon": "UI_Talent_S_Aloy_Lock"
     },
     "622": {
-        "nameTextMapHash": 3468411401,
+        "nameTextMapHash": 3468410889,
         "icon": "UI_Talent_S_Aloy_Lock"
     },
     "623": {
@@ -1244,7 +1244,7 @@
         "icon": "UI_Talent_S_Aloy_Lock"
     },
     "626": {
-        "nameTextMapHash": 3578739209,
+        "nameTextMapHash": 3578738697,
         "icon": "UI_Talent_S_Aloy_Lock"
     },
     "631": {
@@ -1256,7 +1256,7 @@
         "icon": "UI_Talent_S_Shenhe_01"
     },
     "633": {
-        "nameTextMapHash": 1441248001,
+        "nameTextMapHash": 1441247489,
         "icon": "UI_Talent_U_Shenhe_01"
     },
     "634": {
@@ -1264,7 +1264,7 @@
         "icon": "UI_Talent_S_Shenhe_03"
     },
     "635": {
-        "nameTextMapHash": 2221287353,
+        "nameTextMapHash": 2221286841,
         "icon": "UI_Talent_U_Shenhe_02"
     },
     "636": {
@@ -1276,19 +1276,19 @@
         "icon": "UI_Talent_S_Yunjin_01"
     },
     "642": {
-        "nameTextMapHash": 3949157249,
+        "nameTextMapHash": 3949156737,
         "icon": "UI_Talent_S_Yunjin_02"
     },
     "643": {
-        "nameTextMapHash": 3536888569,
+        "nameTextMapHash": 3536888057,
         "icon": "UI_Talent_U_Yunjin_01"
     },
     "644": {
-        "nameTextMapHash": 2785617601,
+        "nameTextMapHash": 2785617089,
         "icon": "UI_Talent_S_Yunjin_03"
     },
     "645": {
-        "nameTextMapHash": 1985942201,
+        "nameTextMapHash": 1985941689,
         "icon": "UI_Talent_U_Yunjin_02"
     },
     "646": {
@@ -1308,11 +1308,11 @@
         "icon": "UI_Talent_U_Shinobu_01"
     },
     "654": {
-        "nameTextMapHash": 1870557153,
+        "nameTextMapHash": 1870556641,
         "icon": "UI_Talent_S_Shinobu_03"
     },
     "655": {
-        "nameTextMapHash": 2031120145,
+        "nameTextMapHash": 2031119633,
         "icon": "UI_Talent_U_Shinobu_02"
     },
     "656": {
@@ -1320,7 +1320,7 @@
         "icon": "UI_Talent_S_Shinobu_04"
     },
     "661": {
-        "nameTextMapHash": 2715418569,
+        "nameTextMapHash": 2715418057,
         "icon": "UI_Talent_S_Ayato_01"
     },
     "662": {
@@ -1328,19 +1328,19 @@
         "icon": "UI_Talent_S_Ayato_02"
     },
     "663": {
-        "nameTextMapHash": 2402833929,
+        "nameTextMapHash": 2402833417,
         "icon": "UI_Talent_U_Ayato_02"
     },
     "664": {
-        "nameTextMapHash": 517644137,
+        "nameTextMapHash": 517643625,
         "icon": "UI_Talent_S_Ayato_03"
     },
     "665": {
-        "nameTextMapHash": 993707681,
+        "nameTextMapHash": 993707169,
         "icon": "UI_Talent_U_Ayato_01"
     },
     "666": {
-        "nameTextMapHash": 1168376425,
+        "nameTextMapHash": 1168375913,
         "icon": "UI_Talent_S_Ayato_04"
     },
     "671": {
@@ -1348,7 +1348,7 @@
         "icon": "UI_Talent_S_Collei_01"
     },
     "672": {
-        "nameTextMapHash": 3472492497,
+        "nameTextMapHash": 3472491985,
         "icon": "UI_Talent_S_Collei_02"
     },
     "673": {
@@ -1356,11 +1356,11 @@
         "icon": "UI_Talent_U_Collei_02"
     },
     "674": {
-        "nameTextMapHash": 3753636729,
+        "nameTextMapHash": 3753636217,
         "icon": "UI_Talent_S_Collei_03"
     },
     "675": {
-        "nameTextMapHash": 2500538945,
+        "nameTextMapHash": 2500538433,
         "icon": "UI_Talent_U_Collei_01"
     },
     "676": {
@@ -1368,11 +1368,11 @@
         "icon": "UI_Talent_S_Collei_04"
     },
     "681": {
-        "nameTextMapHash": 1156598585,
+        "nameTextMapHash": 1156598073,
         "icon": "UI_Talent_S_Dori_01"
     },
     "682": {
-        "nameTextMapHash": 3136137929,
+        "nameTextMapHash": 3136137417,
         "icon": "UI_Talent_S_Dori_02"
     },
     "683": {
@@ -1380,11 +1380,11 @@
         "icon": "UI_Talent_U_Dori_02"
     },
     "684": {
-        "nameTextMapHash": 3498425217,
+        "nameTextMapHash": 3498424705,
         "icon": "UI_Talent_S_Dori_03"
     },
     "685": {
-        "nameTextMapHash": 3715110481,
+        "nameTextMapHash": 3715109969,
         "icon": "UI_Talent_U_Dori_01"
     },
     "686": {
@@ -1392,15 +1392,15 @@
         "icon": "UI_Talent_S_Dori_04"
     },
     "691": {
-        "nameTextMapHash": 3505971089,
+        "nameTextMapHash": 3505970577,
         "icon": "UI_Talent_S_Tighnari_01"
     },
     "692": {
-        "nameTextMapHash": 2309081673,
+        "nameTextMapHash": 2309081161,
         "icon": "UI_Talent_S_Tighnari_02"
     },
     "693": {
-        "nameTextMapHash": 3708646913,
+        "nameTextMapHash": 3708646401,
         "icon": "UI_Talent_U_Tighnari_01"
     },
     "694": {
@@ -1412,11 +1412,11 @@
         "icon": "UI_Talent_U_Tighnari_02"
     },
     "696": {
-        "nameTextMapHash": 2750929897,
+        "nameTextMapHash": 2750929385,
         "icon": "UI_Talent_S_Tighnari_04"
     },
     "701": {
-        "nameTextMapHash": 3475888113,
+        "nameTextMapHash": 3475887601,
         "icon": "UI_Talent_S_Nilou_01"
     },
     "702": {
@@ -1424,7 +1424,7 @@
         "icon": "UI_Talent_S_Nilou_02"
     },
     "703": {
-        "nameTextMapHash": 4083203921,
+        "nameTextMapHash": 4083203409,
         "icon": "UI_Talent_U_Nilou_01"
     },
     "704": {
@@ -1432,15 +1432,15 @@
         "icon": "UI_Talent_S_Nilou_03"
     },
     "705": {
-        "nameTextMapHash": 4211988457,
+        "nameTextMapHash": 4211987945,
         "icon": "UI_Talent_U_Nilou_02"
     },
     "706": {
-        "nameTextMapHash": 684061273,
+        "nameTextMapHash": 684060761,
         "icon": "UI_Talent_S_Nilou_04"
     },
     "711": {
-        "nameTextMapHash": 748102489,
+        "nameTextMapHash": 748101977,
         "icon": "UI_Talent_S_Cyno_01"
     },
     "712": {
@@ -1448,11 +1448,11 @@
         "icon": "UI_Talent_S_Cyno_02"
     },
     "713": {
-        "nameTextMapHash": 3680254705,
+        "nameTextMapHash": 3680254193,
         "icon": "UI_Talent_U_Cyno_01"
     },
     "714": {
-        "nameTextMapHash": 1630701449,
+        "nameTextMapHash": 1630700937,
         "icon": "UI_Talent_S_Cyno_03"
     },
     "715": {
@@ -1460,11 +1460,11 @@
         "icon": "UI_Talent_U_Cyno_02"
     },
     "716": {
-        "nameTextMapHash": 2479658985,
+        "nameTextMapHash": 2479658473,
         "icon": "UI_Talent_S_Cyno_04"
     },
     "721": {
-        "nameTextMapHash": 449508113,
+        "nameTextMapHash": 449507601,
         "icon": "UI_Talent_S_Candace_01"
     },
     "722": {
@@ -1472,7 +1472,7 @@
         "icon": "UI_Talent_S_Candace_02"
     },
     "723": {
-        "nameTextMapHash": 3256412025,
+        "nameTextMapHash": 3256411513,
         "icon": "UI_Talent_U_Candace_01"
     },
     "724": {
@@ -1480,15 +1480,15 @@
         "icon": "UI_Talent_S_Candace_03"
     },
     "725": {
-        "nameTextMapHash": 2382311049,
+        "nameTextMapHash": 2382310537,
         "icon": "UI_Talent_U_Candace_02"
     },
     "726": {
-        "nameTextMapHash": 955051961,
+        "nameTextMapHash": 955051449,
         "icon": "UI_Talent_S_Candace_04"
     },
     "731": {
-        "nameTextMapHash": 552761193,
+        "nameTextMapHash": 552760681,
         "icon": "UI_Talent_S_Nahida_01"
     },
     "732": {
@@ -1504,7 +1504,7 @@
         "icon": "UI_Talent_S_Nahida_03"
     },
     "735": {
-        "nameTextMapHash": 762504897,
+        "nameTextMapHash": 762504385,
         "icon": "UI_Talent_U_Nahida_02"
     },
     "736": {
@@ -1512,7 +1512,7 @@
         "icon": "UI_Talent_S_Nahida_04"
     },
     "741": {
-        "nameTextMapHash": 624034681,
+        "nameTextMapHash": 624034169,
         "icon": "UI_Talent_S_Layla_01"
     },
     "742": {
@@ -1540,11 +1540,11 @@
         "icon": "UI_Talent_S_Wanderer_01"
     },
     "752": {
-        "nameTextMapHash": 2086697681,
+        "nameTextMapHash": 2086697169,
         "icon": "UI_Talent_S_Wanderer_02"
     },
     "753": {
-        "nameTextMapHash": 215651225,
+        "nameTextMapHash": 215650713,
         "icon": "UI_Talent_U_Wanderer_02"
     },
     "754": {
@@ -1560,11 +1560,11 @@
         "icon": "UI_Talent_S_Wanderer_04"
     },
     "761": {
-        "nameTextMapHash": 2013089553,
+        "nameTextMapHash": 2013089041,
         "icon": "UI_Talent_S_Faruzan_01"
     },
     "762": {
-        "nameTextMapHash": 4140551721,
+        "nameTextMapHash": 4140551209,
         "icon": "UI_Talent_S_Faruzan_02"
     },
     "763": {
@@ -1576,15 +1576,15 @@
         "icon": "UI_Talent_S_Faruzan_03"
     },
     "765": {
-        "nameTextMapHash": 2879411097,
+        "nameTextMapHash": 2879410585,
         "icon": "UI_Talent_U_Faruzan_02"
     },
     "766": {
-        "nameTextMapHash": 1813996249,
+        "nameTextMapHash": 1813995737,
         "icon": "UI_Talent_S_Faruzan_04"
     },
     "771": {
-        "nameTextMapHash": 2088049169,
+        "nameTextMapHash": 2088048657,
         "icon": "UI_Talent_S_Yaoyao_01"
     },
     "772": {
@@ -1592,19 +1592,19 @@
         "icon": "UI_Talent_S_Yaoyao_02"
     },
     "773": {
-        "nameTextMapHash": 1513031537,
+        "nameTextMapHash": 1513031025,
         "icon": "UI_Talent_U_Yaoyao_01"
     },
     "774": {
-        "nameTextMapHash": 2674638561,
+        "nameTextMapHash": 2674638049,
         "icon": "UI_Talent_S_Yaoyao_03"
     },
     "775": {
-        "nameTextMapHash": 738869801,
+        "nameTextMapHash": 738869289,
         "icon": "UI_Talent_U_Yaoyao_02"
     },
     "776": {
-        "nameTextMapHash": 4046679753,
+        "nameTextMapHash": 4046679241,
         "icon": "UI_Talent_S_Yaoyao_04"
     },
     "781": {
@@ -1612,11 +1612,11 @@
         "icon": "UI_Talent_S_Alhatham_02"
     },
     "782": {
-        "nameTextMapHash": 3637950009,
+        "nameTextMapHash": 3637949497,
         "icon": "UI_Talent_S_Alhatham_01"
     },
     "783": {
-        "nameTextMapHash": 2621846313,
+        "nameTextMapHash": 2621845801,
         "icon": "UI_Talent_U_Alhatham_01"
     },
     "784": {
@@ -1624,7 +1624,7 @@
         "icon": "UI_Talent_S_Alhatham_03"
     },
     "785": {
-        "nameTextMapHash": 3387153385,
+        "nameTextMapHash": 3387152873,
         "icon": "UI_Talent_U_Alhatham_02"
     },
     "786": {
@@ -1632,11 +1632,11 @@
         "icon": "UI_Talent_S_Alhatham_04"
     },
     "791": {
-        "nameTextMapHash": 975929929,
+        "nameTextMapHash": 975929417,
         "icon": "UI_Talent_S_Dehya_01"
     },
     "792": {
-        "nameTextMapHash": 1063269113,
+        "nameTextMapHash": 1063268601,
         "icon": "UI_Talent_S_Dehya_02"
     },
     "793": {
@@ -1648,7 +1648,7 @@
         "icon": "UI_Talent_S_Dehya_03"
     },
     "795": {
-        "nameTextMapHash": 2001862177,
+        "nameTextMapHash": 2001861665,
         "icon": "UI_Talent_U_Dehya_02"
     },
     "796": {
@@ -1660,11 +1660,11 @@
         "icon": "UI_Talent_S_Mika_01"
     },
     "802": {
-        "nameTextMapHash": 1491617321,
+        "nameTextMapHash": 1491616809,
         "icon": "UI_Talent_S_Mika_02"
     },
     "803": {
-        "nameTextMapHash": 973254489,
+        "nameTextMapHash": 973253977,
         "icon": "UI_Talent_U_Mika_01"
     },
     "804": {
@@ -1672,11 +1672,11 @@
         "icon": "UI_Talent_S_Mika_03"
     },
     "805": {
-        "nameTextMapHash": 101621505,
+        "nameTextMapHash": 101620993,
         "icon": "UI_Talent_U_Mika_02"
     },
     "806": {
-        "nameTextMapHash": 1784924817,
+        "nameTextMapHash": 1784924305,
         "icon": "UI_Talent_S_Mika_04"
     },
     "811": {
@@ -1688,7 +1688,7 @@
         "icon": "UI_Talent_S_Kaveh_02"
     },
     "813": {
-        "nameTextMapHash": 2730015409,
+        "nameTextMapHash": 2730014897,
         "icon": "UI_Talent_U_Kaveh_02"
     },
     "814": {
@@ -1696,7 +1696,7 @@
         "icon": "UI_Talent_S_Kaveh_03"
     },
     "815": {
-        "nameTextMapHash": 1755584449,
+        "nameTextMapHash": 1755583937,
         "icon": "UI_Talent_U_Kaveh_01"
     },
     "816": {
@@ -1724,7 +1724,7 @@
         "icon": "UI_Talent_U_Baizhuer_02"
     },
     "826": {
-        "nameTextMapHash": 1293460177,
+        "nameTextMapHash": 1293459665,
         "icon": "UI_Talent_S_Baizhuer_04"
     },
     "611": {
@@ -1744,15 +1744,15 @@
         "icon": "UI_Talent_S_Momoka_04"
     },
     "615": {
-        "nameTextMapHash": 34942769,
+        "nameTextMapHash": 34942257,
         "icon": "UI_Talent_U_Momoka_02"
     },
     "616": {
-        "nameTextMapHash": 2439940993,
+        "nameTextMapHash": 2439940481,
         "icon": "UI_Talent_S_Momoka_03"
     },
     "831": {
-        "nameTextMapHash": 2471765961,
+        "nameTextMapHash": 2471765449,
         "icon": "UI_Talent_S_Linette_01"
     },
     "832": {
@@ -1768,7 +1768,7 @@
         "icon": "UI_Talent_S_Linette_03"
     },
     "835": {
-        "nameTextMapHash": 1789577793,
+        "nameTextMapHash": 1789577281,
         "icon": "UI_Talent_U_Linette_02"
     },
     "836": {
@@ -1776,11 +1776,11 @@
         "icon": "UI_Talent_S_Linette_04"
     },
     "841": {
-        "nameTextMapHash": 1235684201,
+        "nameTextMapHash": 1235683689,
         "icon": "UI_Talent_S_Liney_01"
     },
     "842": {
-        "nameTextMapHash": 4294085417,
+        "nameTextMapHash": 4294084905,
         "icon": "UI_Talent_S_Liney_03"
     },
     "843": {
@@ -1788,11 +1788,11 @@
         "icon": "UI_Talent_U_Liney_01"
     },
     "844": {
-        "nameTextMapHash": 2932106129,
+        "nameTextMapHash": 2932105617,
         "icon": "UI_Talent_S_Liney_02"
     },
     "845": {
-        "nameTextMapHash": 2035233753,
+        "nameTextMapHash": 2035233241,
         "icon": "UI_Talent_U_Liney_02"
     },
     "846": {
@@ -1800,7 +1800,7 @@
         "icon": "UI_Talent_S_Liney_04"
     },
     "851": {
-        "nameTextMapHash": 2267561625,
+        "nameTextMapHash": 2267561113,
         "icon": "UI_Talent_S_Freminet_01"
     },
     "852": {
@@ -1816,7 +1816,7 @@
         "icon": "UI_Talent_S_Freminet_03"
     },
     "855": {
-        "nameTextMapHash": 2128995113,
+        "nameTextMapHash": 2128994601,
         "icon": "UI_Talent_U_Freminet_02"
     },
     "856": {
@@ -1832,15 +1832,15 @@
         "icon": "UI_Talent_S_Wriothesley_02"
     },
     "863": {
-        "nameTextMapHash": 1926021769,
+        "nameTextMapHash": 1926021257,
         "icon": "UI_Talent_U_Wriothesley_01"
     },
     "864": {
-        "nameTextMapHash": 2263893849,
+        "nameTextMapHash": 2263893337,
         "icon": "UI_Talent_S_Wriothesley_03"
     },
     "865": {
-        "nameTextMapHash": 2419244785,
+        "nameTextMapHash": 2419244273,
         "icon": "UI_Talent_U_Wriothesley_02"
     },
     "866": {
@@ -1848,7 +1848,7 @@
         "icon": "UI_Talent_S_Wriothesley_04"
     },
     "871": {
-        "nameTextMapHash": 3840366369,
+        "nameTextMapHash": 3840365857,
         "icon": "UI_Talent_S_Neuvillette_01"
     },
     "872": {
@@ -1856,7 +1856,7 @@
         "icon": "UI_Talent_S_Neuvillette_02"
     },
     "873": {
-        "nameTextMapHash": 2720290529,
+        "nameTextMapHash": 2720290017,
         "icon": "UI_Talent_U_Neuvillette_01"
     },
     "874": {
@@ -1884,23 +1884,23 @@
         "icon": "UI_Talent_U_Charlotte_01"
     },
     "884": {
-        "nameTextMapHash": 1687165865,
+        "nameTextMapHash": 1687165353,
         "icon": "UI_Talent_S_Charlotte_03"
     },
     "885": {
-        "nameTextMapHash": 3847359465,
+        "nameTextMapHash": 3847358953,
         "icon": "UI_Talent_U_Charlotte_02"
     },
     "886": {
-        "nameTextMapHash": 445668929,
+        "nameTextMapHash": 445668417,
         "icon": "UI_Talent_S_Charlotte_04"
     },
     "891": {
-        "nameTextMapHash": 1796785,
+        "nameTextMapHash": 1796273,
         "icon": "UI_Talent_S_Furina_01"
     },
     "892": {
-        "nameTextMapHash": 3119753889,
+        "nameTextMapHash": 3119753377,
         "icon": "UI_Talent_S_Furina_04"
     },
     "893": {
@@ -1916,7 +1916,7 @@
         "icon": "UI_Talent_U_Furina_01"
     },
     "896": {
-        "nameTextMapHash": 3889320921,
+        "nameTextMapHash": 3889320409,
         "icon": "UI_Talent_S_Furina_02"
     },
     "901": {
@@ -1924,7 +1924,7 @@
         "icon": "UI_Talent_S_Chevreuse_01"
     },
     "902": {
-        "nameTextMapHash": 2697538289,
+        "nameTextMapHash": 2697537777,
         "icon": "UI_Talent_S_Chevreuse_02"
     },
     "903": {
@@ -1932,15 +1932,15 @@
         "icon": "UI_Talent_U_Chevreuse_01"
     },
     "904": {
-        "nameTextMapHash": 737124137,
+        "nameTextMapHash": 737123625,
         "icon": "UI_Talent_S_Chevreuse_03"
     },
     "905": {
-        "nameTextMapHash": 4209804241,
+        "nameTextMapHash": 4209803729,
         "icon": "UI_Talent_U_Chevreuse_02"
     },
     "906": {
-        "nameTextMapHash": 3915841073,
+        "nameTextMapHash": 3915840561,
         "icon": "UI_Talent_S_Chevreuse_04"
     },
     "911": {
@@ -1948,7 +1948,7 @@
         "icon": "UI_Talent_S_Navia_01"
     },
     "912": {
-        "nameTextMapHash": 4246729273,
+        "nameTextMapHash": 4246728761,
         "icon": "UI_Talent_S_Navia_02"
     },
     "913": {
@@ -1956,15 +1956,15 @@
         "icon": "UI_Talent_U_Navia_01"
     },
     "914": {
-        "nameTextMapHash": 3461445297,
+        "nameTextMapHash": 3461444785,
         "icon": "UI_Talent_S_Navia_03"
     },
     "915": {
-        "nameTextMapHash": 3983244161,
+        "nameTextMapHash": 3983243649,
         "icon": "UI_Talent_U_Navia_02"
     },
     "916": {
-        "nameTextMapHash": 4110233153,
+        "nameTextMapHash": 4110232641,
         "icon": "UI_Talent_S_Navia_04"
     },
     "921": {
@@ -1976,7 +1976,7 @@
         "icon": "UI_Talent_S_Gaming_02"
     },
     "923": {
-        "nameTextMapHash": 4116318089,
+        "nameTextMapHash": 4116317577,
         "icon": "UI_Talent_U_Gaming_01"
     },
     "924": {
@@ -1984,19 +1984,19 @@
         "icon": "UI_Talent_S_Gaming_03"
     },
     "925": {
-        "nameTextMapHash": 3549980385,
+        "nameTextMapHash": 3549979873,
         "icon": "UI_Talent_U_Gaming_02"
     },
     "926": {
-        "nameTextMapHash": 3486976633,
+        "nameTextMapHash": 3486976121,
         "icon": "UI_Talent_S_Gaming_04"
     },
     "931": {
-        "nameTextMapHash": 1584930553,
+        "nameTextMapHash": 1584930041,
         "icon": "UI_Talent_S_Liuyun_01"
     },
     "932": {
-        "nameTextMapHash": 94680617,
+        "nameTextMapHash": 94680105,
         "icon": "UI_Talent_S_Liuyun_02"
     },
     "933": {
@@ -2012,11 +2012,11 @@
         "icon": "UI_Talent_U_Liuyun_01"
     },
     "936": {
-        "nameTextMapHash": 3383313401,
+        "nameTextMapHash": 3383312889,
         "icon": "UI_Talent_S_Liuyun_04"
     },
     "941": {
-        "nameTextMapHash": 689897337,
+        "nameTextMapHash": 689896825,
         "icon": "UI_Talent_S_Chiori_01"
     },
     "942": {
@@ -2024,7 +2024,7 @@
         "icon": "UI_Talent_S_Chiori_03"
     },
     "943": {
-        "nameTextMapHash": 645847961,
+        "nameTextMapHash": 645847449,
         "icon": "UI_Talent_U_Chiori_01"
     },
     "944": {
@@ -2036,11 +2036,11 @@
         "icon": "UI_Talent_U_Chiori_02"
     },
     "946": {
-        "nameTextMapHash": 94228129,
+        "nameTextMapHash": 94227617,
         "icon": "UI_Talent_S_Chiori_04"
     },
     "951": {
-        "nameTextMapHash": 2069380665,
+        "nameTextMapHash": 2069380153,
         "icon": "UI_Talent_S_Sigewinne_01"
     },
     "952": {
@@ -2068,7 +2068,7 @@
         "icon": "UI_Talent_S_Arlecchino_01"
     },
     "962": {
-        "nameTextMapHash": 2743280569,
+        "nameTextMapHash": 2743280057,
         "icon": "UI_Talent_S_Arlecchino_02"
     },
     "963": {
@@ -2076,7 +2076,7 @@
         "icon": "UI_Talent_U_Arlecchino_01"
     },
     "964": {
-        "nameTextMapHash": 2103473001,
+        "nameTextMapHash": 2103472489,
         "icon": "UI_Talent_S_Arlecchino_03"
     },
     "965": {
@@ -2084,11 +2084,11 @@
         "icon": "UI_Talent_U_Arlecchino_02"
     },
     "966": {
-        "nameTextMapHash": 585561937,
+        "nameTextMapHash": 585561425,
         "icon": "UI_Talent_S_Arlecchino_04"
     },
     "971": {
-        "nameTextMapHash": 2929346465,
+        "nameTextMapHash": 2929345953,
         "icon": "UI_Talent_S_Sethos_01"
     },
     "972": {
@@ -2100,7 +2100,7 @@
         "icon": "UI_Talent_U_Sethos_01"
     },
     "974": {
-        "nameTextMapHash": 1034621857,
+        "nameTextMapHash": 1034621345,
         "icon": "UI_Talent_S_Sethos_03"
     },
     "975": {
@@ -2120,31 +2120,31 @@
         "icon": "UI_Talent_S_Clorinde_02"
     },
     "983": {
-        "nameTextMapHash": 808249241,
+        "nameTextMapHash": 808248729,
         "icon": "UI_Talent_U_Clorinde_02"
     },
     "984": {
-        "nameTextMapHash": 3782829777,
+        "nameTextMapHash": 3782829265,
         "icon": "UI_Talent_S_Clorinde_03"
     },
     "985": {
-        "nameTextMapHash": 2786589217,
+        "nameTextMapHash": 2786588705,
         "icon": "UI_Talent_U_Clorinde_01"
     },
     "986": {
-        "nameTextMapHash": 2154723033,
+        "nameTextMapHash": 2154722521,
         "icon": "UI_Talent_S_Clorinde_04"
     },
     "991": {
-        "nameTextMapHash": 740813377,
+        "nameTextMapHash": 740812865,
         "icon": "UI_Talent_S_Emilie_01"
     },
     "992": {
-        "nameTextMapHash": 888272609,
+        "nameTextMapHash": 888272097,
         "icon": "UI_Talent_S_Emilie_02"
     },
     "993": {
-        "nameTextMapHash": 1597660969,
+        "nameTextMapHash": 1597660457,
         "icon": "UI_Talent_U_Emilie_01"
     },
     "994": {
@@ -2152,7 +2152,7 @@
         "icon": "UI_Talent_S_Emilie_03"
     },
     "995": {
-        "nameTextMapHash": 100927345,
+        "nameTextMapHash": 100926833,
         "icon": "UI_Talent_U_Emilie_02"
     },
     "996": {
@@ -2168,7 +2168,7 @@
         "icon": "UI_Talent_S_Kachina_02"
     },
     "1003": {
-        "nameTextMapHash": 2998878913,
+        "nameTextMapHash": 2998878401,
         "icon": "UI_Talent_U_Kachina_01"
     },
     "1004": {
@@ -2180,15 +2180,15 @@
         "icon": "UI_Talent_U_Kachina_02"
     },
     "1006": {
-        "nameTextMapHash": 610256545,
+        "nameTextMapHash": 610256033,
         "icon": "UI_Talent_S_Kachina_04"
     },
     "1011": {
-        "nameTextMapHash": 1583880905,
+        "nameTextMapHash": 1583880393,
         "icon": "UI_Talent_S_Kinich_01"
     },
     "1012": {
-        "nameTextMapHash": 2132485057,
+        "nameTextMapHash": 2132484545,
         "icon": "UI_Talent_S_Kinich_02"
     },
     "1013": {
@@ -2196,7 +2196,7 @@
         "icon": "UI_Talent_U_Kinich_01"
     },
     "1014": {
-        "nameTextMapHash": 815285033,
+        "nameTextMapHash": 815284521,
         "icon": "UI_Talent_S_Kinich_03"
     },
     "1015": {
@@ -2220,7 +2220,7 @@
         "icon": "UI_Talent_U_Mualani_01"
     },
     "1024": {
-        "nameTextMapHash": 84972441,
+        "nameTextMapHash": 84971929,
         "icon": "UI_Talent_S_Mualani_03"
     },
     "1025": {
@@ -2232,23 +2232,23 @@
         "icon": "UI_Talent_S_Mualani_04"
     },
     "1031": {
-        "nameTextMapHash": 440486569,
+        "nameTextMapHash": 440486057,
         "icon": "UI_Talent_S_Xilonen_01"
     },
     "1032": {
-        "nameTextMapHash": 1513759721,
+        "nameTextMapHash": 1513759209,
         "icon": "UI_Talent_S_Xilonen_02"
     },
     "1033": {
-        "nameTextMapHash": 2144038849,
+        "nameTextMapHash": 2144038337,
         "icon": "UI_Talent_U_Xilonen_01"
     },
     "1034": {
-        "nameTextMapHash": 3939402377,
+        "nameTextMapHash": 3939401865,
         "icon": "UI_Talent_S_Xilonen_03"
     },
     "1035": {
-        "nameTextMapHash": 344656665,
+        "nameTextMapHash": 344656153,
         "icon": "UI_Talent_U_Xilonen_02"
     },
     "1036": {
@@ -2264,23 +2264,23 @@
         "icon": "UI_Talent_S_Chasca_02"
     },
     "1043": {
-        "nameTextMapHash": 1841740617,
+        "nameTextMapHash": 1841740105,
         "icon": "UI_Talent_U_Chasca_01"
     },
     "1044": {
-        "nameTextMapHash": 667354929,
+        "nameTextMapHash": 667354417,
         "icon": "UI_Talent_S_Chasca_03"
     },
     "1045": {
-        "nameTextMapHash": 1459309345,
+        "nameTextMapHash": 1459308833,
         "icon": "UI_Talent_U_Chasca_02"
     },
     "1046": {
-        "nameTextMapHash": 1544162913,
+        "nameTextMapHash": 1544162401,
         "icon": "UI_Talent_S_Chasca_04"
     },
     "1051": {
-        "nameTextMapHash": 1374803489,
+        "nameTextMapHash": 1374802977,
         "icon": "UI_Talent_S_Olorun_01"
     },
     "1052": {
@@ -2308,11 +2308,11 @@
         "icon": "UI_Talent_S_Mavuika_01"
     },
     "1062": {
-        "nameTextMapHash": 2701831049,
+        "nameTextMapHash": 2701830537,
         "icon": "UI_Talent_S_Mavuika_02"
     },
     "1063": {
-        "nameTextMapHash": 1180440169,
+        "nameTextMapHash": 1180439657,
         "icon": "UI_Talent_U_Mavuika_01"
     },
     "1064": {
@@ -2328,7 +2328,7 @@
         "icon": "UI_Talent_S_Mavuika_04"
     },
     "1071": {
-        "nameTextMapHash": 148026233,
+        "nameTextMapHash": 148025721,
         "icon": "UI_Talent_S_Citlali_01"
     },
     "1072": {
@@ -2336,7 +2336,7 @@
         "icon": "UI_Talent_S_Citlali_02"
     },
     "1073": {
-        "nameTextMapHash": 1709441801,
+        "nameTextMapHash": 1709441289,
         "icon": "UI_Talent_U_Citlali_01"
     },
     "1074": {
@@ -2348,15 +2348,15 @@
         "icon": "UI_Talent_U_Citlali_02"
     },
     "1076": {
-        "nameTextMapHash": 1572837225,
+        "nameTextMapHash": 1572836713,
         "icon": "UI_Talent_S_Citlali_04"
     },
     "1081": {
-        "nameTextMapHash": 2166861313,
+        "nameTextMapHash": 2166860801,
         "icon": "UI_Talent_S_Lanyan_01"
     },
     "1082": {
-        "nameTextMapHash": 1027794593,
+        "nameTextMapHash": 1027794081,
         "icon": "UI_Talent_S_Lanyan_02"
     },
     "1083": {
@@ -2364,11 +2364,11 @@
         "icon": "UI_Talent_U_Lanyan_01"
     },
     "1084": {
-        "nameTextMapHash": 1800743905,
+        "nameTextMapHash": 1800743393,
         "icon": "UI_Talent_S_Lanyan_03"
     },
     "1085": {
-        "nameTextMapHash": 1247967873,
+        "nameTextMapHash": 1247967361,
         "icon": "UI_Talent_U_Lanyan_02"
     },
     "1086": {
@@ -2380,19 +2380,19 @@
         "icon": "UI_Talent_S_Mizuki_01"
     },
     "1092": {
-        "nameTextMapHash": 2812066713,
+        "nameTextMapHash": 2812066201,
         "icon": "UI_Talent_S_Mizuki_02"
     },
     "1093": {
-        "nameTextMapHash": 3158765361,
+        "nameTextMapHash": 3158764849,
         "icon": "UI_Talent_U_Mizuki_01"
     },
     "1094": {
-        "nameTextMapHash": 646613513,
+        "nameTextMapHash": 646613001,
         "icon": "UI_Talent_S_Mizuki_03"
     },
     "1095": {
-        "nameTextMapHash": 270821217,
+        "nameTextMapHash": 270820705,
         "icon": "UI_Talent_U_Mizuki_02"
     },
     "1096": {
@@ -2404,7 +2404,7 @@
         "icon": "UI_Talent_S_Iansan_01"
     },
     "1102": {
-        "nameTextMapHash": 587053929,
+        "nameTextMapHash": 587053417,
         "icon": "UI_Talent_S_Iansan_02"
     },
     "1103": {
@@ -2416,15 +2416,15 @@
         "icon": "UI_Talent_S_Iansan_03"
     },
     "1105": {
-        "nameTextMapHash": 2367612865,
+        "nameTextMapHash": 2367612353,
         "icon": "UI_Talent_U_Iansan_02"
     },
     "1106": {
-        "nameTextMapHash": 916377537,
+        "nameTextMapHash": 916377025,
         "icon": "UI_Talent_S_Iansan_04"
     },
     "1111": {
-        "nameTextMapHash": 2869313281,
+        "nameTextMapHash": 2869312769,
         "icon": "UI_Talent_S_Varesa_01"
     },
     "1112": {
@@ -2436,11 +2436,11 @@
         "icon": "UI_Talent_U_Varesa_01"
     },
     "1114": {
-        "nameTextMapHash": 2869666793,
+        "nameTextMapHash": 2869666281,
         "icon": "UI_Talent_S_Varesa_03"
     },
     "1115": {
-        "nameTextMapHash": 1174459249,
+        "nameTextMapHash": 1174458737,
         "icon": "UI_Talent_U_Varesa_02"
     },
     "1116": {
@@ -2452,19 +2452,19 @@
         "icon": "UI_Talent_S_Escoffier_01"
     },
     "1122": {
-        "nameTextMapHash": 2812705417,
+        "nameTextMapHash": 2812704905,
         "icon": "UI_Talent_S_Escoffier_02"
     },
     "1123": {
-        "nameTextMapHash": 4179118993,
+        "nameTextMapHash": 4179118481,
         "icon": "UI_Talent_U_Escoffier_01"
     },
     "1124": {
-        "nameTextMapHash": 1564362409,
+        "nameTextMapHash": 1564361897,
         "icon": "UI_Talent_S_Escoffier_03"
     },
     "1125": {
-        "nameTextMapHash": 193982321,
+        "nameTextMapHash": 193981809,
         "icon": "UI_Talent_U_Escoffier_02"
     },
     "1126": {
@@ -2472,7 +2472,7 @@
         "icon": "UI_Talent_S_Escoffier_04"
     },
     "1131": {
-        "nameTextMapHash": 2814486121,
+        "nameTextMapHash": 2814485609,
         "icon": "UI_Talent_S_Ifa_01"
     },
     "1132": {
@@ -2480,7 +2480,7 @@
         "icon": "UI_Talent_S_Ifa_02"
     },
     "1133": {
-        "nameTextMapHash": 3301468921,
+        "nameTextMapHash": 3301468409,
         "icon": "UI_Talent_U_Ifa_01"
     },
     "1134": {
@@ -2500,7 +2500,7 @@
         "icon": "UI_Talent_S_SkirkNew_01"
     },
     "1142": {
-        "nameTextMapHash": 3069934217,
+        "nameTextMapHash": 3069933705,
         "icon": "UI_Talent_S_SkirkNew_02"
     },
     "1143": {
@@ -2508,7 +2508,7 @@
         "icon": "UI_Talent_U_SkirkNew_01"
     },
     "1144": {
-        "nameTextMapHash": 1525981953,
+        "nameTextMapHash": 1525981441,
         "icon": "UI_Talent_S_SkirkNew_03"
     },
     "1145": {
@@ -2540,15 +2540,15 @@
         "icon": "UI_Talent_U_Dahlia_02"
     },
     "1156": {
-        "nameTextMapHash": 41248361,
+        "nameTextMapHash": 41247849,
         "icon": "UI_Talent_S_Dahlia_04"
     },
     "1161": {
-        "nameTextMapHash": 2792674065,
+        "nameTextMapHash": 2792673553,
         "icon": "UI_Talent_S_Ineffa_01"
     },
     "1162": {
-        "nameTextMapHash": 3292331553,
+        "nameTextMapHash": 3292331041,
         "icon": "UI_Talent_S_Ineffa_02"
     },
     "1163": {
@@ -2568,7 +2568,7 @@
         "icon": "UI_Talent_S_Ineffa_04"
     },
     "1191": {
-        "nameTextMapHash": 2267047689,
+        "nameTextMapHash": 2267047177,
         "icon": "UI_Talent_S_Lauma_01"
     },
     "1192": {
@@ -2576,11 +2576,11 @@
         "icon": "UI_Talent_S_Lauma_02"
     },
     "1193": {
-        "nameTextMapHash": 1594998489,
+        "nameTextMapHash": 1594997977,
         "icon": "UI_Talent_U_Lauma_01"
     },
     "1194": {
-        "nameTextMapHash": 3899371321,
+        "nameTextMapHash": 3899370809,
         "icon": "UI_Talent_S_Lauma_03"
     },
     "1195": {
@@ -2592,7 +2592,7 @@
         "icon": "UI_Talent_S_Lauma_04"
     },
     "1201": {
-        "nameTextMapHash": 497537865,
+        "nameTextMapHash": 497537353,
         "icon": "UI_Talent_S_Flins_01"
     },
     "1202": {
@@ -2600,15 +2600,15 @@
         "icon": "UI_Talent_S_Flins_02"
     },
     "1203": {
-        "nameTextMapHash": 1384758977,
+        "nameTextMapHash": 1384758465,
         "icon": "UI_Talent_U_Flins_02"
     },
     "1204": {
-        "nameTextMapHash": 2627575489,
+        "nameTextMapHash": 2627574977,
         "icon": "UI_Talent_S_Flins_03"
     },
     "1205": {
-        "nameTextMapHash": 3877680081,
+        "nameTextMapHash": 3877679569,
         "icon": "UI_Talent_U_Flins_01"
     },
     "1206": {
@@ -2616,7 +2616,7 @@
         "icon": "UI_Talent_S_Flins_04"
     },
     "1211": {
-        "nameTextMapHash": 4005357081,
+        "nameTextMapHash": 4005356569,
         "icon": "UI_Talent_S_Aino_03"
     },
     "1212": {
@@ -2624,7 +2624,7 @@
         "icon": "UI_Talent_S_Aino_02"
     },
     "1213": {
-        "nameTextMapHash": 2831327761,
+        "nameTextMapHash": 2831327249,
         "icon": "UI_Talent_U_Aino_01"
     },
     "1214": {
@@ -2648,19 +2648,19 @@
         "icon": "UI_Talent_S_Nefer_02"
     },
     "1223": {
-        "nameTextMapHash": 3653128033,
+        "nameTextMapHash": 3653127521,
         "icon": "UI_Talent_U_Nefer_01"
     },
     "1224": {
-        "nameTextMapHash": 948261745,
+        "nameTextMapHash": 948261233,
         "icon": "UI_Talent_S_Nefer_03"
     },
     "1225": {
-        "nameTextMapHash": 2320999321,
+        "nameTextMapHash": 2320998809,
         "icon": "UI_Talent_U_Nefer_02"
     },
     "1226": {
-        "nameTextMapHash": 3875848929,
+        "nameTextMapHash": 3875848417,
         "icon": "UI_Talent_S_Nefer_04"
     },
     "1231": {
@@ -2668,11 +2668,11 @@
         "icon": "UI_Talent_S_Durin_03"
     },
     "1232": {
-        "nameTextMapHash": 380017553,
+        "nameTextMapHash": 380017041,
         "icon": "UI_Talent_S_Durin_04"
     },
     "1233": {
-        "nameTextMapHash": 1096728529,
+        "nameTextMapHash": 1096728017,
         "icon": "UI_Talent_U_Durin_01"
     },
     "1234": {
@@ -2680,7 +2680,7 @@
         "icon": "UI_Talent_S_Durin_05"
     },
     "1235": {
-        "nameTextMapHash": 1871441617,
+        "nameTextMapHash": 1871441105,
         "icon": "UI_Talent_U_Durin_02"
     },
     "1236": {
@@ -2696,7 +2696,7 @@
         "icon": "UI_Talent_S_Jahoda_02"
     },
     "1243": {
-        "nameTextMapHash": 2870981345,
+        "nameTextMapHash": 2870980833,
         "icon": "UI_Talent_U_Jahoda_01"
     },
     "1244": {
@@ -2704,19 +2704,19 @@
         "icon": "UI_Talent_S_Jahoda_01"
     },
     "1245": {
-        "nameTextMapHash": 1070925345,
+        "nameTextMapHash": 1070924833,
         "icon": "UI_Talent_U_Jahoda_02"
     },
     "1246": {
-        "nameTextMapHash": 3040404433,
+        "nameTextMapHash": 3040403921,
         "icon": "UI_Talent_S_Jahoda_04"
     },
     "1251": {
-        "nameTextMapHash": 208853905,
+        "nameTextMapHash": 208853393,
         "icon": "UI_Talent_S_Columbina_01"
     },
     "1252": {
-        "nameTextMapHash": 1521148481,
+        "nameTextMapHash": 1521147969,
         "icon": "UI_Talent_S_Columbina_02"
     },
     "1253": {
@@ -2724,11 +2724,11 @@
         "icon": "UI_Talent_U_Columbina_01"
     },
     "1254": {
-        "nameTextMapHash": 2583795409,
+        "nameTextMapHash": 2583794897,
         "icon": "UI_Talent_S_Columbina_03"
     },
     "1255": {
-        "nameTextMapHash": 3676105377,
+        "nameTextMapHash": 3676104865,
         "icon": "UI_Talent_U_Columbina_02"
     },
     "1256": {
@@ -2744,23 +2744,23 @@
         "icon": "UI_Talent_S_Zibai_02"
     },
     "1263": {
-        "nameTextMapHash": 2205604457,
+        "nameTextMapHash": 2205603945,
         "icon": "UI_Talent_U_Zibai_01"
     },
     "1264": {
-        "nameTextMapHash": 1054587753,
+        "nameTextMapHash": 1054587241,
         "icon": "UI_Talent_S_Zibai_03"
     },
     "1265": {
-        "nameTextMapHash": 3928241009,
+        "nameTextMapHash": 3928240497,
         "icon": "UI_Talent_U_Zibai_02"
     },
     "1266": {
-        "nameTextMapHash": 604144609,
+        "nameTextMapHash": 604144097,
         "icon": "UI_Talent_S_Zibai_04"
     },
     "1271": {
-        "nameTextMapHash": 1793939001,
+        "nameTextMapHash": 1793938489,
         "icon": "UI_Talent_S_Illuga_01"
     },
     "1272": {
@@ -2772,11 +2772,11 @@
         "icon": "UI_Talent_U_Illuga_01"
     },
     "1274": {
-        "nameTextMapHash": 1262426921,
+        "nameTextMapHash": 1262426409,
         "icon": "UI_Talent_S_Illuga_03"
     },
     "1275": {
-        "nameTextMapHash": 2633056209,
+        "nameTextMapHash": 2633055697,
         "icon": "UI_Talent_U_Illuga_02"
     },
     "1276": {
@@ -2788,7 +2788,7 @@
         "icon": "UI_Talent_S_Varka_01"
     },
     "1282": {
-        "nameTextMapHash": 1578787833,
+        "nameTextMapHash": 1578787321,
         "icon": "UI_Talent_S_Varka_02"
     },
     "1283": {
@@ -2796,15 +2796,39 @@
         "icon": "UI_Talent_U_Varka_01"
     },
     "1284": {
-        "nameTextMapHash": 2707568625,
+        "nameTextMapHash": 2707568113,
         "icon": "UI_Talent_S_Varka_03"
     },
     "1285": {
-        "nameTextMapHash": 1347124769,
+        "nameTextMapHash": 1347124257,
         "icon": "UI_Talent_U_Varka_02"
     },
     "1286": {
-        "nameTextMapHash": 1038147569,
+        "nameTextMapHash": 1038147057,
         "icon": "UI_Talent_S_Varka_04"
+    },
+    "1301": {
+        "nameTextMapHash": 884857169,
+        "icon": "UI_Talent_S_Linnea_01"
+    },
+    "1302": {
+        "nameTextMapHash": 402412945,
+        "icon": "UI_Talent_S_Linnea_02"
+    },
+    "1303": {
+        "nameTextMapHash": 1959451921,
+        "icon": "UI_Talent_U_Linnea_01"
+    },
+    "1304": {
+        "nameTextMapHash": 3241637193,
+        "icon": "UI_Talent_S_Linnea_03"
+    },
+    "1305": {
+        "nameTextMapHash": 3142843721,
+        "icon": "UI_Talent_U_Linnea_02"
+    },
+    "1306": {
+        "nameTextMapHash": 2131034433,
+        "icon": "UI_Talent_S_Linnea_04"
     }
 }

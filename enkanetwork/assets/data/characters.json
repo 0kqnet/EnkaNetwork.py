@@ -20,7 +20,7 @@
         ]
     },
     "10000003": {
-        "nameTextMapHash": 3221566250,
+        "nameTextMapHash": 3221565738,
         "iconName": "UI_AvatarIcon_Qin",
         "sideIconName": "UI_AvatarIcon_Side_Qin",
         "qualityType": "QUALITY_ORANGE",
@@ -40,7 +40,7 @@
         ]
     },
     "10000005-501": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -51,7 +51,7 @@
         "talents": []
     },
     "10000005-502": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -71,7 +71,7 @@
         ]
     },
     "10000005-503": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -91,7 +91,7 @@
         ]
     },
     "10000005-504": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -111,7 +111,7 @@
         ]
     },
     "10000005-505": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -122,7 +122,7 @@
         "talents": []
     },
     "10000005-506": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -142,7 +142,7 @@
         ]
     },
     "10000005-507": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -162,7 +162,7 @@
         ]
     },
     "10000005-508": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -182,7 +182,7 @@
         ]
     },
     "10000005": {
-        "nameTextMapHash": 1533656818,
+        "nameTextMapHash": 1533656306,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
@@ -362,7 +362,7 @@
         "talents": []
     },
     "10000014": {
-        "nameTextMapHash": 3775299170,
+        "nameTextMapHash": 3775298658,
         "iconName": "UI_AvatarIcon_Barbara",
         "sideIconName": "UI_AvatarIcon_Side_Barbara",
         "qualityType": "QUALITY_PURPLE",
@@ -382,7 +382,7 @@
         ]
     },
     "10000015": {
-        "nameTextMapHash": 4119663210,
+        "nameTextMapHash": 4119662698,
         "iconName": "UI_AvatarIcon_Kaeya",
         "sideIconName": "UI_AvatarIcon_Side_Kaeya",
         "qualityType": "QUALITY_PURPLE",
@@ -402,7 +402,7 @@
         ]
     },
     "10000016": {
-        "nameTextMapHash": 3608180322,
+        "nameTextMapHash": 3608179810,
         "iconName": "UI_AvatarIcon_Diluc",
         "sideIconName": "UI_AvatarIcon_Side_Diluc",
         "qualityType": "QUALITY_ORANGE",
@@ -422,7 +422,7 @@
         ]
     },
     "10000020": {
-        "nameTextMapHash": 4160147242,
+        "nameTextMapHash": 4160146730,
         "iconName": "UI_AvatarIcon_Razor",
         "sideIconName": "UI_AvatarIcon_Side_Razor",
         "qualityType": "QUALITY_PURPLE",
@@ -482,7 +482,7 @@
         ]
     },
     "10000023": {
-        "nameTextMapHash": 1130996346,
+        "nameTextMapHash": 1130995834,
         "iconName": "UI_AvatarIcon_Xiangling",
         "sideIconName": "UI_AvatarIcon_Side_Xiangling",
         "qualityType": "QUALITY_PURPLE",
@@ -522,7 +522,7 @@
         ]
     },
     "10000025": {
-        "nameTextMapHash": 4197635682,
+        "nameTextMapHash": 4197635170,
         "iconName": "UI_AvatarIcon_Xingqiu",
         "sideIconName": "UI_AvatarIcon_Side_Xingqiu",
         "qualityType": "QUALITY_PURPLE",
@@ -542,7 +542,7 @@
         ]
     },
     "10000026": {
-        "nameTextMapHash": 1021947690,
+        "nameTextMapHash": 1021947178,
         "iconName": "UI_AvatarIcon_Xiao",
         "sideIconName": "UI_AvatarIcon_Side_Xiao",
         "qualityType": "QUALITY_ORANGE",
@@ -562,7 +562,7 @@
         ]
     },
     "10000027": {
-        "nameTextMapHash": 4127888970,
+        "nameTextMapHash": 4127888458,
         "iconName": "UI_AvatarIcon_Ningguang",
         "sideIconName": "UI_AvatarIcon_Side_Ningguang",
         "qualityType": "QUALITY_PURPLE",
@@ -642,7 +642,7 @@
         ]
     },
     "10000032": {
-        "nameTextMapHash": 968893378,
+        "nameTextMapHash": 968892866,
         "iconName": "UI_AvatarIcon_Bennett",
         "sideIconName": "UI_AvatarIcon_Side_Bennett",
         "qualityType": "QUALITY_PURPLE",
@@ -662,7 +662,7 @@
         ]
     },
     "10000033": {
-        "nameTextMapHash": 3847143266,
+        "nameTextMapHash": 3847142754,
         "iconName": "UI_AvatarIcon_Tartaglia",
         "sideIconName": "UI_AvatarIcon_Side_Tartaglia",
         "qualityType": "QUALITY_ORANGE",
@@ -682,7 +682,7 @@
         ]
     },
     "10000034": {
-        "nameTextMapHash": 1921418842,
+        "nameTextMapHash": 1921418330,
         "iconName": "UI_AvatarIcon_Noel",
         "sideIconName": "UI_AvatarIcon_Side_Noel",
         "qualityType": "QUALITY_PURPLE",
@@ -702,7 +702,7 @@
         ]
     },
     "10000035": {
-        "nameTextMapHash": 168956722,
+        "nameTextMapHash": 168956210,
         "iconName": "UI_AvatarIcon_Qiqi",
         "sideIconName": "UI_AvatarIcon_Side_Qiqi",
         "qualityType": "QUALITY_ORANGE",
@@ -742,7 +742,7 @@
         ]
     },
     "10000037": {
-        "nameTextMapHash": 2679781122,
+        "nameTextMapHash": 2679780610,
         "iconName": "UI_AvatarIcon_Ganyu",
         "sideIconName": "UI_AvatarIcon_Side_Ganyu",
         "qualityType": "QUALITY_ORANGE",
@@ -762,7 +762,7 @@
         ]
     },
     "10000038": {
-        "nameTextMapHash": 4108620722,
+        "nameTextMapHash": 4108620210,
         "iconName": "UI_AvatarIcon_Albedo",
         "sideIconName": "UI_AvatarIcon_Side_Albedo",
         "qualityType": "QUALITY_ORANGE",
@@ -782,7 +782,7 @@
         ]
     },
     "10000039": {
-        "nameTextMapHash": 1468367538,
+        "nameTextMapHash": 1468367026,
         "iconName": "UI_AvatarIcon_Diona",
         "sideIconName": "UI_AvatarIcon_Side_Diona",
         "qualityType": "QUALITY_PURPLE",
@@ -902,7 +902,7 @@
         ]
     },
     "10000046": {
-        "nameTextMapHash": 1940919994,
+        "nameTextMapHash": 1940919482,
         "iconName": "UI_AvatarIcon_Hutao",
         "sideIconName": "UI_AvatarIcon_Side_Hutao",
         "qualityType": "QUALITY_ORANGE",
@@ -982,7 +982,7 @@
         ]
     },
     "10000050": {
-        "nameTextMapHash": 3555115602,
+        "nameTextMapHash": 3555115090,
         "iconName": "UI_AvatarIcon_Tohma",
         "sideIconName": "UI_AvatarIcon_Side_Tohma",
         "qualityType": "QUALITY_PURPLE",
@@ -1002,7 +1002,7 @@
         ]
     },
     "10000051": {
-        "nameTextMapHash": 3717667418,
+        "nameTextMapHash": 3717666906,
         "iconName": "UI_AvatarIcon_Eula",
         "sideIconName": "UI_AvatarIcon_Side_Eula",
         "qualityType": "QUALITY_ORANGE",
@@ -1022,7 +1022,7 @@
         ]
     },
     "10000052": {
-        "nameTextMapHash": 3024507506,
+        "nameTextMapHash": 3024506994,
         "iconName": "UI_AvatarIcon_Shougun",
         "sideIconName": "UI_AvatarIcon_Side_Shougun",
         "qualityType": "QUALITY_ORANGE",
@@ -1082,7 +1082,7 @@
         ]
     },
     "10000055": {
-        "nameTextMapHash": 3400133546,
+        "nameTextMapHash": 3400133034,
         "iconName": "UI_AvatarIcon_Gorou",
         "sideIconName": "UI_AvatarIcon_Side_Gorou",
         "qualityType": "QUALITY_PURPLE",
@@ -1142,7 +1142,7 @@
         ]
     },
     "10000058": {
-        "nameTextMapHash": 2713453234,
+        "nameTextMapHash": 2713452722,
         "iconName": "UI_AvatarIcon_Yae",
         "sideIconName": "UI_AvatarIcon_Side_Yae",
         "qualityType": "QUALITY_ORANGE",
@@ -1162,7 +1162,7 @@
         ]
     },
     "10000059": {
-        "nameTextMapHash": 646032090,
+        "nameTextMapHash": 646031578,
         "iconName": "UI_AvatarIcon_Heizo",
         "sideIconName": "UI_AvatarIcon_Side_Heizo",
         "qualityType": "QUALITY_PURPLE",
@@ -1182,7 +1182,7 @@
         ]
     },
     "10000060": {
-        "nameTextMapHash": 2848374378,
+        "nameTextMapHash": 2848373866,
         "iconName": "UI_AvatarIcon_Yelan",
         "sideIconName": "UI_AvatarIcon_Side_Yelan",
         "qualityType": "QUALITY_ORANGE",
@@ -1202,7 +1202,7 @@
         ]
     },
     "10000061": {
-        "nameTextMapHash": 1456643042,
+        "nameTextMapHash": 1456642530,
         "iconName": "UI_AvatarIcon_Momoka",
         "sideIconName": "UI_AvatarIcon_Side_Momoka",
         "qualityType": "QUALITY_PURPLE",
@@ -1222,7 +1222,7 @@
         ]
     },
     "10000062": {
-        "nameTextMapHash": 3689108098,
+        "nameTextMapHash": 3689107586,
         "iconName": "UI_AvatarIcon_Aloy",
         "sideIconName": "UI_AvatarIcon_Side_Aloy",
         "qualityType": "QUALITY_ORANGE_SP",
@@ -1242,7 +1242,7 @@
         ]
     },
     "10000063": {
-        "nameTextMapHash": 334242634,
+        "nameTextMapHash": 334242122,
         "iconName": "UI_AvatarIcon_Shenhe",
         "sideIconName": "UI_AvatarIcon_Side_Shenhe",
         "qualityType": "QUALITY_ORANGE",
@@ -1262,7 +1262,7 @@
         ]
     },
     "10000064": {
-        "nameTextMapHash": 655825874,
+        "nameTextMapHash": 655825362,
         "iconName": "UI_AvatarIcon_Yunjin",
         "sideIconName": "UI_AvatarIcon_Side_Yunjin",
         "qualityType": "QUALITY_PURPLE",
@@ -1282,7 +1282,7 @@
         ]
     },
     "10000065": {
-        "nameTextMapHash": 1940821986,
+        "nameTextMapHash": 1940821474,
         "iconName": "UI_AvatarIcon_Shinobu",
         "sideIconName": "UI_AvatarIcon_Side_Shinobu",
         "qualityType": "QUALITY_PURPLE",
@@ -1322,7 +1322,7 @@
         ]
     },
     "10000067": {
-        "nameTextMapHash": 2948362178,
+        "nameTextMapHash": 2948361666,
         "iconName": "UI_AvatarIcon_Collei",
         "sideIconName": "UI_AvatarIcon_Side_Collei",
         "qualityType": "QUALITY_PURPLE",
@@ -1442,7 +1442,7 @@
         ]
     },
     "10000073": {
-        "nameTextMapHash": 712501082,
+        "nameTextMapHash": 712500570,
         "iconName": "UI_AvatarIcon_Nahida",
         "sideIconName": "UI_AvatarIcon_Side_Nahida",
         "qualityType": "QUALITY_ORANGE",
@@ -1502,7 +1502,7 @@
         ]
     },
     "10000076": {
-        "nameTextMapHash": 2387711994,
+        "nameTextMapHash": 2387711482,
         "iconName": "UI_AvatarIcon_Faruzan",
         "sideIconName": "UI_AvatarIcon_Side_Faruzan",
         "qualityType": "QUALITY_PURPLE",
@@ -1522,7 +1522,7 @@
         ]
     },
     "10000077": {
-        "nameTextMapHash": 1732418482,
+        "nameTextMapHash": 1732417970,
         "iconName": "UI_AvatarIcon_Yaoyao",
         "sideIconName": "UI_AvatarIcon_Side_Yaoyao",
         "qualityType": "QUALITY_PURPLE",
@@ -1542,7 +1542,7 @@
         ]
     },
     "10000078": {
-        "nameTextMapHash": 4002157418,
+        "nameTextMapHash": 4002156906,
         "iconName": "UI_AvatarIcon_Alhatham",
         "sideIconName": "UI_AvatarIcon_Side_Alhatham",
         "qualityType": "QUALITY_ORANGE",
@@ -1682,7 +1682,7 @@
         ]
     },
     "10000085": {
-        "nameTextMapHash": 4201964354,
+        "nameTextMapHash": 4201963842,
         "iconName": "UI_AvatarIcon_Freminet",
         "sideIconName": "UI_AvatarIcon_Side_Freminet",
         "qualityType": "QUALITY_PURPLE",
@@ -1702,7 +1702,7 @@
         ]
     },
     "10000086": {
-        "nameTextMapHash": 370151050,
+        "nameTextMapHash": 370150538,
         "iconName": "UI_AvatarIcon_Wriothesley",
         "sideIconName": "UI_AvatarIcon_Side_Wriothesley",
         "qualityType": "QUALITY_ORANGE",
@@ -1842,7 +1842,7 @@
         ]
     },
     "10000093": {
-        "nameTextMapHash": 3648220770,
+        "nameTextMapHash": 3648220258,
         "iconName": "UI_AvatarIcon_Liuyun",
         "sideIconName": "UI_AvatarIcon_Side_Liuyun",
         "qualityType": "QUALITY_ORANGE",
@@ -1882,7 +1882,7 @@
         ]
     },
     "10000095": {
-        "nameTextMapHash": 781488962,
+        "nameTextMapHash": 781488450,
         "iconName": "UI_AvatarIcon_Sigewinne",
         "sideIconName": "UI_AvatarIcon_Side_Sigewinne",
         "qualityType": "QUALITY_ORANGE",
@@ -1902,7 +1902,7 @@
         ]
     },
     "10000096": {
-        "nameTextMapHash": 167199474,
+        "nameTextMapHash": 167198962,
         "iconName": "UI_AvatarIcon_Arlecchino",
         "sideIconName": "UI_AvatarIcon_Side_Arlecchino",
         "qualityType": "QUALITY_ORANGE",
@@ -1922,7 +1922,7 @@
         ]
     },
     "10000097": {
-        "nameTextMapHash": 1431322346,
+        "nameTextMapHash": 1431321834,
         "iconName": "UI_AvatarIcon_Sethos",
         "sideIconName": "UI_AvatarIcon_Side_Sethos",
         "qualityType": "QUALITY_PURPLE",
@@ -1942,7 +1942,7 @@
         ]
     },
     "10000098": {
-        "nameTextMapHash": 2745369298,
+        "nameTextMapHash": 2745368786,
         "iconName": "UI_AvatarIcon_Clorinde",
         "sideIconName": "UI_AvatarIcon_Side_Clorinde",
         "qualityType": "QUALITY_ORANGE",
@@ -1962,7 +1962,7 @@
         ]
     },
     "10000099": {
-        "nameTextMapHash": 1705786122,
+        "nameTextMapHash": 1705785610,
         "iconName": "UI_AvatarIcon_Emilie",
         "sideIconName": "UI_AvatarIcon_Side_Emilie",
         "qualityType": "QUALITY_ORANGE",
@@ -2002,7 +2002,7 @@
         ]
     },
     "10000101": {
-        "nameTextMapHash": 4172712634,
+        "nameTextMapHash": 4172712122,
         "iconName": "UI_AvatarIcon_Kinich",
         "sideIconName": "UI_AvatarIcon_Side_Kinich",
         "qualityType": "QUALITY_ORANGE",
@@ -2042,7 +2042,7 @@
         ]
     },
     "10000103": {
-        "nameTextMapHash": 2515292882,
+        "nameTextMapHash": 2515292370,
         "iconName": "UI_AvatarIcon_Xilonen",
         "sideIconName": "UI_AvatarIcon_Side_Xilonen",
         "qualityType": "QUALITY_ORANGE",
@@ -2122,7 +2122,7 @@
         ]
     },
     "10000107": {
-        "nameTextMapHash": 1197975042,
+        "nameTextMapHash": 1197974530,
         "iconName": "UI_AvatarIcon_Citlali",
         "sideIconName": "UI_AvatarIcon_Side_Citlali",
         "qualityType": "QUALITY_ORANGE",
@@ -2162,7 +2162,7 @@
         ]
     },
     "10000109": {
-        "nameTextMapHash": 3784387538,
+        "nameTextMapHash": 3784387026,
         "iconName": "UI_AvatarIcon_Mizuki",
         "sideIconName": "UI_AvatarIcon_Side_Mizuki",
         "qualityType": "QUALITY_ORANGE",
@@ -2182,7 +2182,7 @@
         ]
     },
     "10000110": {
-        "nameTextMapHash": 3120492514,
+        "nameTextMapHash": 3120492002,
         "iconName": "UI_AvatarIcon_Iansan",
         "sideIconName": "UI_AvatarIcon_Side_Iansan",
         "qualityType": "QUALITY_PURPLE",
@@ -2202,7 +2202,7 @@
         ]
     },
     "10000111": {
-        "nameTextMapHash": 283438874,
+        "nameTextMapHash": 283438362,
         "iconName": "UI_AvatarIcon_Varesa",
         "sideIconName": "UI_AvatarIcon_Side_Varesa",
         "qualityType": "QUALITY_ORANGE",
@@ -2242,7 +2242,7 @@
         ]
     },
     "10000113": {
-        "nameTextMapHash": 3398665018,
+        "nameTextMapHash": 3398664506,
         "iconName": "UI_AvatarIcon_Ifa",
         "sideIconName": "UI_AvatarIcon_Side_Ifa",
         "qualityType": "QUALITY_PURPLE",
@@ -2262,7 +2262,7 @@
         ]
     },
     "10000114": {
-        "nameTextMapHash": 123650890,
+        "nameTextMapHash": 123650378,
         "iconName": "UI_AvatarIcon_SkirkNew",
         "sideIconName": "UI_AvatarIcon_Side_SkirkNew",
         "qualityType": "QUALITY_ORANGE",
@@ -2282,7 +2282,7 @@
         ]
     },
     "10000115": {
-        "nameTextMapHash": 2332664426,
+        "nameTextMapHash": 2332663914,
         "iconName": "UI_AvatarIcon_Dahlia",
         "sideIconName": "UI_AvatarIcon_Side_Dahlia",
         "qualityType": "QUALITY_PURPLE",
@@ -2344,7 +2344,7 @@
         "talents": []
     },
     "10000119": {
-        "nameTextMapHash": 1776874018,
+        "nameTextMapHash": 1776873506,
         "iconName": "UI_AvatarIcon_Lauma",
         "sideIconName": "UI_AvatarIcon_Side_Lauma",
         "qualityType": "QUALITY_ORANGE",
@@ -2364,7 +2364,7 @@
         ]
     },
     "10000120": {
-        "nameTextMapHash": 1804674810,
+        "nameTextMapHash": 1804674298,
         "iconName": "UI_AvatarIcon_Flins",
         "sideIconName": "UI_AvatarIcon_Side_Flins",
         "qualityType": "QUALITY_ORANGE",
@@ -2384,7 +2384,7 @@
         ]
     },
     "10000121": {
-        "nameTextMapHash": 3887688410,
+        "nameTextMapHash": 3887687898,
         "iconName": "UI_AvatarIcon_Aino",
         "sideIconName": "UI_AvatarIcon_Side_Aino",
         "qualityType": "QUALITY_PURPLE",
@@ -2404,7 +2404,7 @@
         ]
     },
     "10000122": {
-        "nameTextMapHash": 2745786202,
+        "nameTextMapHash": 2745785690,
         "iconName": "UI_AvatarIcon_Nefer",
         "sideIconName": "UI_AvatarIcon_Side_Nefer",
         "qualityType": "QUALITY_ORANGE",
@@ -2444,7 +2444,7 @@
         ]
     },
     "10000124": {
-        "nameTextMapHash": 1438964522,
+        "nameTextMapHash": 1438964010,
         "iconName": "UI_AvatarIcon_Jahoda",
         "sideIconName": "UI_AvatarIcon_Side_Jahoda",
         "qualityType": "QUALITY_PURPLE",
@@ -2464,7 +2464,7 @@
         ]
     },
     "10000125": {
-        "nameTextMapHash": 1888371618,
+        "nameTextMapHash": 1888371106,
         "iconName": "UI_AvatarIcon_Columbina",
         "sideIconName": "UI_AvatarIcon_Side_Columbina",
         "qualityType": "QUALITY_ORANGE",
@@ -2484,7 +2484,7 @@
         ]
     },
     "10000126": {
-        "nameTextMapHash": 937533090,
+        "nameTextMapHash": 937532578,
         "iconName": "UI_AvatarIcon_Zibai",
         "sideIconName": "UI_AvatarIcon_Side_Zibai",
         "qualityType": "QUALITY_ORANGE",
@@ -2504,7 +2504,7 @@
         ]
     },
     "10000127": {
-        "nameTextMapHash": 102656986,
+        "nameTextMapHash": 102656474,
         "iconName": "UI_AvatarIcon_Illuga",
         "sideIconName": "UI_AvatarIcon_Side_Illuga",
         "qualityType": "QUALITY_PURPLE",
@@ -2543,8 +2543,28 @@
             1286
         ]
     },
+    "10000130": {
+        "nameTextMapHash": 1961019898,
+        "iconName": "UI_AvatarIcon_Linnea",
+        "sideIconName": "UI_AvatarIcon_Side_Linnea",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Rock",
+        "skills": [
+            11301,
+            11302,
+            11305
+        ],
+        "talents": [
+            1301,
+            1302,
+            1303,
+            1304,
+            1305,
+            1306
+        ]
+    },
     "10000901": {
-        "nameTextMapHash": 3293134650,
+        "nameTextMapHash": 3293134138,
         "iconName": "UI_AvatarIcon_Mavuika",
         "sideIconName": "UI_AvatarIcon_Side_Mavuika",
         "qualityType": "QUALITY_ORANGE",
@@ -2564,7 +2584,7 @@
         ]
     },
     "10000902": {
-        "nameTextMapHash": 853394138,
+        "nameTextMapHash": 853393626,
         "iconName": "UI_AvatarIcon_Hutao",
         "sideIconName": "UI_AvatarIcon_Side_Hutao",
         "qualityType": "QUALITY_ORANGE",
@@ -2624,7 +2644,7 @@
         ]
     },
     "10000998": {
-        "nameTextMapHash": 88677158,
+        "nameTextMapHash": 88676646,
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",

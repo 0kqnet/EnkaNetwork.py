@@ -6,7 +6,7 @@
         "rankLevel": 1
     },
     "11201": {
-        "nameTextMapHash": 2125206395,
+        "nameTextMapHash": 2125205883,
         "icon": "UI_EquipIcon_Sword_Silver",
         "awakenIcon": "UI_EquipIcon_Sword_Silver_Awaken",
         "rankLevel": 2
@@ -18,31 +18,31 @@
         "rankLevel": 3
     },
     "11302": {
-        "nameTextMapHash": 1608953539,
+        "nameTextMapHash": 1608953027,
         "icon": "UI_EquipIcon_Sword_Dawn",
         "awakenIcon": "UI_EquipIcon_Sword_Dawn_Awaken",
         "rankLevel": 3
     },
     "11303": {
-        "nameTextMapHash": 3673792067,
+        "nameTextMapHash": 3673791555,
         "icon": "UI_EquipIcon_Sword_Traveler",
         "awakenIcon": "UI_EquipIcon_Sword_Traveler_Awaken",
         "rankLevel": 3
     },
     "11304": {
-        "nameTextMapHash": 160493219,
+        "nameTextMapHash": 160492707,
         "icon": "UI_EquipIcon_Sword_Darker",
         "awakenIcon": "UI_EquipIcon_Sword_Darker_Awaken",
         "rankLevel": 3
     },
     "11305": {
-        "nameTextMapHash": 3421967235,
+        "nameTextMapHash": 3421966723,
         "icon": "UI_EquipIcon_Sword_Sashimi",
         "awakenIcon": "UI_EquipIcon_Sword_Sashimi_Awaken",
         "rankLevel": 3
     },
     "11306": {
-        "nameTextMapHash": 1388004931,
+        "nameTextMapHash": 1388004419,
         "icon": "UI_EquipIcon_Sword_Mitsurugi",
         "awakenIcon": "UI_EquipIcon_Sword_Mitsurugi_Awaken",
         "rankLevel": 3
@@ -72,7 +72,7 @@
         "rankLevel": 4
     },
     "11405": {
-        "nameTextMapHash": 1321135667,
+        "nameTextMapHash": 1321135155,
         "icon": "UI_EquipIcon_Sword_Rockkiller",
         "awakenIcon": "UI_EquipIcon_Sword_Rockkiller_Awaken",
         "rankLevel": 4
@@ -84,7 +84,7 @@
         "rankLevel": 4
     },
     "11407": {
-        "nameTextMapHash": 4103022435,
+        "nameTextMapHash": 4103021923,
         "icon": "UI_EquipIcon_Sword_Exotic",
         "awakenIcon": "UI_EquipIcon_Sword_Exotic_Awaken",
         "rankLevel": 4
@@ -96,7 +96,7 @@
         "rankLevel": 4
     },
     "11409": {
-        "nameTextMapHash": 3796905611,
+        "nameTextMapHash": 3796905099,
         "icon": "UI_EquipIcon_Sword_Bloodstained",
         "awakenIcon": "UI_EquipIcon_Sword_Bloodstained_Awaken",
         "rankLevel": 4
@@ -108,13 +108,13 @@
         "rankLevel": 4
     },
     "11411": {
-        "nameTextMapHash": 1135130229,
+        "nameTextMapHash": 1203074099,
         "icon": "UI_EquipIcon_Sword_Blunt",
         "awakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
         "rankLevel": 4
     },
     "11412": {
-        "nameTextMapHash": 1773425155,
+        "nameTextMapHash": 1773424643,
         "icon": "UI_EquipIcon_Sword_Psalmus",
         "awakenIcon": "UI_EquipIcon_Sword_Psalmus_Awaken",
         "rankLevel": 4
@@ -132,7 +132,7 @@
         "rankLevel": 4
     },
     "11415": {
-        "nameTextMapHash": 342097547,
+        "nameTextMapHash": 342097035,
         "icon": "UI_EquipIcon_Sword_Opus",
         "awakenIcon": "UI_EquipIcon_Sword_Opus_Awaken",
         "rankLevel": 4
@@ -156,7 +156,7 @@
         "rankLevel": 4
     },
     "11419": {
-        "nameTextMapHash": 1499745907,
+        "nameTextMapHash": 1499745395,
         "icon": "UI_EquipIcon_Sword_YoutouEnchanted",
         "awakenIcon": "UI_EquipIcon_Sword_YoutouEnchanted",
         "rankLevel": 4
@@ -168,7 +168,7 @@
         "rankLevel": 4
     },
     "11421": {
-        "nameTextMapHash": 3464027035,
+        "nameTextMapHash": 3464026523,
         "icon": "UI_EquipIcon_Sword_YoutouEnchanted",
         "awakenIcon": "UI_EquipIcon_Sword_YoutouEnchanted",
         "rankLevel": 4
@@ -198,19 +198,19 @@
         "rankLevel": 4
     },
     "11427": {
-        "nameTextMapHash": 1790067483,
+        "nameTextMapHash": 1790066971,
         "icon": "UI_EquipIcon_Sword_Mechanic",
         "awakenIcon": "UI_EquipIcon_Sword_Mechanic_Awaken",
         "rankLevel": 4
     },
     "11428": {
-        "nameTextMapHash": 3016493955,
+        "nameTextMapHash": 3016493443,
         "icon": "UI_EquipIcon_Sword_Purewill",
         "awakenIcon": "UI_EquipIcon_Sword_Purewill",
         "rankLevel": 4
     },
     "11429": {
-        "nameTextMapHash": 594850707,
+        "nameTextMapHash": 594850195,
         "icon": "UI_EquipIcon_Sword_Purewill",
         "awakenIcon": "UI_EquipIcon_Sword_Purewill",
         "rankLevel": 4
@@ -240,7 +240,7 @@
         "rankLevel": 4
     },
     "11434": {
-        "nameTextMapHash": 357888539,
+        "nameTextMapHash": 357888027,
         "icon": "UI_EquipIcon_Sword_Miekka",
         "awakenIcon": "UI_EquipIcon_Sword_Miekka_Awaken",
         "rankLevel": 4
@@ -258,7 +258,7 @@
         "rankLevel": 5
     },
     "11503": {
-        "nameTextMapHash": 2949448555,
+        "nameTextMapHash": 2949448043,
         "icon": "UI_EquipIcon_Sword_Widsith",
         "awakenIcon": "UI_EquipIcon_Sword_Widsith_Awaken",
         "rankLevel": 5
@@ -300,7 +300,7 @@
         "rankLevel": 5
     },
     "11510": {
-        "nameTextMapHash": 1600275315,
+        "nameTextMapHash": 1600274803,
         "icon": "UI_EquipIcon_Sword_Amenoma",
         "awakenIcon": "UI_EquipIcon_Sword_Amenoma_Awaken",
         "rankLevel": 5
@@ -318,7 +318,7 @@
         "rankLevel": 5
     },
     "11513": {
-        "nameTextMapHash": 1473399443,
+        "nameTextMapHash": 1473398931,
         "icon": "UI_EquipIcon_Sword_Regalis",
         "awakenIcon": "UI_EquipIcon_Sword_Regalis_Awaken",
         "rankLevel": 5
@@ -342,7 +342,7 @@
         "rankLevel": 5
     },
     "11517": {
-        "nameTextMapHash": 1479741275,
+        "nameTextMapHash": 1479740763,
         "icon": "UI_EquipIcon_Sword_OuterSword",
         "awakenIcon": "UI_EquipIcon_Sword_OuterSword_Awaken",
         "rankLevel": 5
@@ -354,25 +354,25 @@
         "rankLevel": 5
     },
     "11519": {
-        "nameTextMapHash": 1573692171,
+        "nameTextMapHash": 1573691659,
         "icon": "UI_EquipIcon_Sword_SilverwareSaw",
         "awakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
         "rankLevel": 5
     },
     "12101": {
-        "nameTextMapHash": 2666951267,
+        "nameTextMapHash": 2666950755,
         "icon": "UI_EquipIcon_Claymore_Aniki",
         "awakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
         "rankLevel": 1
     },
     "12201": {
-        "nameTextMapHash": 1182966603,
+        "nameTextMapHash": 1182966091,
         "icon": "UI_EquipIcon_Claymore_Oyaji",
         "awakenIcon": "UI_EquipIcon_Claymore_Oyaji_Awaken",
         "rankLevel": 2
     },
     "12301": {
-        "nameTextMapHash": 1479961579,
+        "nameTextMapHash": 1479961067,
         "icon": "UI_EquipIcon_Claymore_Glaive",
         "awakenIcon": "UI_EquipIcon_Claymore_Glaive_Awaken",
         "rankLevel": 3
@@ -396,19 +396,19 @@
         "rankLevel": 3
     },
     "12305": {
-        "nameTextMapHash": 3097441915,
+        "nameTextMapHash": 3097441403,
         "icon": "UI_EquipIcon_Claymore_Reasoning",
         "awakenIcon": "UI_EquipIcon_Claymore_Reasoning_Awaken",
         "rankLevel": 3
     },
     "12306": {
-        "nameTextMapHash": 2614170427,
+        "nameTextMapHash": 2614169915,
         "icon": "UI_EquipIcon_Claymore_Mitsurugi",
         "awakenIcon": "UI_EquipIcon_Claymore_Mitsurugi_Awaken",
         "rankLevel": 3
     },
     "12401": {
-        "nameTextMapHash": 735056795,
+        "nameTextMapHash": 735056283,
         "icon": "UI_EquipIcon_Claymore_Zephyrus",
         "awakenIcon": "UI_EquipIcon_Claymore_Zephyrus_Awaken",
         "rankLevel": 4
@@ -444,7 +444,7 @@
         "rankLevel": 4
     },
     "12407": {
-        "nameTextMapHash": 680510411,
+        "nameTextMapHash": 680509899,
         "icon": "UI_EquipIcon_Claymore_Exotic",
         "awakenIcon": "UI_EquipIcon_Claymore_Exotic_Awaken",
         "rankLevel": 4
@@ -468,7 +468,7 @@
         "rankLevel": 4
     },
     "12411": {
-        "nameTextMapHash": 2753539619,
+        "nameTextMapHash": 2753539107,
         "icon": "UI_EquipIcon_Claymore_Dragonfell",
         "awakenIcon": "UI_EquipIcon_Claymore_Dragonfell_Awaken",
         "rankLevel": 4
@@ -486,25 +486,25 @@
         "rankLevel": 4
     },
     "12415": {
-        "nameTextMapHash": 3073454867,
+        "nameTextMapHash": 3073454355,
         "icon": "UI_EquipIcon_Claymore_Pleroma",
         "awakenIcon": "UI_EquipIcon_Claymore_Pleroma_Awaken",
         "rankLevel": 4
     },
     "12416": {
-        "nameTextMapHash": 2359799475,
+        "nameTextMapHash": 2359798963,
         "icon": "UI_EquipIcon_Claymore_Maria",
         "awakenIcon": "UI_EquipIcon_Claymore_Maria_Awaken",
         "rankLevel": 4
     },
     "12417": {
-        "nameTextMapHash": 902184579,
+        "nameTextMapHash": 902184067,
         "icon": "UI_EquipIcon_Claymore_Arakalari",
         "awakenIcon": "UI_EquipIcon_Claymore_Arakalari_Awaken",
         "rankLevel": 4
     },
     "12418": {
-        "nameTextMapHash": 1200948859,
+        "nameTextMapHash": 1200948347,
         "icon": "UI_EquipIcon_Claymore_Fleurfair",
         "awakenIcon": "UI_EquipIcon_Claymore_Fleurfair_Awaken",
         "rankLevel": 4
@@ -516,13 +516,13 @@
         "rankLevel": 4
     },
     "12425": {
-        "nameTextMapHash": 2077869763,
+        "nameTextMapHash": 2077869251,
         "icon": "UI_EquipIcon_Claymore_Vorpal",
         "awakenIcon": "UI_EquipIcon_Claymore_Vorpal_Awaken",
         "rankLevel": 4
     },
     "12426": {
-        "nameTextMapHash": 933442195,
+        "nameTextMapHash": 933441683,
         "icon": "UI_EquipIcon_Claymore_Champion",
         "awakenIcon": "UI_EquipIcon_Claymore_Champion_Awaken",
         "rankLevel": 4
@@ -540,13 +540,13 @@
         "rankLevel": 4
     },
     "12431": {
-        "nameTextMapHash": 2481464075,
+        "nameTextMapHash": 2481463563,
         "icon": "UI_EquipIcon_Claymore_Isikhulu",
         "awakenIcon": "UI_EquipIcon_Claymore_Isikhulu_Awaken",
         "rankLevel": 4
     },
     "12432": {
-        "nameTextMapHash": 3573591875,
+        "nameTextMapHash": 3573591363,
         "icon": "UI_EquipIcon_Claymore_Polilith",
         "awakenIcon": "UI_EquipIcon_Claymore_Polilith_Awaken",
         "rankLevel": 4
@@ -558,19 +558,19 @@
         "rankLevel": 4
     },
     "12501": {
-        "nameTextMapHash": 1089950259,
+        "nameTextMapHash": 1089949747,
         "icon": "UI_EquipIcon_Claymore_Dvalin",
         "awakenIcon": "UI_EquipIcon_Claymore_Dvalin_Awaken",
         "rankLevel": 5
     },
     "12502": {
-        "nameTextMapHash": 3995710363,
+        "nameTextMapHash": 3995709851,
         "icon": "UI_EquipIcon_Claymore_Wolfmound",
         "awakenIcon": "UI_EquipIcon_Claymore_Wolfmound_Awaken",
         "rankLevel": 5
     },
     "12503": {
-        "nameTextMapHash": 1075647299,
+        "nameTextMapHash": 1075646787,
         "icon": "UI_EquipIcon_Claymore_Widsith",
         "awakenIcon": "UI_EquipIcon_Claymore_Widsith_Awaken",
         "rankLevel": 5
@@ -594,7 +594,7 @@
         "rankLevel": 5
     },
     "12508": {
-        "nameTextMapHash": 759708203,
+        "nameTextMapHash": 759707691,
         "icon": "UI_EquipIcon_Claymore_Aniki",
         "awakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
         "rankLevel": 5
@@ -624,7 +624,7 @@
         "rankLevel": 5
     },
     "12513": {
-        "nameTextMapHash": 1183454019,
+        "nameTextMapHash": 1183453507,
         "icon": "UI_EquipIcon_Claymore_EmeraldSword",
         "awakenIcon": "UI_EquipIcon_Claymore_EmeraldSword_Awaken",
         "rankLevel": 5
@@ -660,7 +660,7 @@
         "rankLevel": 3
     },
     "13302": {
-        "nameTextMapHash": 618786571,
+        "nameTextMapHash": 618786059,
         "icon": "UI_EquipIcon_Pole_Halberd",
         "awakenIcon": "UI_EquipIcon_Pole_Halberd_Awaken",
         "rankLevel": 3
@@ -672,13 +672,13 @@
         "rankLevel": 3
     },
     "13304": {
-        "nameTextMapHash": 500612819,
+        "nameTextMapHash": 500612307,
         "icon": "UI_EquipIcon_Pole_Flagpole",
         "awakenIcon": "UI_EquipIcon_Pole_Flagpole_Awaken",
         "rankLevel": 3
     },
     "13401": {
-        "nameTextMapHash": 2664629131,
+        "nameTextMapHash": 2664628619,
         "icon": "UI_EquipIcon_Pole_Stardust",
         "awakenIcon": "UI_EquipIcon_Pole_Stardust_Awaken",
         "rankLevel": 4
@@ -690,7 +690,7 @@
         "rankLevel": 4
     },
     "13403": {
-        "nameTextMapHash": 578575283,
+        "nameTextMapHash": 578574771,
         "icon": "UI_EquipIcon_Pole_Exotic",
         "awakenIcon": "UI_EquipIcon_Pole_Exotic_Awaken",
         "rankLevel": 4
@@ -702,7 +702,7 @@
         "rankLevel": 4
     },
     "13405": {
-        "nameTextMapHash": 4049410651,
+        "nameTextMapHash": 4049410139,
         "icon": "UI_EquipIcon_Pole_Gladiator",
         "awakenIcon": "UI_EquipIcon_Pole_Gladiator_Awaken",
         "rankLevel": 4
@@ -720,7 +720,7 @@
         "rankLevel": 4
     },
     "13408": {
-        "nameTextMapHash": 2935286715,
+        "nameTextMapHash": 2935286203,
         "icon": "UI_EquipIcon_Pole_Theocrat",
         "awakenIcon": "UI_EquipIcon_Pole_Theocrat_Awaken",
         "rankLevel": 4
@@ -732,25 +732,25 @@
         "rankLevel": 4
     },
     "13414": {
-        "nameTextMapHash": 2491797315,
+        "nameTextMapHash": 2491796803,
         "icon": "UI_EquipIcon_Pole_Bakufu",
         "awakenIcon": "UI_EquipIcon_Pole_Bakufu_Awaken",
         "rankLevel": 4
     },
     "13415": {
-        "nameTextMapHash": 1148024603,
+        "nameTextMapHash": 1148024091,
         "icon": "UI_EquipIcon_Pole_Mori",
         "awakenIcon": "UI_EquipIcon_Pole_Mori_Awaken",
         "rankLevel": 4
     },
     "13416": {
-        "nameTextMapHash": 4122509083,
+        "nameTextMapHash": 4122508571,
         "icon": "UI_EquipIcon_Pole_Maria",
         "awakenIcon": "UI_EquipIcon_Pole_Maria_Awaken",
         "rankLevel": 4
     },
     "13417": {
-        "nameTextMapHash": 452357939,
+        "nameTextMapHash": 452357427,
         "icon": "UI_EquipIcon_Pole_Arakalari",
         "awakenIcon": "UI_EquipIcon_Pole_Arakalari_Awaken",
         "rankLevel": 4
@@ -762,7 +762,7 @@
         "rankLevel": 4
     },
     "13424": {
-        "nameTextMapHash": 449192923,
+        "nameTextMapHash": 449192411,
         "icon": "UI_EquipIcon_Pole_Shanty",
         "awakenIcon": "UI_EquipIcon_Pole_Shanty_Awaken",
         "rankLevel": 4
@@ -780,13 +780,13 @@
         "rankLevel": 4
     },
     "13427": {
-        "nameTextMapHash": 882305891,
+        "nameTextMapHash": 882305379,
         "icon": "UI_EquipIcon_Pole_Mechanic",
         "awakenIcon": "UI_EquipIcon_Pole_Mechanic_Awaken",
         "rankLevel": 4
     },
     "13430": {
-        "nameTextMapHash": 1965515667,
+        "nameTextMapHash": 1965515155,
         "icon": "UI_EquipIcon_Pole_Umpakati",
         "awakenIcon": "UI_EquipIcon_Pole_Umpakati_Awaken",
         "rankLevel": 4
@@ -798,7 +798,7 @@
         "rankLevel": 4
     },
     "13432": {
-        "nameTextMapHash": 486513155,
+        "nameTextMapHash": 486512643,
         "icon": "UI_EquipIcon_Pole_Aoandon",
         "awakenIcon": "UI_EquipIcon_Pole_Aoandon_Awaken",
         "rankLevel": 4
@@ -816,13 +816,13 @@
         "rankLevel": 4
     },
     "13501": {
-        "nameTextMapHash": 3235324891,
+        "nameTextMapHash": 3235324379,
         "icon": "UI_EquipIcon_Pole_Homa",
         "awakenIcon": "UI_EquipIcon_Pole_Homa_Awaken",
         "rankLevel": 5
     },
     "13502": {
-        "nameTextMapHash": 4158505619,
+        "nameTextMapHash": 4158505107,
         "icon": "UI_EquipIcon_Pole_Dvalin",
         "awakenIcon": "UI_EquipIcon_Pole_Dvalin_Awaken",
         "rankLevel": 5
@@ -846,7 +846,7 @@
         "rankLevel": 5
     },
     "13506": {
-        "nameTextMapHash": 3532343811,
+        "nameTextMapHash": 3532343299,
         "icon": "UI_EquipIcon_Pole_Gewalt",
         "awakenIcon": "UI_EquipIcon_Pole_Gewalt_Awaken",
         "rankLevel": 5
@@ -870,7 +870,7 @@
         "rankLevel": 5
     },
     "13512": {
-        "nameTextMapHash": 2944936683,
+        "nameTextMapHash": 2944936171,
         "icon": "UI_EquipIcon_Pole_BloodMoon",
         "awakenIcon": "UI_EquipIcon_Pole_BloodMoon_Awaken",
         "rankLevel": 5
@@ -918,7 +918,7 @@
         "rankLevel": 3
     },
     "14302": {
-        "nameTextMapHash": 3500935003,
+        "nameTextMapHash": 3500934491,
         "icon": "UI_EquipIcon_Catalyst_Pulpfic",
         "awakenIcon": "UI_EquipIcon_Catalyst_Pulpfic_Awaken",
         "rankLevel": 3
@@ -936,13 +936,13 @@
         "rankLevel": 3
     },
     "14305": {
-        "nameTextMapHash": 3719372715,
+        "nameTextMapHash": 3719372203,
         "icon": "UI_EquipIcon_Catalyst_Phoney",
         "awakenIcon": "UI_EquipIcon_Catalyst_Phoney_Awaken",
         "rankLevel": 3
     },
     "14306": {
-        "nameTextMapHash": 302691299,
+        "nameTextMapHash": 302690787,
         "icon": "UI_EquipIcon_Catalyst_Amber",
         "awakenIcon": "UI_EquipIcon_Catalyst_Amber_Awaken",
         "rankLevel": 3
@@ -960,19 +960,19 @@
         "rankLevel": 4
     },
     "14403": {
-        "nameTextMapHash": 2195665683,
+        "nameTextMapHash": 2195665171,
         "icon": "UI_EquipIcon_Catalyst_Fossil",
         "awakenIcon": "UI_EquipIcon_Catalyst_Fossil_Awaken",
         "rankLevel": 4
     },
     "14404": {
-        "nameTextMapHash": 3827789435,
+        "nameTextMapHash": 3827788923,
         "icon": "UI_EquipIcon_Catalyst_Theocrat",
         "awakenIcon": "UI_EquipIcon_Catalyst_Theocrat_Awaken",
         "rankLevel": 4
     },
     "14405": {
-        "nameTextMapHash": 37147251,
+        "nameTextMapHash": 37146739,
         "icon": "UI_EquipIcon_Catalyst_Resurrection",
         "awakenIcon": "UI_EquipIcon_Catalyst_Resurrection_Awaken",
         "rankLevel": 4
@@ -990,13 +990,13 @@
         "rankLevel": 4
     },
     "14408": {
-        "nameTextMapHash": 3273999011,
+        "nameTextMapHash": 3273998499,
         "icon": "UI_EquipIcon_Catalyst_Blackrock",
         "awakenIcon": "UI_EquipIcon_Catalyst_Blackrock_Awaken",
         "rankLevel": 4
     },
     "14409": {
-        "nameTextMapHash": 3156385731,
+        "nameTextMapHash": 3156385219,
         "icon": "UI_EquipIcon_Catalyst_Truelens",
         "awakenIcon": "UI_EquipIcon_Catalyst_Truelens_Awaken",
         "rankLevel": 4
@@ -1020,7 +1020,7 @@
         "rankLevel": 4
     },
     "14413": {
-        "nameTextMapHash": 3456986819,
+        "nameTextMapHash": 3456986307,
         "icon": "UI_EquipIcon_Catalyst_Ludiharpastum",
         "awakenIcon": "UI_EquipIcon_Catalyst_Ludiharpastum_Awaken",
         "rankLevel": 4
@@ -1032,13 +1032,13 @@
         "rankLevel": 4
     },
     "14415": {
-        "nameTextMapHash": 2539208459,
+        "nameTextMapHash": 2539207947,
         "icon": "UI_EquipIcon_Catalyst_Jyanome",
         "awakenIcon": "UI_EquipIcon_Catalyst_Jyanome_Awaken",
         "rankLevel": 4
     },
     "14416": {
-        "nameTextMapHash": 426363739,
+        "nameTextMapHash": 426363227,
         "icon": "UI_EquipIcon_Catalyst_Pleroma",
         "awakenIcon": "UI_EquipIcon_Catalyst_Pleroma_Awaken",
         "rankLevel": 4
@@ -1050,7 +1050,7 @@
         "rankLevel": 4
     },
     "14424": {
-        "nameTextMapHash": 2275710883,
+        "nameTextMapHash": 2275710371,
         "icon": "UI_EquipIcon_Catalyst_Yue",
         "awakenIcon": "UI_EquipIcon_Catalyst_Yue_Awaken",
         "rankLevel": 4
@@ -1098,7 +1098,7 @@
         "rankLevel": 4
     },
     "14434": {
-        "nameTextMapHash": 3497155131,
+        "nameTextMapHash": 3497154619,
         "icon": "UI_EquipIcon_Catalyst_Ziedas",
         "awakenIcon": "UI_EquipIcon_Catalyst_Ziedas_Awaken",
         "rankLevel": 4
@@ -1110,19 +1110,19 @@
         "rankLevel": 5
     },
     "14502": {
-        "nameTextMapHash": 1455107995,
+        "nameTextMapHash": 1455107483,
         "icon": "UI_EquipIcon_Catalyst_Fourwinds",
         "awakenIcon": "UI_EquipIcon_Catalyst_Fourwinds_Awaken",
         "rankLevel": 5
     },
     "14503": {
-        "nameTextMapHash": 452043283,
+        "nameTextMapHash": 452042771,
         "icon": "UI_EquipIcon_Catalyst_Apprentice",
         "awakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
         "rankLevel": 5
     },
     "14504": {
-        "nameTextMapHash": 693354267,
+        "nameTextMapHash": 693353755,
         "icon": "UI_EquipIcon_Catalyst_Kunwu",
         "awakenIcon": "UI_EquipIcon_Catalyst_Kunwu_Awaken",
         "rankLevel": 5
@@ -1134,25 +1134,25 @@
         "rankLevel": 5
     },
     "14506": {
-        "nameTextMapHash": 1890163363,
+        "nameTextMapHash": 1890162851,
         "icon": "UI_EquipIcon_Catalyst_Kaleido",
         "awakenIcon": "UI_EquipIcon_Catalyst_Kaleido_Awaken",
         "rankLevel": 5
     },
     "14508": {
-        "nameTextMapHash": 4123950051,
+        "nameTextMapHash": 4123949539,
         "icon": "UI_EquipIcon_Catalyst_Apprentice",
         "awakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
         "rankLevel": 5
     },
     "14509": {
-        "nameTextMapHash": 310247243,
+        "nameTextMapHash": 310246731,
         "icon": "UI_EquipIcon_Catalyst_Narukami",
         "awakenIcon": "UI_EquipIcon_Catalyst_Narukami_Awaken",
         "rankLevel": 5
     },
     "14511": {
-        "nameTextMapHash": 1201790667,
+        "nameTextMapHash": 1201790155,
         "icon": "UI_EquipIcon_Catalyst_Ayus",
         "awakenIcon": "UI_EquipIcon_Catalyst_Ayus_Awaken",
         "rankLevel": 5
@@ -1164,13 +1164,13 @@
         "rankLevel": 5
     },
     "14513": {
-        "nameTextMapHash": 724881171,
+        "nameTextMapHash": 724880659,
         "icon": "UI_EquipIcon_Catalyst_Wheatley",
         "awakenIcon": "UI_EquipIcon_Catalyst_Wheatley_Awaken",
         "rankLevel": 5
     },
     "14514": {
-        "nameTextMapHash": 4176923379,
+        "nameTextMapHash": 4176922867,
         "icon": "UI_EquipIcon_Catalyst_Iudex",
         "awakenIcon": "UI_EquipIcon_Catalyst_Iudex_Awaken",
         "rankLevel": 5
@@ -1194,7 +1194,7 @@
         "rankLevel": 5
     },
     "14518": {
-        "nameTextMapHash": 3790622667,
+        "nameTextMapHash": 3790622155,
         "icon": "UI_EquipIcon_Catalyst_SakuraFan",
         "awakenIcon": "UI_EquipIcon_Catalyst_SakuraFan_Awaken",
         "rankLevel": 5
@@ -1218,7 +1218,7 @@
         "rankLevel": 5
     },
     "14522": {
-        "nameTextMapHash": 1441327747,
+        "nameTextMapHash": 1441327235,
         "icon": "UI_EquipIcon_Catalyst_Brisingamen",
         "awakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
         "rankLevel": 5
@@ -1230,7 +1230,7 @@
         "rankLevel": 1
     },
     "15201": {
-        "nameTextMapHash": 2340970067,
+        "nameTextMapHash": 2340969555,
         "icon": "UI_EquipIcon_Bow_Old",
         "awakenIcon": "UI_EquipIcon_Bow_Old_Awaken",
         "rankLevel": 2
@@ -1254,19 +1254,19 @@
         "rankLevel": 3
     },
     "15304": {
-        "nameTextMapHash": 1021898539,
+        "nameTextMapHash": 1021898027,
         "icon": "UI_EquipIcon_Bow_Sling",
         "awakenIcon": "UI_EquipIcon_Bow_Sling_Awaken",
         "rankLevel": 3
     },
     "15305": {
-        "nameTextMapHash": 4139294531,
+        "nameTextMapHash": 4139294019,
         "icon": "UI_EquipIcon_Bow_Msg",
         "awakenIcon": "UI_EquipIcon_Bow_Msg_Awaken",
         "rankLevel": 3
     },
     "15306": {
-        "nameTextMapHash": 2242027395,
+        "nameTextMapHash": 2242026883,
         "icon": "UI_EquipIcon_Bow_Hardwood",
         "awakenIcon": "UI_EquipIcon_Bow_Hardwood_Awaken",
         "rankLevel": 3
@@ -1278,19 +1278,19 @@
         "rankLevel": 4
     },
     "15402": {
-        "nameTextMapHash": 2556914683,
+        "nameTextMapHash": 2556914171,
         "icon": "UI_EquipIcon_Bow_Troupe",
         "awakenIcon": "UI_EquipIcon_Bow_Troupe_Awaken",
         "rankLevel": 4
     },
     "15403": {
-        "nameTextMapHash": 2400012995,
+        "nameTextMapHash": 2400012483,
         "icon": "UI_EquipIcon_Bow_Fossil",
         "awakenIcon": "UI_EquipIcon_Bow_Fossil_Awaken",
         "rankLevel": 4
     },
     "15404": {
-        "nameTextMapHash": 2832648187,
+        "nameTextMapHash": 2832647675,
         "icon": "UI_EquipIcon_Bow_Theocrat",
         "awakenIcon": "UI_EquipIcon_Bow_Theocrat_Awaken",
         "rankLevel": 4
@@ -1302,7 +1302,7 @@
         "rankLevel": 4
     },
     "15406": {
-        "nameTextMapHash": 3625393819,
+        "nameTextMapHash": 3625393307,
         "icon": "UI_EquipIcon_Bow_Proto",
         "awakenIcon": "UI_EquipIcon_Bow_Proto_Awaken",
         "rankLevel": 4
@@ -1314,13 +1314,13 @@
         "rankLevel": 4
     },
     "15408": {
-        "nameTextMapHash": 3447737235,
+        "nameTextMapHash": 3447736723,
         "icon": "UI_EquipIcon_Bow_Blackrock",
         "awakenIcon": "UI_EquipIcon_Bow_Blackrock_Awaken",
         "rankLevel": 4
     },
     "15409": {
-        "nameTextMapHash": 3439749859,
+        "nameTextMapHash": 3439749347,
         "icon": "UI_EquipIcon_Bow_Viridescent",
         "awakenIcon": "UI_EquipIcon_Bow_Viridescent_Awaken",
         "rankLevel": 4
@@ -1338,7 +1338,7 @@
         "rankLevel": 4
     },
     "15412": {
-        "nameTextMapHash": 3949653579,
+        "nameTextMapHash": 3949653067,
         "icon": "UI_EquipIcon_Bow_Nachtblind",
         "awakenIcon": "UI_EquipIcon_Bow_Nachtblind_Awaken",
         "rankLevel": 4
@@ -1368,7 +1368,7 @@
         "rankLevel": 4
     },
     "15417": {
-        "nameTextMapHash": 3176599083,
+        "nameTextMapHash": 3176598571,
         "icon": "UI_EquipIcon_Bow_Arakalari",
         "awakenIcon": "UI_EquipIcon_Bow_Arakalari_Awaken",
         "rankLevel": 4
@@ -1380,7 +1380,7 @@
         "rankLevel": 4
     },
     "15419": {
-        "nameTextMapHash": 316078811,
+        "nameTextMapHash": 316078299,
         "icon": "UI_EquipIcon_Bow_Ibis",
         "awakenIcon": "UI_EquipIcon_Bow_Ibis_Awaken",
         "rankLevel": 4
@@ -1398,13 +1398,13 @@
         "rankLevel": 4
     },
     "15426": {
-        "nameTextMapHash": 4038676067,
+        "nameTextMapHash": 4038675555,
         "icon": "UI_EquipIcon_Bow_Ultimatum",
         "awakenIcon": "UI_EquipIcon_Bow_Ultimatum_Awaken",
         "rankLevel": 4
     },
     "15427": {
-        "nameTextMapHash": 1055195035,
+        "nameTextMapHash": 1055194523,
         "icon": "UI_EquipIcon_Bow_Mechanic",
         "awakenIcon": "UI_EquipIcon_Bow_Mechanic_Awaken",
         "rankLevel": 4
@@ -1416,19 +1416,19 @@
         "rankLevel": 4
     },
     "15431": {
-        "nameTextMapHash": 565052971,
+        "nameTextMapHash": 565052459,
         "icon": "UI_EquipIcon_Bow_Isikhulu",
         "awakenIcon": "UI_EquipIcon_Bow_Isikhulu_Awaken",
         "rankLevel": 4
     },
     "15432": {
-        "nameTextMapHash": 2846112523,
+        "nameTextMapHash": 2846112011,
         "icon": "UI_EquipIcon_Bow_Stinger",
         "awakenIcon": "UI_EquipIcon_Bow_Stinger_Awaken",
         "rankLevel": 4
     },
     "15433": {
-        "nameTextMapHash": 3380505211,
+        "nameTextMapHash": 3380504699,
         "icon": "UI_EquipIcon_Bow_Ilmarinen",
         "awakenIcon": "UI_EquipIcon_Bow_Ilmarinen_Awaken",
         "rankLevel": 4
@@ -1452,19 +1452,19 @@
         "rankLevel": 5
     },
     "15503": {
-        "nameTextMapHash": 3112679155,
+        "nameTextMapHash": 3112678643,
         "icon": "UI_EquipIcon_Bow_Widsith",
         "awakenIcon": "UI_EquipIcon_Bow_Widsith_Awaken",
         "rankLevel": 5
     },
     "15504": {
-        "nameTextMapHash": 565329475,
+        "nameTextMapHash": 565328963,
         "icon": "UI_EquipIcon_Bow_Hunters",
         "awakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
         "rankLevel": 5
     },
     "15505": {
-        "nameTextMapHash": 1994081075,
+        "nameTextMapHash": 1994080563,
         "icon": "UI_EquipIcon_Bow_Hunters",
         "awakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
         "rankLevel": 5
@@ -1476,7 +1476,7 @@
         "rankLevel": 5
     },
     "15507": {
-        "nameTextMapHash": 1901973075,
+        "nameTextMapHash": 1901972563,
         "icon": "UI_EquipIcon_Bow_Worldbane",
         "awakenIcon": "UI_EquipIcon_Bow_Worldbane_Awaken",
         "rankLevel": 5
@@ -1488,7 +1488,7 @@
         "rankLevel": 5
     },
     "15509": {
-        "nameTextMapHash": 2918525947,
+        "nameTextMapHash": 2918525435,
         "icon": "UI_EquipIcon_Bow_Narukami",
         "awakenIcon": "UI_EquipIcon_Bow_Narukami_Awaken",
         "rankLevel": 5
@@ -1506,21 +1506,27 @@
         "rankLevel": 5
     },
     "15513": {
-        "nameTextMapHash": 1257396043,
+        "nameTextMapHash": 1257395531,
         "icon": "UI_EquipIcon_Bow_Arcdange",
         "awakenIcon": "UI_EquipIcon_Bow_Arcdange_Awaken",
         "rankLevel": 5
     },
     "15514": {
-        "nameTextMapHash": 1363661611,
+        "nameTextMapHash": 1363661099,
         "icon": "UI_EquipIcon_Bow_Qoyllorsnova",
         "awakenIcon": "UI_EquipIcon_Bow_Qoyllorsnova_Awaken",
         "rankLevel": 5
     },
     "15515": {
-        "nameTextMapHash": 1235521427,
+        "nameTextMapHash": 1235520915,
         "icon": "UI_EquipIcon_Bow_Arianna",
         "awakenIcon": "UI_EquipIcon_Bow_Arianna_Awaken",
+        "rankLevel": 5
+    },
+    "15516": {
+        "nameTextMapHash": 2250670211,
+        "icon": "UI_EquipIcon_Bow_Alkonost",
+        "awakenIcon": "UI_EquipIcon_Bow_Alkonost_Awaken",
         "rankLevel": 5
     },
     "20001": {
@@ -1530,13 +1536,13 @@
         "rankLevel": 5
     },
     "10002": {
-        "nameTextMapHash": 2719832059,
+        "nameTextMapHash": 2719831547,
         "icon": "UI_EquipIcon_Sword_Template",
         "awakenIcon": "UI_EquipIcon_Sword_Template_Awaken",
         "rankLevel": 1
     },
     "10003": {
-        "nameTextMapHash": 500987603,
+        "nameTextMapHash": 500987091,
         "icon": "UI_EquipIcon_Claymore_Template",
         "awakenIcon": "UI_EquipIcon_Claymore_Template_Awaken",
         "rankLevel": 1
@@ -1548,7 +1554,7 @@
         "rankLevel": 1
     },
     "10005": {
-        "nameTextMapHash": 2009975571,
+        "nameTextMapHash": 2009975059,
         "icon": "UI_EquipIcon_Catalyst_BookTemplate",
         "awakenIcon": "UI_EquipIcon_Catalyst_BookTemplate_Awaken",
         "rankLevel": 1
@@ -1560,13 +1566,13 @@
         "rankLevel": 1
     },
     "10008": {
-        "nameTextMapHash": 3762437019,
+        "nameTextMapHash": 3762436507,
         "icon": "UI_EquipIcon_Bow_Template",
         "awakenIcon": "UI_EquipIcon_Bow_Template_Awaken",
         "rankLevel": 1
     },
     "10009": {
-        "nameTextMapHash": 123009691,
+        "nameTextMapHash": 123009179,
         "icon": "UI_EquipIcon_Sword_Template",
         "awakenIcon": "UI_EquipIcon_Sword_Template_Awaken",
         "rankLevel": 1
